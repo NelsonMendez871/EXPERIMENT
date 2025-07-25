@@ -1,8 +1,13 @@
+// js/navbar.js
 document.addEventListener('DOMContentLoaded', function() {
     const placeholder = document.getElementById('navbar-placeholder');
     if (!placeholder) return;
+
+    // Detectar ruta base
+    const basePath = location.pathname.includes('/productos/') ? '../' : '';
+
     // Cargar el navbar
-    fetch('/ProyectoVersion3.0/components/navbar.html')
+    fetch(`${basePath}components/navbar.html`)
         .then(response => response.text())
         .then(data => {
             document.body.insertAdjacentHTML('afterbegin', data);
@@ -15,7 +20,6 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function initializeNavbar() {
-    // Menú hamburguesa (versión simplificada que será reemplazada por initializeMobileMenu)
     const mobileMenuButton = document.getElementById('mobile-menu-button');
     if (mobileMenuButton) {
         const icon = mobileMenuButton.querySelector('i');
@@ -37,12 +41,10 @@ function initializeMobileMenu() {
     if (!mobileMenuButton || !mobileMenu) return;
 
     mobileMenuButton.addEventListener('click', () => {
-        mobileMenu.classList.remove('-translate-x-full');
-        mobileMenu.classList.remove('hidden');
+        mobileMenu.classList.remove('-translate-x-full', 'hidden');
         if (menuOverlay) menuOverlay.classList.remove('hidden');
         document.body.style.overflow = 'hidden';
-        
-        // Cambiar ícono
+
         const icon = mobileMenuButton.querySelector('i');
         if (icon) {
             icon.classList.remove('fa-bars');
@@ -50,20 +52,14 @@ function initializeMobileMenu() {
         }
     });
 
-    if (closeMenuButton) {
-        closeMenuButton.addEventListener('click', closeMobileMenu);
-    }
-
-    if (menuOverlay) {
-        menuOverlay.addEventListener('click', closeMobileMenu);
-    }
+    if (closeMenuButton) closeMenuButton.addEventListener('click', closeMobileMenu);
+    if (menuOverlay) menuOverlay.addEventListener('click', closeMobileMenu);
 
     function closeMobileMenu() {
         mobileMenu.classList.add('-translate-x-full');
         if (menuOverlay) menuOverlay.classList.add('hidden');
         document.body.style.overflow = '';
-        
-        // Cambiar ícono
+
         const icon = mobileMenuButton.querySelector('i');
         if (icon) {
             icon.classList.remove('fa-times');
@@ -130,7 +126,6 @@ function addDynamicStyles() {
             display: none;
         }
         
-        /* Estilos para el menú móvil */
         .-translate-x-full {
             transform: translateX(-100%);
         }

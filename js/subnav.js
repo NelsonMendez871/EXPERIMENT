@@ -5,7 +5,10 @@ document.addEventListener('DOMContentLoaded', function() {
   const placeholder = document.getElementById('subnav-placeholder');
   if (!placeholder) return;
 
-  fetch('/ProyectoVersion3.0/components/subnav.html')
+  // Detectar si estamos dentro de /productos/
+  const basePath = location.pathname.includes('/productos/') ? '../' : '';
+
+  fetch(`${basePath}components/subnav.html`)
     .then(response => {
       if (!response.ok) throw new Error(`Error ${response.status}`);
       return response.text();

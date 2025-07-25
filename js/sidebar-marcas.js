@@ -1,11 +1,15 @@
+// js/sidebar-marcas.js
 document.addEventListener('DOMContentLoaded', function () {
-  fetch('/ProyectoVersion3.0/components/sidebar-marcas.html')
+  const placeholder = document.getElementById('sidebar-marcas-placeholder');
+  if (!placeholder) return;
+
+  // Detectar si estamos dentro de /productos/
+  const basePath = location.pathname.includes('/productos/') ? '../' : '';
+
+  fetch(`${basePath}components/sidebar-marcas.html`)
     .then(response => response.text())
     .then(data => {
-      const placeholder = document.getElementById('sidebar-marcas-placeholder');
-      if (placeholder) {
-        placeholder.innerHTML = data;
-      }
+      placeholder.innerHTML = data;
     })
     .catch(error => console.error('Error cargando el sidebar de marcas:', error));
 });

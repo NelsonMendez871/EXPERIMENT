@@ -1,6 +1,8 @@
 // js/breadcrumb.js
 document.addEventListener('DOMContentLoaded', function () {
-  fetch('/ProyectoVersion3.0/components/breadcrumb.html')
+  const basePath = location.pathname.includes('/productos/') ? '../' : '';
+
+  fetch(`${basePath}components/breadcrumb.html`)
     .then(response => response.text())
     .then(data => {
       const placeholder = document.getElementById('breadcrumb-placeholder');

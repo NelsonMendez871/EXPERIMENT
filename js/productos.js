@@ -1,7 +1,9 @@
+// js/productos.js
 document.addEventListener('DOMContentLoaded', () => {
+  const basePath = location.pathname.includes('/productos/') ? '../' : '';
   const productoKey = obtenerNombreProducto(); // p.ej. "C9200L-24P-4G-E"
 
-  fetch('/ProyectoVersion3.0/data/productos.json')
+  fetch(`${basePath}data/productos.json`)
     .then(res => res.json())
     .then(data => {
       const producto = data[productoKey];
@@ -10,10 +12,9 @@ document.addEventListener('DOMContentLoaded', () => {
         return;
       }
 
-      renderImagenes(producto.imagenes);
+      renderImagenes(producto.imagenes, basePath);
       renderEspecificaciones(producto.especificaciones);
       renderDetalles(producto.detalles);
-      // aquí puedes llamar más renderizadores para otros campos
     })
     .catch(err => console.error('Error cargando productos.json:', err));
 });
@@ -26,7 +27,7 @@ function obtenerNombreProducto() {
 }
 
 /** Renderiza imagen principal y miniaturas */
-function renderImagenes(imagenes) {
+function renderImagenes(imagenes, basePath) {
   const imgMain = document.getElementById('img_main');
   const thumbs = document.getElementById('thumbnails');
   if (!imgMain || !thumbs) return;
@@ -50,7 +51,6 @@ function renderEspecificaciones(especs) {
   const container = document.getElementById('especificaciones-tecnicas');
   if (!container || !Array.isArray(especs)) return;
 
-  // Limpia y construye
   container.innerHTML = '';
   const ul = document.createElement('ul');
   ul.className = 'space-y-2 text-gray-700';
@@ -68,26 +68,16 @@ function renderEspecificaciones(especs) {
   container.appendChild(ul);
 }
 
-/** Funciones auxiliares ya existentes */
-function toExchangeImage(element) {
-  document.getElementById('img_main').src = element.src;
-}
-function viewImage(src) {
-  window.open(src, '_blank');
-}
-
-
 /** Renderiza los bloques <details> desde data.producto.detalles */
 function renderDetalles(detalles) {
   const container = document.getElementById('product-details');
   if (!container || !Array.isArray(detalles)) return;
 
-  container.innerHTML = ''; // limpio previo
+  container.innerHTML = '';
 
-  detalles.forEach(seccion => {
-    // <details> abierto si es la primera sección
+  detalles.forEach((seccion, index) => {
     const detailsEl = document.createElement('details');
-    if (container.children.length === 0) detailsEl.open = true;
+    if (index === 0) detailsEl.open = true;
     detailsEl.className = 'group border border-gray-200 rounded-lg overflow-hidden shadow-sm mb-4';
 
     // summary
@@ -106,7 +96,7 @@ function renderDetalles(detalles) {
     `;
     detailsEl.appendChild(summary);
 
-    // contenido
+    // content
     const content = document.createElement('div');
     content.className = 'p-4 bg-white grid grid-cols-1 md:grid-cols-2 gap-4';
 
@@ -131,4 +121,12 @@ function renderDetalles(detalles) {
     detailsEl.appendChild(content);
     container.appendChild(detailsEl);
   });
+}
+
+/** Funciones auxiliares */
+function toExchangeImage(element) {
+  document.getElementById('img_main').src = element.src;
+}
+function viewImage(src) {
+  window.open(src, '_blank');
 }
