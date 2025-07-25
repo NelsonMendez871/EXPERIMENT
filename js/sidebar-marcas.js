@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-  fetch('/components/sidebar-marcas.html')
+  fetch('/ProyectoVersion3.0/components/sidebar-marcas.html')
     .then(response => response.text())
     .then(data => {
       const placeholder = document.getElementById('sidebar-marcas-placeholder');

@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
   const productoKey = obtenerNombreProducto(); // p.ej. "C9200L-24P-4G-E"
 
-  fetch('../data/productos.json')
+  fetch('/ProyectoVersion3.0/data/productos.json')
     .then(res => res.json())
     .then(data => {
       const producto = data[productoKey];

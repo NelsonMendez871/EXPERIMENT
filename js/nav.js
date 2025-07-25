@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const placeholder = document.getElementById('navbar-placeholder');
     if (!placeholder) return;
     // Cargar el navbar
-    fetch('/components/navbar.html')
+    fetch('/ProyectoVersion3.0/components/navbar.html')
         .then(response => response.text())
         .then(data => {
             document.body.insertAdjacentHTML('afterbegin', data);

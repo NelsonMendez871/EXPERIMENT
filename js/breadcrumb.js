@@ -1,6 +1,6 @@
 // js/breadcrumb.js
 document.addEventListener('DOMContentLoaded', function () {
-  fetch('/components/breadcrumb.html')
+  fetch('/ProyectoVersion3.0/components/breadcrumb.html')
     .then(response => response.text())
     .then(data => {
       const placeholder = document.getElementById('breadcrumb-placeholder');
