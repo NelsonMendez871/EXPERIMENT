@@ -1,5 +1,87 @@
 {
+  "9A6L4-A5": {
+    "pageTitle": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON 9A6L4-A5 • DS3 Comunicaciones",
+    "titulo": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON",
+    "precio": "U$ 245",
+    "imagenes": [
+      "https://nelsonmendez871.github.io/MULTIMEDIA/Imagenes/9A6L4-A5/9A6L4-A5_front.webp",
+      "https://nelsonmendez871.github.io/MULTIMEDIA/Imagenes/9A6L4-A5/9A6L4-A5_left.webp",
+      "https://nelsonmendez871.github.io/MULTIMEDIA/Imagenes/9A6L4-A5/9A6L4-A5_sid.webp"
+    ],
+    "especificaciones": [
+      "Cable F/UTP de 4 pares",
+      "Conductor: cobre sólido de 23 AWG (0.57 mm)",
+      "Diámetro exterior nominal: 7.1 mm",
+      "Miembro central de aislamiento",
+      "Cinta de aluminio como blindaje (conductor de drenaje estañado)",
+      "Marcado secuencial inverso en la chaqueta",
+      "Tecnología PowerGUARD: mejora la disipación de calor para PoE",
+      "Soporta aplicaciones IP emergentes: VoIP, video IP, 10GBASE-T"
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          {
+            "label": "Tipo de dispositivo:",
+            "value": "Cable F/UTP de 4 pares, Categoría 6A"
+          },
+          {
+            "label": "Conectividad:",
+            "value": "10GBASE-T, 1000BASE-T, 100BASE-T, 10BASE-T, HDBASE-T, IEEE 802.3af (PoE tipo 1), IEEE 802.3at (PoE tipo 2), IEEE 802.3bt (PoE tipo 3 y 4), Power over HDBaseT (PoH)v"
+          },
+          {
+            "label": "Dimensiones:",
+            "value": "Diámetro exterior: 7.1 mm, Diámetro del conductor: 0.57 mm"
+          },
+          {
+            "label": "Peso:",
+            "value": "No se especifica directamente el peso"
+          }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          {
+            "label": "Protocolo de direccionamiento:",
+            "value": "IEEE 802.3 (Ethernet), "
+          },
+          {
+            "label": "Protocolo de gestión remota:",
+            "value": "No especificado directamente"
+          }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          {
+            "label": "",
+            "value": "ANSI/TIA-568.2-D, IEC 61156-5 Ed 2.0, ISO/IEC 11801-1 Ed 1.0, UL CMR y CSA FT4, UL CMP y CSA FT6, CMP-LP(0.6A) 120W"
+          }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          {
+            "label": "Certificaciones:",
+            "value": "UL CMR y CSA FT4, UL CMP y CSA FT6"
+          },
+          {
+            "label": "Temperatura de operación:",
+            "value": "Versión CMP: -20°C a 90°C, Versión CMR: -20°C a 75°C"
+          }
+        ]
+      }
+    ]
+  },
+
   "C9200L-24P-4G-E": {
+    "pageTitle": "Switch Cisco Catalyst 9200L C9200L-24T-4G-E • DS3 Comunicaciones",
+    "titulo": "Switch Cisco Catalyst 9200L C9200L-24T-4G-E",
+    "precio": "U$ 1,195",
     "imagenes": [
       "https://web.netperu100.com/cisco/catalyst/images/C9200L-24P-4G-E_back.jpg",
       "https://web.netperu100.com/cisco/catalyst/images/C9200L-24P-4G-E_front_large.jpg",

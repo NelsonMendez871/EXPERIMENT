@@ -12,6 +12,26 @@ document.addEventListener('DOMContentLoaded', () => {
         return;
       }
 
+      // 1) Actualizar <title> de la pestaña
+      if (producto.pageTitle) {
+        document.title = producto.pageTitle;
+        const titleEl = document.getElementById('page-title');
+        if (titleEl) titleEl.textContent = producto.pageTitle;
+      }
+
+      // 2) Actualizar H1 del producto
+      if (producto.titulo) {
+        const h1 = document.getElementById('product-title');
+        if (h1) h1.textContent = producto.titulo;
+      }
+
+      // 2.1) Actualizar precio
+      if (producto.precio) {
+        const priceEl = document.getElementById('product-price');
+        if (priceEl) priceEl.textContent = producto.precio;
+      }
+
+      // 3) Renderizar el resto
       renderImagenes(producto.imagenes, basePath);
       renderEspecificaciones(producto.especificaciones);
       renderDetalles(producto.detalles);
@@ -32,11 +52,9 @@ function renderImagenes(imagenes, basePath) {
   const thumbs = document.getElementById('thumbnails');
   if (!imgMain || !thumbs) return;
 
-  // Principal
   imgMain.src = imagenes[0];
   imgMain.alt = 'Imagen principal';
 
-  // Miniaturas
   thumbs.innerHTML = '';
   imagenes.forEach(url => {
     const div = document.createElement('div');
@@ -74,7 +92,6 @@ function renderDetalles(detalles) {
   if (!container || !Array.isArray(detalles)) return;
 
   container.innerHTML = '';
-
   detalles.forEach((seccion, index) => {
     const detailsEl = document.createElement('details');
     if (index === 0) detailsEl.open = true;
@@ -86,9 +103,9 @@ function renderDetalles(detalles) {
     summary.innerHTML = `
       <h3 class="font-semibold text-black flex items-center">
         <svg class="w-5 h-5 mr-2 text-blue-600 transition-transform group-open:rotate-90" fill="none"
-          stroke="currentColor" viewBox="0 0 24 24">
+             stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-            d="M9 5l7 7-7 7"></path>
+                d="M9 5l7 7-7 7"></path>
         </svg>
         ${seccion.titulo}
       </h3>
@@ -99,7 +116,6 @@ function renderDetalles(detalles) {
     // content
     const content = document.createElement('div');
     content.className = 'p-4 bg-white grid grid-cols-1 md:grid-cols-2 gap-4';
-
     seccion.items.forEach(item => {
       const flex = document.createElement('div');
       flex.className = 'flex items-start';
@@ -107,7 +123,7 @@ function renderDetalles(detalles) {
         <div class="flex-shrink-0 h-5 w-5 text-blue-500 mt-0.5">
           <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-              d="M5 13l4 4L19 7"></path>
+                  d="M5 13l4 4L19 7"></path>
           </svg>
         </div>
         <div class="ml-2">
