@@ -1,0 +1,86 @@
+{
+  "C9200L-24P-4G-E": {
+    "imagenes": [
+      "https://web.netperu100.com/cisco/catalyst/images/C9200L-24T-4G-E_front.jpg",
+      "https://web.netperu100.com/cisco/catalyst/images/C9200L-24P-4G-E_front_large.jpg",
+      "https://web.netperu100.com/cisco/catalyst/images/C9200L-24P-4G-E_back.jpg"
+    ],
+    "especificaciones": [
+      "24 Puertos Gigabit 10/100/1000",
+      "04 puertos 1G para fibra SFP",
+      "Switching capacity 56 Gbps",
+      "Network Essentials",
+      "Switch capa L3 full (Layer 3)",
+      "Switch capacity with Stacking 136 Gbps",
+      "Forwarding rate 41.67 Mpps",
+      "Stacking bandwidth 80 Gbps",
+      "Soporta stacking hasta 08 equipos",
+      "Total number of MAC addresses 16,000",
+      "Memoria DRAM 2 GB",
+      "Flash memory 4 GB",
+      "VLAN IDs 4096",
+      "Jumbo frames 9198 bytes",
+      "Soporta ACLs, DHCP, EIGRP, OSPF, IGMP vs1/2/3",
+      "Soporte IPv4/IPv6",
+      "Montaje en rack (Rack montable)"
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          {
+            "label": "Tipo de dispositivo:",
+            "value": "Cisco Catalyst 9200L C9200L-24P-4G-E, Switch capa L3 full (Layer 3)"
+          },
+          {
+            "label": "Conectividad:",
+            "value": "24 puertos Gigabit 10/100/1000 + 4 puertos 1G para fibra SFP"
+          },
+          {
+            "label": "Dimensiones:",
+            "value": "445 x 332 x 44 mm"
+          },
+          {
+            "label": "Peso:",
+            "value": "5.4 kg"
+          }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          {
+            "label": "Protocolo de direccionamiento:",
+            "value": "OSPF, IS-IS, BGP, EIGRP, DVMRP, PIM‑SM, IGMPv3, GRE, PIM‑SSM, IPv4/IPv6 estático"
+          },
+          {
+            "label": "Protocolo de gestión remota:",
+            "value": "SNMP 1, RMON, Telnet, SNMP 2c, SNMP 3, HTTP, HTTPS, SSH"
+          }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          {
+            "label": "",
+            "value": "IEEE 802.3, 802.3u, 802.3z, 802.1D, 802.1Q, 802.3ab, 802.1p, 802.3af, 802.3x, 802.3ad, 802.1w, 802.1x, 802.1s, 802.3ah, 802.1ab"
+          }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          {
+            "label": "Certificaciones:",
+            "value": "CE, TUV GS, cUL, EN 60950, EN 55022, NOM, VCCI Class A, FCC Part 15"
+          },
+          {
+            "label": "Temperatura de operación:",
+            "value": "-5 - 45 °C"
+          }
+        ]
+      }
+    ]
+  }
+}
