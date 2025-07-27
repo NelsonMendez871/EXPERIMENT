@@ -1,5 +1,5 @@
 {
-  "9A6L4-A5": {
+  "cable-9A6L4-A5": {
     "pageTitle": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON 9A6L4-A5 • DS3 Comunicaciones",
     "titulo": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON",
     "precio": "U$ 245",
@@ -74,6 +74,26 @@
             "value": "Versión CMP: -20°C a 90°C, Versión CMR: -20°C a 75°C"
           }
         ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
       }
     ]
   },
@@ -162,6 +182,26 @@
             "value": "-5 - 45 °C"
           }
         ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica",
+        "url": "https://www.ds3comunicaciones.com/cisco/files/catalyst_9200.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://web.netperu100.com/cisco/catalyst/files/Catalyst_9200_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://web.netperu100.com/cisco/catalyst/files/C9200L-24T-4G-E_esp.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
       }
     ]
   }

@@ -35,6 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
       renderImagenes(producto.imagenes, basePath);
       renderEspecificaciones(producto.especificaciones);
       renderDetalles(producto.detalles);
+      renderDownloads(producto);
     })
     .catch(err => console.error('Error cargando productos.json:', err));
 });
@@ -138,6 +139,30 @@ function renderDetalles(detalles) {
     container.appendChild(detailsEl);
   });
 }
+
+function renderDownloads(producto) {
+  const downloadsDiv = document.getElementById("downloads");
+  if (!producto.descargas || producto.descargas.length === 0) return;
+
+  let html = `
+    <h3 class="font-semibold text-lg mb-3">Download:</h3>
+    <div class="flex flex-wrap gap-3">`;
+
+  producto.descargas.forEach(d => {
+    html += `
+      <a href="${d.url}"
+        class="flex items-center gap-2 text-blue-600 hover:text-blue-800 border border-gray-200 rounded-md px-4 py-2 hover:bg-gray-50 transition"
+        target="_blank" rel="noopener noreferrer" aria-label="Descargar ${d.tipo} en PDF">
+        <i class="${d.icono} ${d.color}" aria-hidden="true"></i>
+        <span>${d.tipo}</span>
+      </a>`;
+  });
+
+  html += `</div>`;
+  downloadsDiv.innerHTML = html;
+}
+
+
 
 /** Funciones auxiliares */
 function toExchangeImage(element) {
