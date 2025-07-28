@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  fetch('../../CompReu/cable-breadcrumb.html')
+  fetch('CompReu/cable-breadcrumb.html')
     .then(res => res.text())
     .then(html => {
       const placeholder = document.getElementById('breadcrumb-placeholder');
