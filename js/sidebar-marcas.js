@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // Detectar si estamos dentro de /productos/
   const basePath = location.pathname.includes('/productos/') ? '../' : '';
 
-  fetch(`${basePath}components/sidebar-marcas.html`)
+  fetch(`${basePath}../../components/sidebar-marcas.html`)
     .then(response => response.text())
     .then(data => {
       placeholder.innerHTML = data;

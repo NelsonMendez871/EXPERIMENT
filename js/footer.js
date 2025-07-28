@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   const basePath = location.pathname.includes('/productos/') ? '../' : '';
 
-  fetch(`${basePath}components/footer.html`)
+  fetch(`${basePath}../../components/footer.html`)
     .then(response => response.text())
     .then(data => {
       placeholder.innerHTML = data;

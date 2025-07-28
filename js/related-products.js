@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // Detectar si estamos dentro de la carpeta /productos/
   const basePath = location.pathname.includes('/productos/') ? '../' : '';
 
-  fetch(`${basePath}components/related-products.html`)
+  fetch(`${basePath}../../components/related-products.html`)
     .then(response => response.text())
     .then(html => {
       placeholder.innerHTML = html;
