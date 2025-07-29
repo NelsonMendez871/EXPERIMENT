@@ -3,11 +3,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const placeholder = document.getElementById('navbar-placeholder');
     if (!placeholder) return;
 
-    // Detectar ruta base
-    const basePath = location.pathname.includes('/productos/') ? '../' : '';
-
     // Cargar el navbar
-    fetch('/EXPERIMENT/components/navbar.html')
+    fetch('../../components/navbar.html')
         .then(response => response.text())
         .then(data => {
             document.body.insertAdjacentHTML('afterbegin', data);
