@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const basePath = location.pathname.includes('/productos/') ? '../' : '';
 
     // Cargar el navbar
-    fetch('/components/navbar.html')
+    fetch('/EXPERIMENT/components/navbar.html')
         .then(response => response.text())
         .then(data => {
             document.body.insertAdjacentHTML('afterbegin', data);
