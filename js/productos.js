@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const basePath = location.pathname.includes('/productos/') ? '../' : '';
   const productoKey = obtenerNombreProducto(); // p.ej. "C9200L-24P-4G-E"
 
-  fetch(`${basePath}../../data/productos.json`)
+  fetch(`${basePath}data/productos.json`)
     .then(res => res.json())
     .then(data => {
       const producto = data[productoKey];
