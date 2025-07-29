@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // Si estamos en /EXPERIMENT/productos/ sube un nivel, si no no
   const basePath = location.pathname.includes('/productos/') ? '../' : '';
 
-  fetch(`${basePath}components/footer.html`)
+  fetch('/EXPERIMENT/components/footer.html')
     .then(response => {
       if (!response.ok) throw new Error(`Error ${response.status}`);
       return response.text();
