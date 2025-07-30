@@ -1,4 +1,198 @@
-{
+{ 
+  "cable-9C6L4-A5": {
+    "pageTitle": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON 9A6L4-A5 • DS3 Comunicaciones",
+    "titulo": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON",
+    "precio": "U$ 245",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/9C6L4-A5_left.webp",
+      "https://web.netperu100.com/siemon/images/9C6L4-A5_front.webp",
+      "https://web.netperu100.com/siemon/images/9C6L4-A5_sid.webp"
+    ],
+    "especificaciones": [
+      "Cable categoría 6A UTP (unshielded), LSZH (bajo humo y sin halógenos)",
+      "4 pares trenzados con conductor sólido de cobre 23 AWG (0.57 mm)",
+      "Miembro central de aislamiento (cross‑separator) para mantener geometría y reducir diafonía",
+      "Cubierta de aluminio con cable de drenaje de cobre estañado (~0.50 mm)",
+      "Diámetro exterior nominal ~6.99 mm (±0.3 mm)",
+      "Clasificación de temperatura 75 °C"
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          {
+            "label": "Tipo de dispositivo:",
+            "value": "cable de par trenzado apantallado F/UTP (foil-shielded) para infraestructura de red categoría 6A"
+          },
+          {
+            "label": "Conectividad:",
+            "value": "transmisiones Ethernet hasta 10GBASE‑T / 1000BASE‑T / 100BASE‑T / 10BASE‑T, soporte para PoE (IEEE 802.3af/at/bt) y Power over HDBaseT (PoH)"
+          },
+          {
+            "label": "Dimensiones:",
+            "value": "Diámetro exterior: ~6.99 mm (~7.0 mm)"
+          },
+          {
+            "label": "Peso:",
+            "value": "aproximado: 20 kg por rollo de 305 m (~44 lb)"
+          }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          {
+            "label": "Protocolo de direccionamiento:",
+            "value": "compatible con protocolos estándares de Ethernet (10BASE‑T, 100BASE‑T, 1000BASE‑T, 10GBASE‑T)."
+          },
+          {
+            "label": "Protocolo de gestión remota:",
+            "value": "no aplica directamente al cable; La gestión remota sería gestionada por switch/NMS, no por cable."
+          }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          {
+            "label": "",
+            "value": "Cumple con ANSI/TIA‑568.2‑D para cables Cat6A, Cumple ISO/IEC 11801‑1 Clase EA (Cat6A global), IEC 61156‑5 Ed.2.0 (Especificación para cables de par trenzado), IEC 60332‑3‑24 y IEC 60332‑3‑25 (resistencia al fuego de cables en instalaciones), IEC 60754‑1/2 y IEC 61034 (LSOH, baja emisión de humos y acidez)"
+          }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          {
+            "label": "Certificaciones:",
+            "value": "LSOH conforme a IEC 60332‑3, IEC 60754, IEC 61034 y norma CPR clase Eca (según Europa)"
+          },
+          {
+            "label": "Temperatura de operación:",
+            "value": "desde −20 °C hasta +75 °C (máximo +75 °C para versión LSOH) y almacenamiento hasta +75 °C; instalación entre 0 y 60 °C"
+          }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "cable-9A6J4-A5": {
+    "pageTitle": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON 9A6L4-A5 • DS3 Comunicaciones",
+    "titulo": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON",
+    "precio": "U$ 245",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/9A6J4-A5_sid.webp",
+      "https://web.netperu100.com/siemon/images/9A6J4-A5_front.webp",
+      "https://web.netperu100.com/siemon/images/9A6J4-A5_left.webp"
+    ],
+    "especificaciones": [
+      "Cable F/UTP de 4 pares",
+      "Conductor: cobre sólido de 23 AWG (0.57 mm)",
+      "Marcado secuencial inverso en la cubierta para facilidad de corte y medición",
+      "Cinta de aluminio como blindaje (conductor de drenaje estañado)",
+      "Tecnología PowerGUARD: mejora la disipación de calor para PoE",
+      "Soporta aplicaciones IP emergentes: VoIP, video IP, 10GBASE-T"
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          {
+            "label": "Tipo de dispositivo:",
+            "value": "cable de par trenzado apantallado F/UTP (foil-shielded) para infraestructura de red categoría 6A"
+          },
+          {
+            "label": "Conectividad:",
+            "value": "transmisiones Ethernet hasta 10GBASE‑T / 1000BASE‑T / 100BASE‑T / 10BASE‑T, soporte para PoE (IEEE 802.3af/at/bt) y Power over HDBaseT (PoH)"
+          },
+          {
+            "label": "Dimensiones:",
+            "value": "Diámetro exterior: ~6.99 mm (~7.0 mm)"
+          },
+          {
+            "label": "Peso:",
+            "value": "aproximado: 20 kg por rollo de 305 m (~44 lb)"
+          }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          {
+            "label": "Protocolo de direccionamiento:",
+            "value": "compatible con protocolos estándares de Ethernet (10BASE‑T, 100BASE‑T, 1000BASE‑T, 10GBASE‑T)."
+          },
+          {
+            "label": "Protocolo de gestión remota:",
+            "value": "no aplica directamente al cable; La gestión remota sería gestionada por switch/NMS, no por cable."
+          }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          {
+            "label": "",
+            "value": "Cumple con ANSI/TIA‑568.2‑D para cables Cat6A, Cumple ISO/IEC 11801‑1 Clase EA (Cat6A global), IEC 61156‑5 Ed.2.0 (Especificación para cables de par trenzado), IEC 60332‑3‑24 y IEC 60332‑3‑25 (resistencia al fuego de cables en instalaciones), IEC 60754‑1/2 y IEC 61034 (LSOH, baja emisión de humos y acidez)"
+          }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          {
+            "label": "Certificaciones:",
+            "value": "LSOH conforme a IEC 60332‑3, IEC 60754, IEC 61034 y norma CPR clase Eca (según Europa)"
+          },
+          {
+            "label": "Temperatura de operación:",
+            "value": "desde −20 °C hasta +75 °C (máximo +75 °C para versión LSOH) y almacenamiento hasta +75 °C; instalación entre 0 y 60 °C"
+          }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+
+
   "cable-9A6L4-A5": {
     "pageTitle": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON 9A6L4-A5 • DS3 Comunicaciones",
     "titulo": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON",
@@ -92,114 +286,6 @@
       {
         "tipo": "Especificaciones",
         "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
-        "icono": "fas fa-file-alt",
-        "color": "text-green-500"
-      }
-    ]
-  },
-
-  "C9200L-24P-4G-E": {
-    "pageTitle": "Switch Cisco Catalyst 9200L C9200L-24T-4G-E • DS3 Comunicaciones",
-    "titulo": "Switch Cisco Catalyst 9200L C9200L-24T-4G-E",
-    "precio": "U$ 1,195",
-    "imagenes": [
-      "https://web.netperu100.com/cisco/catalyst/images/C9200L-24P-4G-E_back.jpg",
-      "https://web.netperu100.com/cisco/catalyst/images/C9200L-24P-4G-E_front_large.jpg",
-      "https://web.netperu100.com/cisco/catalyst/images/C9200L-24P-4G-E_back.jpg"
-    ],
-    "especificaciones": [
-      "24 Puertos Gigabit 10/100/1000",
-      "04 puertos 1G para fibra SFP",
-      "Switching capacity 56 Gbps",
-      "Network Essentials",
-      "Switch capa L3 full (Layer 3)",
-      "Switch capacity with Stacking 136 Gbps",
-      "Forwarding rate 41.67 Mpps",
-      "Stacking bandwidth 80 Gbps",
-      "Soporta stacking hasta 08 equipos",
-      "Total number of MAC addresses 16,000",
-      "Memoria DRAM 2 GB",
-      "Flash memory 4 GB",
-      "VLAN IDs 4096",
-      "Jumbo frames 9198 bytes",
-      "Soporta ACLs, DHCP, EIGRP, OSPF, IGMP vs1/2/3",
-      "Soporte IPv4/IPv6",
-      "Montaje en rack (Rack montable)"
-    ],
-    "detalles": [
-      {
-        "titulo": "Especificaciones Técnicas",
-        "items": [
-          {
-            "label": "Tipo de dispositivo:",
-            "value": "Cisco Catalyst 9200L C9200L-24P-4G-E, Switch capa L3 full (Layer 3)"
-          },
-          {
-            "label": "Conectividad:",
-            "value": "24 puertos Gigabit 10/100/1000 + 4 puertos 1G para fibra SFP"
-          },
-          {
-            "label": "Dimensiones:",
-            "value": "445 x 332 x 44 mm"
-          },
-          {
-            "label": "Peso:",
-            "value": "5.4 kg"
-          }
-        ]
-      },
-      {
-        "titulo": "Protocolos Soportados",
-        "items": [
-          {
-            "label": "Protocolo de direccionamiento:",
-            "value": "OSPF, IS-IS, BGP, EIGRP, DVMRP, PIM‑SM, IGMPv3, GRE, PIM‑SSM, IPv4/IPv6 estático"
-          },
-          {
-            "label": "Protocolo de gestión remota:",
-            "value": "SNMP 1, RMON, Telnet, SNMP 2c, SNMP 3, HTTP, HTTPS, SSH"
-          }
-        ]
-      },
-      {
-        "titulo": "Cumplimiento de Normas",
-        "items": [
-          {
-            "label": "",
-            "value": "IEEE 802.3, 802.3u, 802.3z, 802.1D, 802.1Q, 802.3ab, 802.1p, 802.3af, 802.3x, 802.3ad, 802.1w, 802.1x, 802.1s, 802.3ah, 802.1ab"
-          }
-        ]
-      },
-      {
-        "titulo": "Certificaciones y Ambiente",
-        "items": [
-          {
-            "label": "Certificaciones:",
-            "value": "CE, TUV GS, cUL, EN 60950, EN 55022, NOM, VCCI Class A, FCC Part 15"
-          },
-          {
-            "label": "Temperatura de operación:",
-            "value": "-5 - 45 °C"
-          }
-        ]
-      }
-    ],
-    "descargas": [
-      {
-        "tipo": "Ficha técnica",
-        "url": "https://www.ds3comunicaciones.com/cisco/files/catalyst_9200.pdf",
-        "icono": "fas fa-file-pdf",
-        "color": "text-red-500"
-      },
-      {
-        "tipo": "Manual",
-        "url": "https://web.netperu100.com/cisco/catalyst/files/Catalyst_9200_manual.pdf",
-        "icono": "fas fa-book-open",
-        "color": "text-blue-500"
-      },
-      {
-        "tipo": "Especificaciones",
-        "url": "https://web.netperu100.com/cisco/catalyst/files/C9200L-24T-4G-E_esp.pdf",
         "icono": "fas fa-file-alt",
         "color": "text-green-500"
       }
