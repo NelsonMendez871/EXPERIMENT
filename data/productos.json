@@ -1,12 +1,108 @@
 { 
-  "cable-9C6J4-E3": {
-    "pageTitle": "Rollo de 305 metros de cable UTP sólido de 04 pares Cat 6 23 AWG LSZH-3, color violeta, marca SIEMON",
-    "titulo": "Rollo de 305 metros de cable UTP sólido de 04 pares Cat 6 23 AWG LSZH-3, color violeta, marca SIEMON",
-    "precio": "U$ 245",
+  "cable-9C6L4-E2": {
+    "pageTitle": "Rollo de 305 metros de cable UTP sólido de 04 pares Cat 6 23 AWG LSZH-3, color violeta, marca SIEMON 9C6L4-E2",
+    "titulo": "Rollo de 305 metros de cable UTP sólido de 04 pares Cat 6 23 AWG LSZH-3, color violeta, marca SIEMON 9C6L4-E2",
+    "precio": "U$ 212",
     "imagenes": [
       "https://web.netperu100.com/siemon/images/9C6J4-E3_top.webp",
       "https://web.netperu100.com/siemon/images/9C6J4-E3_front.webp",
-      "https://web.netperu100.com/siemon/images/9C6J4-E3_sid.webp"
+      "https://web.netperu100.com/siemon/images/9C6J4-E3_top.webp"
+    ],
+    "especificaciones": [
+      "Cable Category 6 UTP (sin blindaje), diseño Solution 6 LSZH-1 con chaqueta violeta y marcado inverso en secuencia",
+      "Conductores sólidos de 24 AWG (≈ 0.52 mm), aislamiento HDPE ≈ 0.99 mm",
+      "Miembro central de aislamiento (“cross-pair separator”) para mejorar geometría interna y reducir diafonía",
+      "Diámetro exterior nominal de ≈ 5.6 mm (± tolerancia)",
+      "Chaqueta LSZH (Clase Eca) cumpliendo LSOH y IEC flame tests (incluye IEC 60332-3-22, IEC 60754, IEC 61034)"
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          {
+            "label": "Tipo de dispositivo:",
+            "value": "cable de infraestructura Category 6 UTP, versión Solution 6, 4 pares sólidos 24 AWG, chaqueta LSZH tipo L (violeta)"
+          },
+          {
+            "label": "Conectividad:",
+            "value": "compatible con 10BASE-T, 100BASE-T, 1000BASE-T, soporte para PoE IEEE 802.3af/at/bt (tipos 1-4) y Power over HDBaseT (PoH)"
+          },
+          {
+            "label": "Dimensiones:",
+            "value": "diámetro exterior nominal ≈ 5.6 mm (0.22 in.); aislamiento ~0.99 mm; conductor ~0.52 mm"
+          },
+          {
+            "label": "Peso:",
+            "value": "No especificado"
+          }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          {
+            "label": "Protocolo de direccionamiento:",
+            "value": "Ethernet estándar 10/100/1000BASE-T (Cat 6 hasta 250 MHz)"
+          },
+          {
+            "label": "Protocolo de gestión remota:",
+            "value": "No aplicable al cable; se gestiona desde switches o sistemas de NMS."
+          }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          {
+            "label": "",
+            "value": "Cumple ANSI/TIA-568.2-D, ISO/IEC 11801-1 Ed 1.0 (Clase E) y IEC 61156-5 (Category 6), Estándares de PoE compatibles IEEE 802.3af/at/bt y PoH"
+          }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          {
+            "label": "Certificaciones:",
+            "value": "LSZH tipo L (IEC 60332-1 y 60332-3-22), IEC 60754-1/2, IEC 61034; Euro-Clase CPR Clase Eca (según EN 50575)"
+          },
+          {
+            "label": "Temperatura de operación:",
+            "value": "Instalación: 5…60 °C (41…140 °F), Operación: -10…60 °C (14…140 °F), Almacenamiento: 0…60 °C (32…140 °F)"
+          }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+
+  "cable-9C6J4-E3": {
+    "pageTitle": "Rollo de 305 metros de cable UTP sólido de 04 pares Cat 6 23 AWG LSZH-3, color violeta, marca SIEMON 9C6J4-E3",
+    "titulo": "Rollo de 305 metros de cable UTP sólido de 04 pares Cat 6 23 AWG LSZH-3, color violeta, marca SIEMON 9C6J4-E3",
+    "precio": "U$ 481",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/9C6J4-E3_top.webp",
+      "https://web.netperu100.com/siemon/images/9C6J4-E3_front.webp",
+      "https://web.netperu100.com/siemon/images/9C6J4-E3_top.webp"
     ],
     "especificaciones": [
       "Cable Category 6 UTP (sin blindaje), 4 pares trenzados con miembro central de aislamiento (“center isolation member”) para geometría y reducción de diafonía",
@@ -95,9 +191,9 @@
   },
 
   "cable-9C6L4-A5": {
-    "pageTitle": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON 9A6L4-A5 • DS3 Comunicaciones",
-    "titulo": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON",
-    "precio": "U$ 245",
+    "pageTitle": "Rollo de 305 metros de cable UTP sólido 04 pares Cat 6A 23AWG LSZH color Violeta, marca SIEMON 9C6L4-A5",
+    "titulo": "Rollo de 305 metros de cable UTP sólido 04 pares Cat 6A 23AWG LSZH color Violeta, marca SIEMON 9C6L4-A5",
+    "precio": "U$ 764",
     "imagenes": [
       "https://web.netperu100.com/siemon/images/9C6L4-A5_left.webp",
       "https://web.netperu100.com/siemon/images/9C6L4-A5_front.webp",
@@ -164,7 +260,7 @@
           },
           {
             "label": "Temperatura de operación:",
-            "value": "desde −20 °C hasta +75 °C (máximo +75 °C para versión LSOH) y almacenamiento hasta +75 °C; instalación entre 0 y 60 °C"
+            "value": "desde -20 °C hasta +75 °C (máximo +75 °C para versión LSOH) y almacenamiento hasta +75 °C; instalación entre 0 y 60 °C"
           }
         ]
       }
@@ -192,9 +288,9 @@
   },
 
   "cable-9A6J4-A5": {
-    "pageTitle": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON 9A6L4-A5 • DS3 Comunicaciones",
-    "titulo": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON",
-    "precio": "U$ 245",
+    "pageTitle": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23AWG LSZH, IEC 60332-3 color Violeta, marca SIEMON 9A6J4-A5",
+    "titulo": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23AWG LSZH, IEC 60332-3 color Violeta, marca SIEMON 9A6J4-A5",
+    "precio": "U$ 469",
     "imagenes": [
       "https://web.netperu100.com/siemon/images/9A6J4-A5_sid.webp",
       "https://web.netperu100.com/siemon/images/9A6J4-A5_front.webp",
@@ -290,9 +386,9 @@
 
 
   "cable-9A6L4-A5": {
-    "pageTitle": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON 9A6L4-A5 • DS3 Comunicaciones",
-    "titulo": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON",
-    "precio": "U$ 245",
+    "pageTitle": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON 9A6L4-A5",
+    "titulo": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON A6L4-A5",
+    "precio": "U$ 304",
     "imagenes": [
       "https://nelsonmendez871.github.io/MULTIMEDIA/Imagenes/9A6L4-A5/9A6L4-A5_front.webp",
       "https://nelsonmendez871.github.io/MULTIMEDIA/Imagenes/9A6L4-A5/9A6L4-A5_left.webp",
