@@ -1,4 +1,99 @@
 { 
+  "cable-9A5R4-E2": {
+    "pageTitle": "Rollo de 305 metros de cable F/UTP sólido de 04 pares Cat 5e PVC (RISER), color azul, marca SIEMON 9A5R4-E2",
+    "titulo": "Rollo de 305 metros de cable F/UTP sólido de 04 pares Cat 5e PVC (RISER), color azul, marca SIEMON 9A5R4-E2",
+    "precio": "U$ 438",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/9A5R4-E2_front.webp",
+      "https://web.netperu100.com/siemon/images/9A5R4-E2_sid.webp",
+      "https://web.netperu100.com/siemon/images/9A5R4-E2_back.webp"
+    ],
+    "especificaciones": [
+      "Cable F/UTP (blindaje de cinta de aluminio con hilo de drenaje) de 4 pares trenzados, conductor sólido de cobre de 24 AWG (~0.5 mm)",
+      "Aislamiento de PE (~1.0 mm) y chaqueta de PVC tipo Riser (CMR), color azul (código “06”)",
+      "Numeración secuencial inversa en la chaqueta para facilitar instalación",
+      "Diámetro exterior nominal de ≈ 0.19 in (~4.8 mm) (±0.04 in)"
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          {
+            "label": "Tipo de dispositivo:",
+            "value": "cable de infraestructura Category 5e F/UTP sólido, Riser (CMR), 24 AWG"
+          },
+          {
+            "label": "Conectividad:",
+            "value": "soporta Ethernet 10BASE -T, 100BASE -T, 1000BASE -T; compatible con PoE IEEE 802.3af (Tipo 1), at (Tipo 2), bt (Tipo 3 y 4) y Power over HDBaseT (PoH)"
+          },
+          {
+            "label": "Dimensiones:",
+            "value": "Ø exterior ≈ 0.19 in (~4.8 mm), aislamiento ≈ 1.0 mm, conductor ~0.5 mm (24 AWG)"
+          },
+          {
+            "label": "Peso:",
+            "value": "25 lb por 1000 ft (~11.3 kg por 305 m Riser) según ficha; aprox. 11.3 kg"
+          }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          {
+            "label": "Protocolo de direccionamiento:",
+            "value": "Ethernet estándar 10/100/1000BASE -T al nivel Cat 5e"
+          },
+          {
+            "label": "Protocolo de gestión remota:",
+            "value": "no aplica al cable; la gestión se realiza desde switches o NMS"
+          }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          {
+            "label": "",
+            "value": "ANSI/TIA -568 -C.2 (Category 5e), ISO/IEC 11801 Ed.2.2 (Class D/Cat 5e), IEC 61156 -5 (Category 5e), Soporte para PoE IEEE 802.3af/at/bt y PoH"
+          }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          {
+            "label": "Certificaciones:",
+            "value": "UL CMR y CSA Type FT4 (Riser); cumple IEC 60332 -1 para cableado vertical en risers; cumple ANSI/IEC Cat 5e"
+          },
+          {
+            "label": "Temperatura de operación:",
+            "value": "Instalación: 0…60 °C, Operación: -20…60 °C, Almacenamiento: -20…75 °C"
+          }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+
   "cable-9A5M4-E2": {
     "pageTitle": "Rollo de 305 metros de cable F/UTP sólido de 04 pares Cat 5e PVC (CM , IEC 60332-1), color gris, marca SIEMON cable-9A5M4-E2",
     "titulo": "Rollo de 305 metros de cable F/UTP sólido de 04 pares Cat 5e PVC (CM , IEC 60332-1), color gris, marca SIEMON cable-9A5M4-E2",
