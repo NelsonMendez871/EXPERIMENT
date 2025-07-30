@@ -1,20 +1,18 @@
 { 
-  "cable-9C6L4-A5": {
-    "pageTitle": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON 9A6L4-A5 • DS3 Comunicaciones",
-    "titulo": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON",
+  "cable-9C6J4-E3": {
+    "pageTitle": "Rollo de 305 metros de cable UTP sólido de 04 pares Cat 6 23 AWG LSZH-3, color violeta, marca SIEMON",
+    "titulo": "Rollo de 305 metros de cable UTP sólido de 04 pares Cat 6 23 AWG LSZH-3, color violeta, marca SIEMON",
     "precio": "U$ 245",
     "imagenes": [
-      "https://web.netperu100.com/siemon/images/9C6L4-A5_left.webp",
-      "https://web.netperu100.com/siemon/images/9C6L4-A5_front.webp",
-      "https://web.netperu100.com/siemon/images/9C6L4-A5_sid.webp"
+      "https://web.netperu100.com/siemon/images/9C6J4-E3_top.webp",
+      "https://web.netperu100.com/siemon/images/9C6J4-E3_front.webp",
+      "https://web.netperu100.com/siemon/images/9C6J4-E3_sid.webp"
     ],
     "especificaciones": [
-      "Cable categoría 6A UTP (unshielded), LSZH (bajo humo y sin halógenos)",
-      "4 pares trenzados con conductor sólido de cobre 23 AWG (0.57 mm)",
-      "Miembro central de aislamiento (cross‑separator) para mantener geometría y reducir diafonía",
-      "Cubierta de aluminio con cable de drenaje de cobre estañado (~0.50 mm)",
-      "Diámetro exterior nominal ~6.99 mm (±0.3 mm)",
-      "Clasificación de temperatura 75 °C"
+      "Cable Category 6 UTP (sin blindaje), 4 pares trenzados con miembro central de aislamiento (“center isolation member”) para geometría y reducción de diafonía",
+      "Conductor: cobre sólido 23 AWG (~0.55 mm), aislamiento de HDPE (~0.99 mm)",
+      "Chaqueta LSZH tipo LSOH‑3C, violeta, diseñada para cumplir exigentes estándares de inflamabilidad IEC 60332‑3C para cables agrupados",
+      "Diámetro exterior nominal: ~6.20 mm (0.24 in, máximo)"
     ],
     "detalles": [
       {
@@ -22,19 +20,19 @@
         "items": [
           {
             "label": "Tipo de dispositivo:",
-            "value": "cable de par trenzado apantallado F/UTP (foil-shielded) para infraestructura de red categoría 6A"
+            "value": "Cable de infraestructura Category 6 UTP sólido, diseño System 6 para alto rendimiento"
           },
           {
             "label": "Conectividad:",
-            "value": "transmisiones Ethernet hasta 10GBASE‑T / 1000BASE‑T / 100BASE‑T / 10BASE‑T, soporte para PoE (IEEE 802.3af/at/bt) y Power over HDBaseT (PoH)"
+            "value": "Compatible con 10BASE‑T, 100BASE‑T, 1000BASE‑T; soporta PoE IEEE 802.3af (Tipo 1), at (Tipo 2), bt (Tipo 3 y 4) y Power over HDBaseT (PoH)"
           },
           {
             "label": "Dimensiones:",
-            "value": "Diámetro exterior: ~6.99 mm (~7.0 mm)"
+            "value": "Diámetro exterior ~6.20 mm; aislamiento ~0.99 mm; conductor ~0.55 mm (23 AWG)"
           },
           {
             "label": "Peso:",
-            "value": "aproximado: 20 kg por rollo de 305 m (~44 lb)"
+            "value": "No especificado"
           }
         ]
       },
@@ -43,11 +41,11 @@
         "items": [
           {
             "label": "Protocolo de direccionamiento:",
-            "value": "compatible con protocolos estándares de Ethernet (10BASE‑T, 100BASE‑T, 1000BASE‑T, 10GBASE‑T)."
+            "value": "Estándares Ethernet 10/100/1000BASE‑T y Category 6 activas hasta 250 MHz (rendimiento garantizado conforme a ISO/TIA)"
           },
           {
             "label": "Protocolo de gestión remota:",
-            "value": "no aplica directamente al cable; La gestión remota sería gestionada por switch/NMS, no por cable."
+            "value": "No aplicable al cable; se gestiona desde switches o sistemas de NMS."
           }
         ]
       },
@@ -56,7 +54,7 @@
         "items": [
           {
             "label": "",
-            "value": "Cumple con ANSI/TIA‑568.2‑D para cables Cat6A, Cumple ISO/IEC 11801‑1 Clase EA (Cat6A global), IEC 61156‑5 Ed.2.0 (Especificación para cables de par trenzado), IEC 60332‑3‑24 y IEC 60332‑3‑25 (resistencia al fuego de cables en instalaciones), IEC 60754‑1/2 y IEC 61034 (LSOH, baja emisión de humos y acidez)"
+            "value": "Cumple con ANSI/TIA-568.2-D para cables Cat6A, Cumple ISO/IEC 11801-1 Clase EA (Cat6A global), IEC 61156-5 Ed.2.0 (Especificación para cables de par trenzado), IEC 60332-3-24 y IEC 60332-3-25 (resistencia al fuego de cables en instalaciones), IEC 60754-1/2 y IEC 61034 (LSOH, baja emisión de humos y acidez)"
           }
         ]
       },
@@ -65,11 +63,11 @@
         "items": [
           {
             "label": "Certificaciones:",
-            "value": "LSOH conforme a IEC 60332‑3, IEC 60754, IEC 61034 y norma CPR clase Eca (según Europa)"
+            "value": "LSOH conforme a IEC 60332-3, IEC 60754, IEC 61034 y norma CPR clase Eca (según Europa)"
           },
           {
             "label": "Temperatura de operación:",
-            "value": "desde −20 °C hasta +75 °C (máximo +75 °C para versión LSOH) y almacenamiento hasta +75 °C; instalación entre 0 y 60 °C"
+            "value": "desde −20 °C hasta +75 °C (máximo +75 °C para versión LSOH) y almacenamiento hasta +75 °C; instalación entre 0 y 60 °C"
           }
         ]
       }
@@ -95,6 +93,104 @@
       }
     ]
   },
+
+  "cable-9C6L4-A5": {
+    "pageTitle": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON 9A6L4-A5 • DS3 Comunicaciones",
+    "titulo": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON",
+    "precio": "U$ 245",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/9C6L4-A5_left.webp",
+      "https://web.netperu100.com/siemon/images/9C6L4-A5_front.webp",
+      "https://web.netperu100.com/siemon/images/9C6L4-A5_sid.webp"
+    ],
+    "especificaciones": [
+      "Cable categoría 6A UTP (unshielded), LSZH (bajo humo y sin halógenos)",
+      "4 pares trenzados con conductor sólido de cobre 23 AWG (0.57 mm)",
+      "Miembro central de aislamiento (cross-separator) para mantener geometría y reducir diafonía",
+      "Cubierta de aluminio con cable de drenaje de cobre estañado (~0.50 mm)",
+      "Diámetro exterior nominal ~6.99 mm (±0.3 mm)",
+      "Clasificación de temperatura 75 °C"
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          {
+            "label": "Tipo de dispositivo:",
+            "value": "cable de par trenzado apantallado F/UTP (foil-shielded) para infraestructura de red categoría 6A"
+          },
+          {
+            "label": "Conectividad:",
+            "value": "transmisiones Ethernet hasta 10GBASE-T / 1000BASE-T / 100BASE-T / 10BASE-T, soporte para PoE (IEEE 802.3af/at/bt) y Power over HDBaseT (PoH)"
+          },
+          {
+            "label": "Dimensiones:",
+            "value": "Diámetro exterior: ~6.99 mm (~7.0 mm)"
+          },
+          {
+            "label": "Peso:",
+            "value": "aproximado: 20 kg por rollo de 305 m (~44 lb)"
+          }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          {
+            "label": "Protocolo de direccionamiento:",
+            "value": "compatible con protocolos estándares de Ethernet (10BASE-T, 100BASE-T, 1000BASE-T, 10GBASE-T)."
+          },
+          {
+            "label": "Protocolo de gestión remota:",
+            "value": "no aplica directamente al cable; La gestión remota sería gestionada por switch/NMS, no por cable."
+          }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          {
+            "label": "",
+            "value": "Cumple con ANSI/TIA-568.2-D para cables Cat6A, Cumple ISO/IEC 11801-1 Clase EA (Cat6A global), IEC 61156-5 Ed.2.0 (Especificación para cables de par trenzado), IEC 60332-3-24 y IEC 60332-3-25 (resistencia al fuego de cables en instalaciones), IEC 60754-1/2 y IEC 61034 (LSOH, baja emisión de humos y acidez)"
+          }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          {
+            "label": "Certificaciones:",
+            "value": "LSOH conforme a IEC 60332-3, IEC 60754, IEC 61034 y norma CPR clase Eca (según Europa)"
+          },
+          {
+            "label": "Temperatura de operación:",
+            "value": "desde −20 °C hasta +75 °C (máximo +75 °C para versión LSOH) y almacenamiento hasta +75 °C; instalación entre 0 y 60 °C"
+          }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+
   "cable-9A6J4-A5": {
     "pageTitle": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON 9A6L4-A5 • DS3 Comunicaciones",
     "titulo": "Rollo de 305 metros de cable F/UTP sólido 04 pares Cat 6A 23 AWG LSZH color Violeta, marca SIEMON",
@@ -122,15 +218,15 @@
           },
           {
             "label": "Conectividad:",
-            "value": "transmisiones Ethernet hasta 10GBASE‑T / 1000BASE‑T / 100BASE‑T / 10BASE‑T, soporte para PoE (IEEE 802.3af/at/bt) y Power over HDBaseT (PoH)"
+            "value": "transmisiones Ethernet hasta 10GBASE-T / 1000BASE-T / 100BASE-T / 10BASE-T, soporte para PoE (IEEE 802.3af/at/bt) y Power over HDBaseT (PoH)"
           },
           {
             "label": "Dimensiones:",
-            "value": "Diámetro exterior: ~6.99 mm (~7.0 mm)"
+            "value": "Diámetro exterior: ~6.99 mm (~7.0 mm)"
           },
           {
             "label": "Peso:",
-            "value": "aproximado: 20 kg por rollo de 305 m (~44 lb)"
+            "value": "aproximado: 20 kg por rollo de 305 m (~44 lb)"
           }
         ]
       },
@@ -139,7 +235,7 @@
         "items": [
           {
             "label": "Protocolo de direccionamiento:",
-            "value": "compatible con protocolos estándares de Ethernet (10BASE‑T, 100BASE‑T, 1000BASE‑T, 10GBASE‑T)."
+            "value": "compatible con protocolos estándares de Ethernet (10BASE-T, 100BASE-T, 1000BASE-T, 10GBASE-T)."
           },
           {
             "label": "Protocolo de gestión remota:",
@@ -152,7 +248,7 @@
         "items": [
           {
             "label": "",
-            "value": "Cumple con ANSI/TIA‑568.2‑D para cables Cat6A, Cumple ISO/IEC 11801‑1 Clase EA (Cat6A global), IEC 61156‑5 Ed.2.0 (Especificación para cables de par trenzado), IEC 60332‑3‑24 y IEC 60332‑3‑25 (resistencia al fuego de cables en instalaciones), IEC 60754‑1/2 y IEC 61034 (LSOH, baja emisión de humos y acidez)"
+            "value": "Cumple con ANSI/TIA-568.2-D para cables Cat6A, Cumple ISO/IEC 11801-1 Clase EA (Cat6A global), IEC 61156-5 Ed.2.0 (Especificación para cables de par trenzado), IEC 60332-3-24 y IEC 60332-3-25 (resistencia al fuego de cables en instalaciones), IEC 60754-1/2 y IEC 61034 (LSOH, baja emisión de humos y acidez)"
           }
         ]
       },
@@ -161,11 +257,11 @@
         "items": [
           {
             "label": "Certificaciones:",
-            "value": "LSOH conforme a IEC 60332‑3, IEC 60754, IEC 61034 y norma CPR clase Eca (según Europa)"
+            "value": "LSOH conforme a IEC 60332-3, IEC 60754, IEC 61034 y norma CPR clase Eca (según Europa)"
           },
           {
             "label": "Temperatura de operación:",
-            "value": "desde −20 °C hasta +75 °C (máximo +75 °C para versión LSOH) y almacenamiento hasta +75 °C; instalación entre 0 y 60 °C"
+            "value": "desde −20 °C hasta +75 °C (máximo +75 °C para versión LSOH) y almacenamiento hasta +75 °C; instalación entre 0 y 60 °C"
           }
         ]
       }
