@@ -9,11 +9,10 @@
       "https://web.netperu100.com/siemon/images/9C6L4-E3-VI-1000_sid.webp"
     ],
     "especificaciones": [
-      "Cable Category 6 UTP (sin blindaje), diseño Solution 6 LSZH-1 con chaqueta violeta y marcado inverso en secuencia",
-      "Conductores sólidos de 24 AWG (≈ 0.52 mm), aislamiento HDPE ≈ 0.99 mm",
-      "Miembro central de aislamiento (“cross-pair separator”) para mejorar geometría interna y reducir diafonía",
-      "Diámetro exterior nominal de ≈ 5.6 mm (± tolerancia)",
-      "Chaqueta LSZH (Clase Eca) cumpliendo LSOH y IEC flame tests (incluye IEC 60332-3-22, IEC 60754, IEC 61034)"
+      "Cable Category 6 UTP (sin blindaje), 4 pares trenzados con miembro central de aislamiento (center isolation member) para mejor geometría y baja diafonía",
+      "Conductor 23 AWG sólido (≈ 0.57 mm), cobre desnudo (no estañado)",
+      "Aislamiento HDPE (~0.99 mm) y chaqueta LSZH violeta (Solution/System 6 LSOH-1 cumpliendo IEC 60332-1 y 60332-3-22)",
+      "Diámetro exterior nominal: ≈ 5.84 mm (~0.22 in)"
     ],
     "detalles": [
       {
@@ -21,15 +20,15 @@
         "items": [
           {
             "label": "Tipo de dispositivo:",
-            "value": "cable de infraestructura Category 6 UTP, versión Solution 6, 4 pares sólidos 24 AWG, chaqueta LSZH tipo L (violeta)"
+            "value": "cable UTP sólida categoría 6, serie System 6® E3, diseñada para rendimiento por encima de estándares ISO/IEC y ANSI/TIA para Cat 6/Class E"
           },
           {
             "label": "Conectividad:",
-            "value": "compatible con 10BASE-T, 100BASE-T, 1000BASE-T, soporte para PoE IEEE 802.3af/at/bt (tipos 1-4) y Power over HDBaseT (PoH)"
+            "value": "soporta Ethernet 10BASE-T, 100BASE-T, 1000BASE-T; PoE IEEE 802.3af (Tipo 1), at (Tipo 2), bt (Tipo 3 y 4); Power over HDBaseT (PoH)"
           },
           {
             "label": "Dimensiones:",
-            "value": "diámetro exterior nominal ≈ 5.6 mm (0.22 in.); aislamiento ~0.99 mm; conductor ~0.52 mm"
+            "value": "diámetro exterior ≈ 5.84 mm; aislamiento HDPE ≈ 0.99 mm; conductor 0.57 mm (23 AWG)"
           },
           {
             "label": "Peso:",
@@ -42,7 +41,7 @@
         "items": [
           {
             "label": "Protocolo de direccionamiento:",
-            "value": "Ethernet estándar 10/100/1000BASE-T (Cat 6 hasta 250 MHz)"
+            "value": "Ethernet estándar 10/100/1000BASE-T (Cat 6, hasta 250 MHz)"
           },
           {
             "label": "Protocolo de gestión remota:",
@@ -55,7 +54,7 @@
         "items": [
           {
             "label": "",
-            "value": "Cumple ANSI/TIA-568.2-D, ISO/IEC 11801-1 Ed 1.0 (Clase E) y IEC 61156-5 (Category 6), Estándares de PoE compatibles IEEE 802.3af/at/bt y PoH"
+            "value": "ANSI/TIA-568.2-D (Categoría 6), ISO/IEC 11801-1 Ed.1.0 (Clase E), IEC 61156-5 (Categoría 6), IEEE 802.3af/at/bt y PoH (compatibilidad PoE)"
           }
         ]
       },
@@ -64,11 +63,11 @@
         "items": [
           {
             "label": "Certificaciones:",
-            "value": "LSZH tipo L (IEC 60332-1 y 60332-3-22), IEC 60754-1/2, IEC 61034; Euro-Clase CPR Clase Eca (según EN 50575)"
+            "value": "LS0H cumpliendo IEC 60332-1 / IEC 60332-3-22, IEC 60754-1/2, IEC 61034; CPR Clase Eca / Dca s2 d2 a1 (EN 50399)"
           },
           {
             "label": "Temperatura de operación:",
-            "value": "Instalación: 5…60 °C (41…140 °F), Operación: -10…60 °C (14…140 °F), Almacenamiento: 0…60 °C (32…140 °F)"
+            "value": "Instalación: 0…50 °C, Operación: -20…60 °C (algunos modelos llegan a -20…70 °C con variantes), Almacenamiento: -20…60 °C"
           }
         ]
       }
