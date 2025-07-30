@@ -1,4 +1,99 @@
 { 
+  "cable-9A5M4-E2": {
+    "pageTitle": "Rollo de 305 metros de cable F/UTP sólido de 04 pares Cat 5e PVC (CM , IEC 60332-1), color gris, marca SIEMON cable-9A5M4-E2",
+    "titulo": "Rollo de 305 metros de cable F/UTP sólido de 04 pares Cat 5e PVC (CM , IEC 60332-1), color gris, marca SIEMON cable-9A5M4-E2",
+    "precio": "U$ 438",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/9A5M4-E2_top.webp",
+      "https://web.netperu100.com/siemon/images/9A5M4-E2_front.webp",
+      "https://web.netperu100.com/siemon/images/9A5M4-E2_top.webp"
+    ],
+    "especificaciones": [
+      "Cable Category 6 UTP (sin blindaje), 4 pares trenzados con miembro central de aislamiento (center isolation member) para mejor geometría y baja diafonía",
+      "Conductor 23 AWG sólido (≈ 0.57 mm), cobre desnudo (no estañado)",
+      "Aislamiento HDPE (~0.99 mm) y chaqueta LSZH violeta (Solution/System 6 LSOH-1 cumpliendo IEC 60332-1 y 60332-3-22)",
+      "Diámetro exterior nominal: ≈ 5.84 mm (~0.22 in)"
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          {
+            "label": "Tipo de dispositivo:",
+            "value": "cable UTP sólida categoría 6, serie System 6® E3, diseñada para rendimiento por encima de estándares ISO/IEC y ANSI/TIA para Cat 6/Class E"
+          },
+          {
+            "label": "Conectividad:",
+            "value": "soporta Ethernet 10BASE-T, 100BASE-T, 1000BASE-T; PoE IEEE 802.3af (Tipo 1), at (Tipo 2), bt (Tipo 3 y 4); Power over HDBaseT (PoH)"
+          },
+          {
+            "label": "Dimensiones:",
+            "value": "diámetro exterior ≈ 5.84 mm; aislamiento HDPE ≈ 0.99 mm; conductor 0.57 mm (23 AWG)"
+          },
+          {
+            "label": "Peso:",
+            "value": "No especificado"
+          }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          {
+            "label": "Protocolo de direccionamiento:",
+            "value": "Ethernet estándar 10/100/1000BASE-T (Cat 6, hasta 250 MHz)"
+          },
+          {
+            "label": "Protocolo de gestión remota:",
+            "value": "No aplicable al cable; se gestiona desde switches o sistemas de NMS."
+          }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          {
+            "label": "",
+            "value": "ANSI/TIA-568.2-D (Categoría 6), ISO/IEC 11801-1 Ed.1.0 (Clase E), IEC 61156-5 (Categoría 6), IEEE 802.3af/at/bt y PoH (compatibilidad PoE)"
+          }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          {
+            "label": "Certificaciones:",
+            "value": "LS0H cumpliendo IEC 60332-1 / IEC 60332-3-22, IEC 60754-1/2, IEC 61034; CPR Clase Eca / Dca s2 d2 a1 (EN 50399)"
+          },
+          {
+            "label": "Temperatura de operación:",
+            "value": "Instalación: 0…50 °C, Operación: -20…60 °C (algunos modelos llegan a -20…70 °C con variantes), Almacenamiento: -20…60 °C"
+          }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+
   "cable-9C6L4-E3-VI-1000": {
     "pageTitle": "Rollo de 305 metros de cable UTP sólido 04 pares  Cat 6 23AWG LSZH, IEC 60332-1 color Violeta. marca SIEMON 9C6L4-E3-VI-1000",
     "titulo": "Rollo de 305 metros de cable UTP sólido 04 pares  Cat 6 23AWG LSZH, IEC 60332-1 color Violeta. marca SIEMON 9C6L4-E3-VI-1000",
