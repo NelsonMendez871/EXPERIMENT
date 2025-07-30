@@ -9,10 +9,10 @@
       "https://web.netperu100.com/siemon/images/9C6J4-E3_sid.webp"
     ],
     "especificaciones": [
-      "Cable Category 6 UTP (sin blindaje), 4 pares trenzados con miembro central de aislamiento (“center isolation member”) para geometría y reducción de diafonía",
-      "Conductor: cobre sólido 23 AWG (~0.55 mm), aislamiento de HDPE (~0.99 mm)",
-      "Chaqueta LSZH tipo LSOH‑3C, violeta, diseñada para cumplir exigentes estándares de inflamabilidad IEC 60332‑3C para cables agrupados",
-      "Diámetro exterior nominal: ~6.20 mm (0.24 in, máximo)"
+      "Cable Category 6 UTP (sin blindaje), 4 pares trenzados con miembro central de aislamiento (“center isolation member”) para geometría y reducción de diafonía",
+      "Conductor: cobre sólido 23 AWG (~0.55 mm), aislamiento de HDPE (~0.99 mm)",
+      "Chaqueta LSZH tipo LSOH-3C, violeta, diseñada para cumplir exigentes estándares de inflamabilidad IEC 60332-3C para cables agrupados",
+      "Diámetro exterior nominal: ~6.20 mm (0.24 in, máximo)"
     ],
     "detalles": [
       {
@@ -20,15 +20,15 @@
         "items": [
           {
             "label": "Tipo de dispositivo:",
-            "value": "Cable de infraestructura Category 6 UTP sólido, diseño System 6 para alto rendimiento"
+            "value": "Cable de infraestructura Category 6 UTP sólido, diseño System 6 para alto rendimiento"
           },
           {
             "label": "Conectividad:",
-            "value": "Compatible con 10BASE‑T, 100BASE‑T, 1000BASE‑T; soporta PoE IEEE 802.3af (Tipo 1), at (Tipo 2), bt (Tipo 3 y 4) y Power over HDBaseT (PoH)"
+            "value": "Compatible con 10BASE-T, 100BASE-T, 1000BASE-T; soporta PoE IEEE 802.3af (Tipo 1), at (Tipo 2), bt (Tipo 3 y 4) y Power over HDBaseT (PoH)"
           },
           {
             "label": "Dimensiones:",
-            "value": "Diámetro exterior ~6.20 mm; aislamiento ~0.99 mm; conductor ~0.55 mm (23 AWG)"
+            "value": "Diámetro exterior ~6.20 mm; aislamiento ~0.99 mm; conductor ~0.55 mm (23 AWG)"
           },
           {
             "label": "Peso:",
@@ -41,7 +41,7 @@
         "items": [
           {
             "label": "Protocolo de direccionamiento:",
-            "value": "Estándares Ethernet 10/100/1000BASE‑T y Category 6 activas hasta 250 MHz (rendimiento garantizado conforme a ISO/TIA)"
+            "value": "Estándares Ethernet 10/100/1000BASE-T y Category 6 activas hasta 250 MHz (rendimiento garantizado conforme a ISO/TIA)"
           },
           {
             "label": "Protocolo de gestión remota:",
@@ -54,7 +54,7 @@
         "items": [
           {
             "label": "",
-            "value": "Cumple con ANSI/TIA-568.2-D para cables Cat6A, Cumple ISO/IEC 11801-1 Clase EA (Cat6A global), IEC 61156-5 Ed.2.0 (Especificación para cables de par trenzado), IEC 60332-3-24 y IEC 60332-3-25 (resistencia al fuego de cables en instalaciones), IEC 60754-1/2 y IEC 61034 (LSOH, baja emisión de humos y acidez)"
+            "value": "Cumple con ISO/IEC 11801-1 Ed.1.0 (Clase E) para Category 6, Cumple ANSI/TIA-568.2-D (Categoría 6), Cumple IEC 61156-5 para cables Category 6, Estándares de fuego LS0H: IEC 60332-3-24, IEC 60332-3-25, además de IEC 60754-2 y IEC 61034; certificación CPR Clase Eca / Dca s2 d2 a1, Cumple normas IEEE para PoE: 802.3af/at/bt y PoH"
           }
         ]
       },
@@ -63,11 +63,11 @@
         "items": [
           {
             "label": "Certificaciones:",
-            "value": "LSOH conforme a IEC 60332-3, IEC 60754, IEC 61034 y norma CPR clase Eca (según Europa)"
+            "value": "LSOH tipo LSOH-3C según IEC 60332-3C (agrupados), IEC 60332-3-24/-3-25, IEC 60754-2, IEC 61034; CPR Clase Eca / Dca s2 d2 a1"
           },
           {
             "label": "Temperatura de operación:",
-            "value": "desde −20 °C hasta +75 °C (máximo +75 °C para versión LSOH) y almacenamiento hasta +75 °C; instalación entre 0 y 60 °C"
+            "value": "desde -20 °C hasta +60 °C; temperatura de instalación: 0 a 60 °C; almacenamiento: -20 a +75 °C"
           }
         ]
       }
