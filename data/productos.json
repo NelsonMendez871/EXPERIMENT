@@ -1,4 +1,99 @@
 { 
+  "9T7L4-E10-VL-1000": {
+    "pageTitle": "Rollo 305 metros cable S/FTP Sólido 04 Pares Cat 7A 23 AWG LSZH , color Violeta, marca SIEMON 9T7L4-E10-VL-1000",
+    "titulo": "Rollo 305 metros cable S/FTP Sólido 04 Pares Cat 7A 23 AWG LSZH , color Violeta, marca SIEMON 9T7L4-E10-VL-1000",
+    "precio": "U$ 429",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/9T7L4-E10-VL-1000_front.webp",
+      "https://web.netperu100.com/siemon/images/9T7L4-E10-VL-1000_sid.webp",
+      "https://web.netperu100.com/siemon/images/9T7L4-E10-VL-1000_front.webp"
+    ],
+    "especificaciones": [
+      "Cable Category 7A (Class FA), completamente blindado S/FTP: cada par protegido con cinta de aluminio/poliéster y una trenza externa de cobre bañado",
+      "Conductor sólido de 23 AWG (~0.57 mm), cobre desnudo (sin estañar)",
+      "Aislamiento HDPE/FRPE, chaqueta LSZH (LS0H) violeta, marcación secuencial para medidas",
+      "Diámetro exterior nominal: ≈ 7.7 mm (± 0.5 mm)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          {
+            "label": "Tipo de dispositivo:",
+            "value": "Cable S/FTP categoría 7A sólido de infraestructura, serie TERA® E10, diseño internacional."
+          },
+          {
+            "label": "Conectividad:",
+            "value": "compatible con Ethernet 10BASE-T, 100BASE-T, 1000BASE-T, soporte PoE IEEE 802.3af/at/bt (tipos 1-4) y Power over HDBaseT (PoH)."
+          },
+          {
+            "label": "Dimensiones:",
+            "value": "Ø exterior ≈ 7.7 mm; conductor 0.57 mm; aislamiento tipo HDPE/FRPE."
+          },
+          {
+            "label": "Peso:",
+            "value": "no se especifica"
+          }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          {
+            "label": "Protocolo de direccionamiento:",
+            "value": "estándares Ethernet hasta 10GBASE-T, compatible con aplicaciones Cat 7A/Class FA"
+          },
+          {
+            "label": "Protocolo de gestión remota:",
+            "value": "No aplica; la gestión remota se realiza vía switch o sistema NMS, no por el cable."
+          }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          {
+            "label": "",
+            "value": "ISO/IEC 11801-1 Ed.2.2 (Class FA), IEC 61156-5 Ed.2.1 (Category 7A), ANSI/TIA-568.2-D (Category 6A y 7 compatibilidad), Redes europeas: EN 50288-4-1, EN 55022/55024, EN 50575 Clase Dca s1a d1 a1, Compatible con IEEE 802.3af/at/bt y PoH"
+          }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          {
+            "label": "Certificaciones:",
+            "value": "LSOH conforme a IEC 60332-1, IEC 60332-3-22, IEC 60754-1/2, IEC 61034; CPR Clase Dca s1a d1 a1 según EN 50575"
+          },
+          {
+            "label": "Temperatura de operación:",
+            "value": "Instalación: 0 a 75 °C, Operación: -20 a 75 °C, Almacenamiento: -20 a 75 °C"
+          }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+
   "cable-9C5M4-E2": {
     "pageTitle": "Rollo de 305 metros de cable UTP sólido de 04 pares Cat 5e PVC (CM), color gris, marca SIEMON 9C5M4-E2",
     "titulo": "Rollo de 305 metros de cable UTP sólido de 04 pares Cat 5e PVC (CM), color gris, marca SIEMON 9C5M4-E2",
