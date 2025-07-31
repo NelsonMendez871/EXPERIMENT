@@ -1,4 +1,98 @@
 { 
+  "cable-9C5L4-E2": {
+    "pageTitle": "Rollo de 305 metros de cable UTP sólido de 04 pares Cat 5e LSOH-1, color violeta, marca SIEMON 9C5L4-E2",
+    "titulo": "Rollo de 305 metros de cable UTP sólido de 04 pares Cat 5e LSOH-1, color violeta, marca SIEMON 9C5L4-E2",
+    "precio": "U$ 438",
+    "imagenes": [
+      "https://nelsonmendez871.github.io/MULTIMEDIA/Imagenes/9A6L4-A5/9C5L4-E2.jpg",
+      "https://nelsonmendez871.github.io/MULTIMEDIA/Imagenes/9A6L4-A5/9C5L4-E2.jpg",
+      "https://nelsonmendez871.github.io/MULTIMEDIA/Imagenes/9A6L4-A5/9C5L4-E2.jpg"
+    ],
+    "especificaciones": [
+      "Cable Category 5e UTP (sin blindaje), 4 pares trenzados con conductor sólido de cobre de 24 AWG (≈ 0.50 mm)",
+      "Aislamiento de conductor de ~1.0 mm, cobre desnudo, chaqueta LSOH-1, color violeta, con marcado inverso secuencial",
+      "Diámetro exterior nominal ≈ 5.0 mm (±0.3 mm)"
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          {
+            "label": "Tipo de dispositivo:",
+            "value": "cable UTP sólido Cat 5e, 4 pares, chaqueta LSOH-1 (IEC 60332-1), versión internacional Premium 5e serie E2"
+          },
+          {
+            "label": "Conectividad:",
+            "value": "Ethernet 10BASE-T, 100BASE-T, 1000BASE-T; compatible con PoE según IEEE 802.3af/at/bt (Tipos 1-4) y Power over HDBaseT (PoH)"
+          },
+          {
+            "label": "Dimensiones:",
+            "value": "diámetro exterior ~5.0 mm; aislamiento ~1.0 mm; conductor 0.5 mm (24 AWG)"
+          },
+          {
+            "label": "Peso:",
+            "value": "no se especifica"
+          }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          {
+            "label": "Protocolo de direccionamiento:",
+            "value": "Cumple estándares de Ethernet hasta Gigabit (1000BASE-T) por categoría Cat 5e"
+          },
+          {
+            "label": "Protocolo de gestión remota:",
+            "value": "no aplica al cable; gestión remota está a cargo del equipo activo (switch/NMS)"
+          }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          {
+            "label": "",
+            "value": "Compatible con ANSI/TIA-568-E (Category 5e), ISO/IEC 11801 Ed.1.0 (Class D) y IEC 61156-5 (Category 5e), Soporta PoE según IEEE 802.3af/at/bt y PoH"
+          }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          {
+            "label": "Certificaciones:",
+            "value": "chaqueta LSOH-1 cumpliendo con IEC 60332-1, IEC 60332-3-22, IEC 60754, IEC 61034; Euro-clase CPR Clase Eca según EN 50575; también disponible en versiones PVC CM/CMR/CMX"
+          },
+          {
+            "label": "Temperatura de operación:",
+            "value": "Instalación: 0…60 °C, Operación: -20…60 °C, Almacenamiento: -20 a 75 °C"
+          }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+
   "cable-9A5R4-E2": {
     "pageTitle": "Rollo de 305 metros de cable F/UTP sólido de 04 pares Cat 5e PVC (RISER), color azul, marca SIEMON 9A5R4-E2",
     "titulo": "Rollo de 305 metros de cable F/UTP sólido de 04 pares Cat 5e PVC (RISER), color azul, marca SIEMON 9A5R4-E2",
