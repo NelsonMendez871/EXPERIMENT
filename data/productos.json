@@ -1,8 +1,104 @@
 { 
+  "cable-9C5M4-E2": {
+    "pageTitle": "Rollo de 305 metros de cable UTP sólido de 04 pares Cat 5e PVC (CM), color gris, marca SIEMON 9C5M4-E2",
+    "titulo": "Rollo de 305 metros de cable UTP sólido de 04 pares Cat 5e PVC (CM), color gris, marca SIEMON 9C5M4-E2",
+    "precio": "U$ 153",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/9C5M4-E2_front.webp",
+      "https://web.netperu100.com/siemon/images/9C5M4-E2_front.webp",
+      "https://web.netperu100.com/siemon/images/9C5M4-E2_front.webp"
+    ],
+    "especificaciones": [
+      "Cable Category 5e UTP, sin blindaje, 4 pares trenzados con cordón de tracción interno (rip cord), conductor sólido de cobre de 24 AWG (~0.5 mm)",
+      "Aislamiento aproximado de 1.0 mm y chaqueta de PVC clasificación CM, color gris, con numeración secuencial inversa en la chaqueta para medidas en campo",
+      "Cumple y supera las especificaciones ANSI/TIA-568 y ISO/IEC 11801",
+      "Ideal para instalaciones horizontales en ambientes de oficina o centros de datos.",
+      "Diámetro exterior nominal de ≈ 5.0 mm ±0.3 mm"
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          {
+            "label": "Tipo de dispositivo:",
+            "value": "cable de infraestructura Category 5e UTP sólido, 4 pares, chaqueta PVC CM, modelo internacional Solution/Premium 5e (serie E2)."
+          },
+          {
+            "label": "Conectividad:",
+            "value": "compatible con Ethernet 10BASE-T, 100BASE-T, 1000BASE-T y soporta PoE IEEE 802.3af/at/bt (Tipo 1–4) y Power over HDBaseT (PoH)."
+          },
+          {
+            "label": "Dimensiones:",
+            "value": "diámetro exterior ~5.0 mm; aislamiento ~1.0 mm; conductor ~0.5 mm (24 AWG)."
+          },
+          {
+            "label": "Peso:",
+            "value": "no se especifica"
+          }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          {
+            "label": "Protocolo de direccionamiento:",
+            "value": "Estándares Ethernet Cat 5e (1000BASE-T, 100BASE-T, 10BASE-T)"
+          },
+          {
+            "label": "Protocolo de gestión remota:",
+            "value": "No aplica; al igual que en los cables, la gestión remota se realiza desde switches o sistemas de NMS."
+          }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          {
+            "label": "",
+            "value": "ISO/IEC 11801-1 Ed.1.0 (Category 5e/Class D), ANSI/TIA-568-C.2 (Category 5e), IEC 61156-5 Ed.2.1"
+          }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          {
+            "label": "Certificaciones:",
+            "value": "UL CM, CSA FT4 (PVC CM); cumple la norma IEC 60332-1 para resistencia al fuego, y también es Euro-Clase Eca según EN 50575 para cables de cobre PVC CM"
+          },
+          {
+            "label": "Temperatura de operación:",
+            "value": "Instalación: 0 °C a 60 °C, Operación: -20 °C a 60 °C, Almacenamiento: -20 °C a 75 °C"
+          }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+
   "cable-9C5L4-E2": {
     "pageTitle": "Rollo de 305 metros de cable UTP sólido de 04 pares Cat 5e LSOH-1, color violeta, marca SIEMON 9C5L4-E2",
     "titulo": "Rollo de 305 metros de cable UTP sólido de 04 pares Cat 5e LSOH-1, color violeta, marca SIEMON 9C5L4-E2",
-    "precio": "U$ 438",
+    "precio": "U$ 150",
     "imagenes": [
       "https://nelsonmendez871.github.io/MULTIMEDIA/Imagenes/9A6L4-A5/9C5L4-E2.jpg",
       "https://nelsonmendez871.github.io/MULTIMEDIA/Imagenes/9A6L4-A5/9C5L4-E2.jpg",
@@ -96,7 +192,7 @@
   "cable-9A5R4-E2": {
     "pageTitle": "Rollo de 305 metros de cable F/UTP sólido de 04 pares Cat 5e PVC (RISER), color azul, marca SIEMON 9A5R4-E2",
     "titulo": "Rollo de 305 metros de cable F/UTP sólido de 04 pares Cat 5e PVC (RISER), color azul, marca SIEMON 9A5R4-E2",
-    "precio": "U$ 438",
+    "precio": "U$ 390",
     "imagenes": [
       "https://web.netperu100.com/siemon/images/9A5R4-E2_front.webp",
       "https://web.netperu100.com/siemon/images/9A5R4-E2_sid.webp",
@@ -191,7 +287,7 @@
   "cable-9A5M4-E2": {
     "pageTitle": "Rollo de 305 metros de cable F/UTP sólido de 04 pares Cat 5e PVC (CM , IEC 60332-1), color gris, marca SIEMON cable-9A5M4-E2",
     "titulo": "Rollo de 305 metros de cable F/UTP sólido de 04 pares Cat 5e PVC (CM , IEC 60332-1), color gris, marca SIEMON cable-9A5M4-E2",
-    "precio": "U$ 438",
+    "precio": "U$ 209",
     "imagenes": [
       "https://web.netperu100.com/siemon/images/9A5M4-E2_top.webp",
       "https://web.netperu100.com/siemon/images/9A5M4-E2_front.webp",
