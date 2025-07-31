@@ -1,4 +1,99 @@
 { 
+  "cable-9T7L4-E10": {
+    "pageTitle": "Rollo 305 metros cable S/FTP Sólido 04 Pares Cat 7A 23 AWG LSZH , con etiqueta 7E, color Violeta, marca SIEMON 9T7L4-E10",
+    "titulo": "Rollo 305 metros cable S/FTP Sólido 04 Pares Cat 7A 23 AWG LSZH , con etiqueta 7E, color Violeta, marca SIEMON 9T7L4-E10",
+    "precio": "U$ 429",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/9T7L4-E10_front.webp",
+      "https://web.netperu100.com/siemon/images/9T7L4-E10_sid.webp",
+      "https://web.netperu100.com/siemon/images/9T7L4-E10_sid.webp"
+    ],
+    "especificaciones": [
+      "Cable Category 7A (Class FA) con construcción S/FTP: cada par blindado con cinta aluminio/poliéster y trenza exterior de cobre estañado",
+      "Conductor sólido en cobre desnudo de 23 AWG (≈ 0.57 mm) ",
+      "Aislamiento tipo HDPE/FRPE; chaqueta LSZH (LS0H) violeta, con numeración secuencial para medidas en campo",
+      "Diámetro exterior nominal de ≈ 7.7 mm (± 0.5 mm)"
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          {
+            "label": "Tipo de dispositivo:",
+            "value": "cable S/FTP sólido Cat 7A, serie TERA® E10 para instalaciones internacionales"
+          },
+          {
+            "label": "Conectividad:",
+            "value": "soporta Ethernet 10BASE-T, 100BASE-T, 1000BASE-T y 10GBASE-T; compatible con PoE IEEE 802.3af (Tipo 1), at (Tipo 2), bt (Tipos 3 y 4) y PoH"
+          },
+          {
+            "label": "Dimensiones:",
+            "value": "diámetro exterior ≈ 7.7 mm, conductor 0.57 mm, aislamiento FRPE"
+          },
+          {
+            "label": "Peso:",
+            "value": "no se especifica"
+          }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          {
+            "label": "Protocolo de direccionamiento:",
+            "value": "estándares Ethernet Cat 7A/Class FA, hasta 10GBASE-T "
+          },
+          {
+            "label": "Protocolo de gestión remota:",
+            "value": "No aplica; la gestión remota se realiza vía switch o sistema NMS, no por el cable."
+          }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          {
+            "label": "",
+            "value": "ISO/IEC 11801-1 Ed.2.2 (Class FA), IEC 61156-5 Ed.2.1 (Category 7A), IEEE 802.3an (10GBASE-T), Normas europeas: EN 50288, EN 55022, EN 55024, EN 50173, LSZH: IEC 60332-1, IEC 60754-1/2, IEC 61034; CPR Clase Dca s1a d1 a1 según EN 50575"
+          }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          {
+            "label": "Certificaciones:",
+            "value": "LS0H conforme a las normas IEC antes mencionadas; Euro-clase CPR Dca s1a d1 a1 "
+          },
+          {
+            "label": "Temperatura de operación:",
+            "value": "Instalación: 0 a 75 °C, Operación: -20 a 75 °C, Almacenamiento: -20 a 75 °C"
+          }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+
   "cable-9T7L4-E10-VL-1000": {
     "pageTitle": "Rollo 305 metros cable S/FTP Sólido 04 Pares Cat 7A 23 AWG LSZH , color Violeta, marca SIEMON 9T7L4-E10-VL-1000",
     "titulo": "Rollo 305 metros cable S/FTP Sólido 04 Pares Cat 7A 23 AWG LSZH , color Violeta, marca SIEMON 9T7L4-E10-VL-1000",
