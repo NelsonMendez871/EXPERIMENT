@@ -118,7 +118,10 @@
   <!-- CONTENIDO DEL PRODUCTO -->
   <main class="">
     <!-- CASCADA DE NAVEGACIÓN RESPONSIVE "MARCA | PRODUCTO | NOMBRE" -->
-    <div id="breadcrumb-placeholder"></div>
+    <!-- Puedes agregar aquí el breadcrumb si lo necesitas, por ejemplo: -->
+    <nav class="text-sm text-gray-600 mb-2 px-2 py-1">
+      <span class="font-semibold">SIEMON</span> &gt; <span class="font-semibold">Switch Catalyst</span> &gt; <span class="text-blue-900 font-bold">C9200L-24T-4G-E</span>
+    </nav>
 
     <!-- CONTENT DE 3 COMULNAS SIDEBAR DERECHO - IZQUIERDO Y INFORMACION DE PRODUCTO -->
     <div class="mx-auto border">
@@ -217,27 +220,10 @@
     </div>
 
     <!-- PRODUCTOS SIMILARES A ESTE  -->
-    <div id="related-products-placeholder"></div>
+    <!-- Puedes agregar aquí productos relacionados si lo necesitas -->
 
   </main>
-  <script>
-    // Función para cambiar la imagen principal
-    function toExchangeImage(element) {
-      // 1. Obtiene la ruta de la imagen clickeada
-      const newSrc = element.src;
-      
-      // 2. Selecciona la imagen principal
-      const mainImg = document.getElementById('img_main');
-      
-      // 3. Cambia la fuente de la imagen principal
-      mainImg.src = newSrc;
-    }
-    
-    // (Opcional) Función para ver imagen en grande
-    function viewImage(src) {
-      window.open(src, '_blank');
-    }
-  </script>
+  <!-- Si necesitas funciones JS para imágenes, agrégalas aquí -->
   <!-- FOOTER -->
   <footer class="bg-gray-100 py-8 px-4 sm:px-6 lg:px-8 w-full">
       <div class="max-w-7xl mx-auto">
