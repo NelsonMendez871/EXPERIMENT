@@ -119,8 +119,14 @@
   <main class="">
     <!-- CASCADA DE NAVEGACIÓN RESPONSIVE "MARCA | PRODUCTO | NOMBRE" -->
     <!-- Puedes agregar aquí el breadcrumb si lo necesitas, por ejemplo: -->
-    <nav class="text-sm text-gray-600 mb-2 px-2 py-1">
-      <span class="font-semibold">SIEMON</span> &gt; <span class="font-semibold">Switch Catalyst</span> &gt; <span class="text-blue-900 font-bold">C9200L-24T-4G-E</span>
+    <nav class="text-sm text-gray-700 mb-4 px-2 py-1 flex items-center space-x-2">
+      <a href="/EXPERIMENT/index.html" class="text-blue-600 hover:underline"><i class="fas fa-home"></i></a>
+      <span>&gt;</span>
+      <a href="/EXPERIMENT/productos/cables/" class="font-semibold text-blue-900 hover:underline">SIEMON</a>
+      <span>&gt;</span>
+      <a href="/EXPERIMENT/productos/cables/" class="font-semibold hover:underline">Cables</a>
+      <span>&gt;</span>
+      <span class="text-blue-900 font-bold">C9200L-24T-4G-E</span>
     </nav>
 
     <!-- CONTENT DE 3 COMULNAS SIDEBAR DERECHO - IZQUIERDO Y INFORMACION DE PRODUCTO -->
@@ -228,87 +234,53 @@
   <footer class="bg-gray-100 py-8 px-4 sm:px-6 lg:px-8 w-full">
       <div class="max-w-7xl mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-          <!-- Columna 1: Logo y contacto -->
+          <!-- Columna 1: Logo y redes -->
           <div class="space-y-4">
-            <img src="http://www.ds3comunicaciones.com/mikrotik/images/Logo1.jpg" alt="DS3 Comunicaciones"
-              class="w-32 h-auto" />
-            <div class="space-y-2">
-              <h3 class="text-lg font-bold text-gray-800">Redes Sociales</h3>
-              <div class="flex space-x-4">
-                <a href="#" class="text-gray-600 hover:text-blue-600 transition-colors">
-                  <i class="fab fa-facebook-f text-xl"></i>
-                </a>
-                <a href="https://wa.me/994428965?text=Hola nesecito ayuda" target="_blank"
-                  class="text-gray-600 hover:text-green-600 transition-colors">
-                  <i class="fab fa-whatsapp text-xl"></i>
-                </a>
-              </div>
+            <img src="http://www.ds3comunicaciones.com/mikrotik/images/Logo1.jpg" alt="DS3 Comunicaciones" class="w-32 h-auto" />
+            <h3 class="font-bold text-gray-800">Redes Sociales</h3>
+            <div class="flex space-x-4">
+              <a href="#" class="text-gray-600 hover:text-blue-600 transition-colors"><i class="fab fa-facebook-f text-xl"></i></a>
+              <a href="https://wa.me/994428965?text=Hola nesecito ayuda" target="_blank" class="text-gray-600 hover:text-green-600 transition-colors"><i class="fab fa-whatsapp text-xl"></i></a>
             </div>
-            <div class="space-y-2">
-              <h3 class="text-lg font-bold text-gray-800">Correo</h3>
-              <a href="mailto:netperu100@hotmail.com"
-                class="flex items-center text-gray-600 hover:text-blue-600 transition-colors">
-                <i class="fas fa-envelope mr-2"></i>
-                netperu100@hotmail.com
-              </a>
-            </div>
+            <h3 class="font-bold text-gray-800 mt-4">Correo</h3>
+            <a href="mailto:netperu100@hotmail.com" class="flex items-center text-gray-600 hover:text-blue-600 transition-colors"><i class="fas fa-envelope mr-2"></i>netperu100@hotmail.com</a>
           </div>
           <!-- Columna 2: Soluciones -->
           <div class="space-y-4">
-            <h3 class="text-lg font-bold text-gray-800">Soluciones</h3>
-            <ul class="space-y-2">
-              <li>
-                <a href="https://www.ds3comunicaciones.com/l-com/AccessPoint.html" target="_blank"
-                  class="text-gray-600 hover:text-blue-600 hover:underline transition-colors">
-                  Access Point
-                </a>
-              </li>
-              <li>
-                <a href="https://www.ds3comunicaciones.com/lcom/AntenasMIMO.html" target="_blank"
-                  class="text-gray-600 hover:text-blue-600 hover:underline transition-colors">
-                  Antenas MIMO
-                </a>
-              </li>
-              <li>
-                <a href="https://www.ds3comunicaciones.com/l-com/AntenasPanel.html" target="_blank"
-                  class="text-gray-600 hover:text-blue-600 hover:underline transition-colors">
-                  Antenas Panel
-                </a>
-              </li>
+            <h3 class="font-bold text-gray-800">Soluciones</h3>
+            <ul class="space-y-1">
+              <li><a href="#" class="text-gray-700 hover:text-blue-600">Access Point</a></li>
+              <li><a href="#" class="text-gray-700 hover:text-blue-600">Antenas MIMO</a></li>
+              <li><a href="#" class="text-gray-700 hover:text-blue-600">Antenas de Panel</a></li>
+              <li><a href="#" class="text-gray-700 hover:text-blue-600">Antenas Sectoriales</a></li>
+              <li><a href="#" class="text-gray-700 hover:text-blue-600">Cable Pigtail</a></li>
+              <li><a href="#" class="text-gray-700 hover:text-blue-600">Media Converter</a></li>
             </ul>
           </div>
-          <!-- Columna 3: Información adicional -->
+          <!-- Columna 3: Soporte -->
           <div class="space-y-4">
-            <h3 class="text-lg font-bold text-gray-800">Contacto</h3>
-            <ul class="space-y-2">
-              <li class="flex items-center">
-                <i class="fas fa-phone-alt mr-2"></i>
-                <span>533-4339 / 994-428-965</span>
-              </li>
-              <li class="flex items-center">
-                <i class="fas fa-phone-alt mr-2"></i>
-                <span>99653-3223 / 937-514-867</span>
-              </li>
-              <li class="flex items-center">
-                <i class="fas fa-map-marker-alt mr-2"></i>
-                <span>Lima, PERÚ</span>
-              </li>
+            <h3 class="font-bold text-gray-800">Soporte</h3>
+            <ul class="space-y-1">
+              <li><a href="#" class="text-gray-700 hover:text-blue-600">Soporte Técnico</a></li>
+              <li><a href="#" class="text-gray-700 hover:text-blue-600">Acerca de Nosotros</a></li>
             </ul>
           </div>
-          <!-- Columna 4: Marcas destacadas -->
+          <!-- Columna 4: Contacto y horario -->
           <div class="space-y-4">
-            <h3 class="text-lg font-bold text-gray-800">Marcas Destacadas</h3>
-            <div class="flex flex-wrap gap-2">
-              <img src="http://www.ds3comunicaciones.com/belden/images/Belden-Logo-93x15.jpg" alt="Belden" class="h-8" />
-              <img src="http://www.ds3comunicaciones.com/cisco/images/logo-cisco.gif" alt="Cisco" class="h-8" />
-              <img src="http://www.ds3comunicaciones.com/siemon/images/siemon_logo1.GIF" alt="Siemon" class="h-8" />
-              <img src="http://www.ds3comunicaciones.com/belden/images/amp_logo2-91x20.jpg" alt="AMP" class="h-8" />
-              <img src="http://www.ds3comunicaciones.com/belden/images/airlivelogo.gif" alt="Airlive" class="h-8" />
-            </div>
+            <h3 class="font-bold text-gray-800">Contacto</h3>
+            <ul class="space-y-1">
+              <li class="flex items-center"><i class="fas fa-phone-alt mr-2"></i>994 428 965</li>
+              <li class="flex items-center"><i class="fas fa-phone-alt mr-2"></i>996 533 223</li>
+            </ul>
+            <h3 class="font-bold text-gray-800 mt-4">Horario de Atención</h3>
+            <ul class="space-y-1">
+              <li>Lunes a Viernes: 9:00 - 18:00</li>
+              <li>Sábados: 9:00 - 13:00</li>
+            </ul>
           </div>
         </div>
-        <div class="text-center text-xs text-gray-500 mt-8">
-          &copy; 2025 DS3 Comunicaciones. Todos los derechos reservados.
+        <div class="text-center text-xs text-gray-500 mt-8 border-t pt-4">
+          &copy; 2023 DS3 Comunicaciones. Todos los derechos reservados.
         </div>
       </div>
   </footer>
