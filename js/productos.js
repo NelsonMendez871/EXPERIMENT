@@ -2,8 +2,12 @@
 document.addEventListener('DOMContentLoaded', () => {
   const basePath = location.pathname.includes('/productos/') ? '../' : '';
   const productoKey = obtenerNombreProducto(); // p.ej. "C9200L-24P-4G-E"
+  
+  // NUEVO: Detectar familia desde la URL
+  const familia = obtenerFamiliaProducto(); // p.ej. "cables"
+  const jsonPath = `../../data/${familia}.json`;
 
-  fetch(`../../data/productos.json`)
+  fetch(jsonPath)
     .then(res => res.json())
     .then(data => {
       const producto = data[productoKey];
@@ -39,6 +43,20 @@ document.addEventListener('DOMContentLoaded', () => {
     })
     .catch(err => console.error('Error cargando productos.json:', err));
 });
+
+// NUEVO: Función para obtener la familia desde la URL
+function obtenerFamiliaProducto() {
+  // Ejemplo: /productos/cables/cable-9C6L4-E2.html → cables
+  const path = window.location.pathname;
+  const partes = path.split('/');
+  // Busca el índice de "productos" y toma el siguiente como familia
+  const idx = partes.indexOf('productos');
+  if (idx !== -1 && partes.length > idx + 1) {
+    return partes[idx + 1];
+  }
+  // Valor por defecto si no se encuentra
+  return 'cables';
+}
 
 /** Obtiene el nombre del archivo HTML sin extensión */
 function obtenerNombreProducto() {
