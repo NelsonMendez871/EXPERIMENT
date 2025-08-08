@@ -119,14 +119,14 @@
   <main class="">
     <!-- CASCADA DE NAVEGACIÓN RESPONSIVE "MARCA | PRODUCTO | NOMBRE" -->
     <!-- Puedes agregar aquí el breadcrumb si lo necesitas, por ejemplo: -->
-    <nav class="text-sm text-gray-700 mb-4 px-2 py-1 flex items-center space-x-2">
-      <a href="/EXPERIMENT/index.html" class="text-blue-600 hover:underline"><i class="fas fa-home"></i></a>
+    <nav class="border px-3 py-2 text-xs md:text-sm text-slate-600 flex flex-nowrap items-center gap-1 overflow-x-auto scrollbar-hide whitespace-nowrap">
+      <a href="/EXPERIMENT/index.html" class="flex-shrink-0 hover:text-blue-600"><i class="fa-solid fa-house text-[0.9em]"></i></a>
       <span>&gt;</span>
       <a href="/EXPERIMENT/productos/cables/" class="font-semibold text-blue-900 hover:underline">SIEMON</a>
       <span>&gt;</span>
       <a href="/EXPERIMENT/productos/cables/" class="font-semibold hover:underline">Cables</a>
       <span>&gt;</span>
-      <span class="text-blue-900 font-bold">C9200L-24T-4G-E</span>
+      <span class="text-blue-900 font-bold">Cables SIEMON</span>
     </nav>
 
     <!-- CONTENT DE 3 COMULNAS SIDEBAR DERECHO - IZQUIERDO Y INFORMACION DE PRODUCTO -->
@@ -165,23 +165,25 @@
         <!-- CONTENIDO PRINCIPAL DE PRODUCTOS (siempre visible) -->
 
         <div class="w-full lg:w-4/6 bg-white rounded-lg shadow p-4">
-          <h2 class="text-2xl font-bold text-center mb-6 text-blue-900">Lista de precios de cables SIEMON</h2>
+          <h2 class="text-2xl font-bold text-center mb-4 text-blue-900">Lista de precios de cables SIEMON</h2>
+          <div class="mb-2 text-sm text-gray-700 font-semibold bg-blue-50 border border-blue-200 rounded px-3 py-2 flex items-center gap-2">
+            <i class="fas fa-info-circle text-blue-600"></i>
+            Precios en dólares americanos (USD). No incluyen IGV.
+          </div>
           <div class="overflow-x-auto">
-            <table class="min-w-full border border-gray-200 rounded-lg shadow-sm text-sm bg-white">
+            <table class="min-w-full border border-blue-200 rounded-lg shadow-lg text-sm bg-white" id="tabla-precios">
               <colgroup>
-                <col style="width: 140px;">
-                <col style="width: 320px;">
+                <col style="width: 150px;">
+                <col style="width: 340px;">
+                <col style="width: 160px;">
                 <col style="width: 120px;">
-                <col style="width: 140px;">
-                <col style="width: 100px;">
               </colgroup>
-              <thead class="sticky top-0 z-10">
-                <tr class="bg-gradient-to-r from-blue-100 to-blue-300 text-blue-900">
-                  <th class="border border-gray-200 px-3 py-3 font-semibold text-center">FOTO</th>
-                  <th class="border border-gray-200 px-3 py-3 font-semibold">DETALLE</th>
-                  <th class="border border-gray-200 px-3 py-3 font-semibold">MODELO</th>
-                  <th class="border border-gray-200 px-3 py-3 font-semibold">CATEGORÍA</th>
-                  <th class="border border-gray-200 px-3 py-3 font-semibold">PRECIO</th>
+              <thead>
+                <tr class="bg-gradient-to-r from-blue-900 to-blue-600 text-white">
+                  <th class="border border-blue-200 px-4 py-3 font-semibold text-center">Foto</th>
+                  <th class="border border-blue-200 px-4 py-3 font-semibold text-center">Detalle</th>
+                  <th class="border border-blue-200 px-4 py-3 font-semibold text-center">Modelo</th>
+                  <th class="border border-blue-200 px-4 py-3 font-semibold text-center">Precio (USD)</th>
                 </tr>
               </thead>
               <tbody id="tabla-cables">
@@ -289,13 +291,12 @@
 
   <!-- Script para llenar la tabla de precios de cables SIEMON -->
   <script>
-    // Categorías válidas a mostrar
+    // Categorías válidas y su orden de aparición
     const categoriasValidas = [
-      'Cable UTP cat 5e',
-      'Cable UTP cat 6',
-      'Cable UTP cat 6A',
-      'Cable UTP cat 7',
-      'Cable UTP cat 7A'
+      { nombre: 'Cables Cat 5E', match: 'cat 5e' },
+      { nombre: 'Cables Cat 6', match: 'cat 6' },
+      { nombre: 'Cables Cat 6A', match: 'cat 6a' },
+      { nombre: 'Cables Cat 7A', match: 'cat 7a' }
     ];
 
     // Función para extraer el número del precio (ej: "U$ 153" -> 153)
@@ -312,36 +313,44 @@
         // Convertir a array y filtrar por categoría
         const productos = Object.entries(data)
           .map(([key, prod]) => ({...prod, key}))
-          .filter(prod => prod.categoria && categoriasValidas.some(cat => (prod.categoria + '').toLowerCase().includes(cat.toLowerCase())));
+          .filter(prod => prod.categoria && categoriasValidas.some(cat => (prod.categoria + '').toLowerCase().includes(cat.match)));
 
-        // Ordenar por precio de menor a mayor
-        productos.sort((a, b) => extraerPrecio(a.precio) - extraerPrecio(b.precio));
+        // Agrupar productos por categoría
+        const productosPorCategoria = {};
+        categoriasValidas.forEach(cat => {
+          productosPorCategoria[cat.nombre] = productos.filter(prod => (prod.categoria + '').toLowerCase().includes(cat.match));
+        });
 
         // Renderizar filas
         const tbody = document.getElementById('tabla-cables');
         tbody.innerHTML = '';
-        productos.forEach(prod => {
-          const img = prod.imagenes && prod.imagenes[0] ? prod.imagenes[0] : '';
-          const modelo = prod.key.replace('cable-', '');
-          const link = `productos/cables/${prod.key}.html`;
-          const fila = document.createElement('tr');
-          fila.className = 'hover:bg-gray-50';
-          fila.innerHTML = `
-            <td class="border border-gray-300 px-2 py-2 text-center">
-              <img src="${img}" alt="${modelo}" class="w-16 h-16 object-contain mx-auto" loading="lazy" />
-            </td>
-            <td class="border border-gray-300 px-2 py-2">${prod.titulo || ''}</td>
-            <td class="border border-gray-300 px-2 py-2 text-blue-700 font-semibold">
-              <a href="${link}" target="_blank" class="hover:underline">${modelo}</a>
-            </td>
-            <td class="border border-gray-300 px-2 py-2">${prod.categoria || ''}</td>
-            <td class="border border-gray-300 px-2 py-2 font-bold text-right">${prod.precio || ''}</td>
-          `;
-          tbody.appendChild(fila);
+        categoriasValidas.forEach((cat, idx) => {
+            // Fila de categoría (separador) con fondo oscuro y texto claro
+            const trCat = document.createElement('tr');
+            trCat.innerHTML = `<td colspan="4" class="border border-blue-900 text-center font-bold bg-gradient-to-r from-gray-900 via-blue-900 to-gray-800 text-white text-lg tracking-wide shadow-md">${cat.nombre}</td>`;
+            tbody.appendChild(trCat);
+
+          // Filas de productos de la categoría
+          productosPorCategoria[cat.nombre]
+            .sort((a, b) => extraerPrecio(a.precio) - extraerPrecio(b.precio))
+            .forEach((prod, i) => {
+              const img = prod.imagenes && prod.imagenes[0] ? `<img src="${prod.imagenes[0]}" alt="${prod.key}" class="h-20 w-20 object-contain mx-auto rounded shadow border border-blue-100 bg-white" />` : '';
+              const modelo = prod.key.replace('cable-', '');
+              const link = `productos/cables/${prod.key}.html`;
+              const fila = document.createElement('tr');
+              fila.className = (i % 2 === 0 ? 'bg-white' : 'bg-blue-50') + ' hover:bg-blue-100 transition-colors';
+              fila.innerHTML = `
+                <td class="border border-blue-200 px-2 py-3 text-center align-middle">${img}</td>
+                <td class="border border-blue-200 px-2 py-3 align-middle">${prod.titulo || ''}</td>
+                <td class="border border-blue-200 px-2 py-3 text-center align-middle"><a href="${link}" class="text-blue-700 hover:underline font-semibold">${modelo}</a></td>
+                <td class="border border-blue-200 px-2 py-3 text-center align-middle font-bold">${prod.precio || ''}</td>
+              `;
+              tbody.appendChild(fila);
+            });
         });
       })
       .catch(err => {
-        document.getElementById('tabla-cables').innerHTML = '<tr><td colspan="5" class="text-center text-red-500">No se pudo cargar la lista de precios.</td></tr>';
+        document.getElementById('tabla-cables').innerHTML = '<tr><td colspan="4" class="text-center text-red-500">No se pudo cargar la lista de precios.</td></tr>';
         console.error('Error cargando cables.json:', err);
       });
   </script>
