@@ -1,0 +1,2643 @@
+{
+  "patchcord-MC5-03-0606": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 5e, 0.9 m, azul, marca SIEMON – MC5-03-0606",
+    "titulo": "Patch Cord UTP RJ-45 Cat 5e, 0.9 m, azul, marca SIEMON – MC5-03-0606",
+    "precio": "US$ 7.2",
+    "categoria": "Patch Cord UTP Cat 5e",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC5-03-0606_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC5-03-0606_left.jpg",
+      "https://web.netperu100.com/siemon/images/MC5-03-0606_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP categoría 5e, alta flexibilidad, con latch guard integrado en la bota que protege el broche al pasar el cable por canaletas o racks.",
+      "Cableado doble extremo (RJ-45 a RJ-45), con pines con mínimo de 50 micro-pulgadas de oro sobre níquel, que mejora la durabilidad y resistencia a la corrosión por humedad o ambientes extremos.",
+      "Fabricado con cable trenzado stranded para mayor resistencia a fatiga por flexión. Chaqueta ignífuga tipo CM (meets flame-retardant CM rating)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Cable patch cord UTP Cat 5e, doble-ended, stranded, con bota y latch guard." },
+          { "label": "Conectividad:", "value": "RJ-45 a RJ-45, cableado universal compatible con esquemas T568A y T568B." },
+          { "label": "Dimensiones (Longitud):", "value": "0.9 metros (3 pies), color código '03' para longitud y '06' para azul." },
+          { "label": "Peso:", "value": "No disponible públicamente." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "PoE:", "value": "Compatible con IEEE 802.3af (Type 1), 802.3at (Type 2), 802.3bt (Types 3 y 4), y Power over HDBaseT (PoH)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas y Certificaciones",
+        "items": [
+          { "label": "Normas y estándares aplicables:", "value": "ANSI/TIA-568.2-D, ISO/IEC 11801-1 (Edición 1.0), IEC 60603-7, TIA-968-A." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (14–140 °F)." },
+          { "label": "Materiales:", "value": "Contactos con cobertura mínima de 50 μin de oro para mayor durabilidad. Chaqueta flame-retardant (rating CM). Componentes RoHS compliant, libres de plomo, halógenos y PVC." },
+          { "label": "Compatibilidad inversa:", "value": "Funciona con sistemas Cat 5e, MAX 6, CT 6, HD 6." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC5-03-0606/MC5-03-0606_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC5-03-0606/MC5-03-0606_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC5-03-0606/MC5-03-0606_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC5-07-0606": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 5e, 2.1 m, color azul, marca SIEMON – MC5-07-0606",
+    "titulo": "Patch Cord UTP RJ-45 Cat 5e, 2.1 m, color azul, marca SIEMON – MC5-07-0606",
+    "precio": "US$ 9.2",
+    "categoria": "Patch Cord UTP Cat 5e",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC5-07-0606_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC5-07-0606_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC5-07-0606_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP Cat 5e tipo stranded, con botas integradas (boot) y sistema latch-guard para proteger el clip al pasar por canaletas o cable-managers.",
+      "Conectores RJ-45 en ambos extremos, con al menos 50 micro-pulgadas de oro sobre níquel, lo que mejora la resistencia a la corrosión y mantiene calidad en presencia de humedad o temperaturas extremas.",
+      "Cumple y supera los requerimientos de estándares como ANSI/TIA-568.2-E, ISO/IEC 11801-1 (Ed. 1.0), y IEC 60603-7, garantizando desempeño consistente."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch Cord UTP Cat 5e, stranded, con botas y latch-guard" },
+          { "label": "Conectividad:", "value": "RJ-45 a RJ-45, cableado T568B (compatible con T568A)" },
+          { "label": "Longitud:", "value": "2.13 m (≈ 7 ft) — código “07” indica la longitud" },
+          { "label": "Color:", "value": "Azul — código “06”" },
+          { "label": "Peso / Dimensiones:", "value": "No disponibles públicamente" },
+          { "label": "Construcción:", "value": "Cable stranded, boot de alivio, jacket flame-retardant CM" }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "PoE:", "value": "Compatible con IEEE 802.3af (Type 1), IEEE 802.3at (Type 2), IEEE 802.3bt (Types 3 y 4), Power over HDBaseT (PoH)" }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "Normas y estándares aplicables:", "value": "ANSI/TIA-568.2-E, ISO/IEC 11801-1 Ed. 1.0, IEC 60603-7, TIA-968-A menciona compatibilidad con modular plugs" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (14–140 °F)" },
+          { "label": "Materiales:", "value": "Contactos dorados, cuerpo libre de plomo y cumpliendo con RoHS, con chaqueta de cable CM resistente al fuego." },
+          { "label": "Construcción fiable:", "value": "Excede los requerimientos de longevidad y rendimiento para instalaciones exigentes." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC5-07-0606/MC5-07-0606_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC5-07-0606/MC5-07-0606_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC5-07-0606/MC5-07-0606_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC5-07-0606B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 5e, 2.1 m, azul, marca SIEMON – MC5-07-0606B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 5e, 2.1 m, azul, marca SIEMON – MC5-07-0606B",
+    "precio": "US$ 8.7",
+    "categoria": "Patch Cord UTP Cat 5e",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC5-07-0606B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC5-07-0606B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC5-07-0606B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP Cat 5e stranded, altamente flexible, con boot y latch-guard integrado para proteger el clip al pasar por canalizaciones o racks.",
+      "Contactos con mínimo de 50 microinches de oro sobre níquel, lo que mejora la transmisión y resistencia a la corrosión.",
+      "Concha flame-retardant tipo CM, cumpliendo estándares contra incendios.",
+      "El cable supera ampliamente las normas Cat 5e de ANSI/TIA-568.2-E e ISO/IEC 11801-1."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch Cord UTP Cat 5e, stranded, con boot" },
+          { "label": "Conectividad:", "value": "RJ-45 a RJ-45, cableado T568B (funciona también con T568A)" },
+          { "label": "Longitud / Color:", "value": "2.1 m (≈ 7 ft), color azul – códigos “07” (longitud) y “06” (color azul)" },
+          { "label": "Paquete:", "value": "Bulk pack (100 unidades) – indicada por la “B” al final del modelo" },
+          { "label": "Materiales:", "value": "Cable UTP CM jacket; boot con latch-guard; contactos dorados" },
+          { "label": "Peso / Dimensiones:", "value": "No disponible públicamente" }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "PoE:", "value": "Compatible con IEEE 802.3af (Type 1), IEEE 802.3at (Type 2), IEEE 802.3bt (Types 3 & 4), Power over HDBaseT (PoH)" }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "Estándares cumplidos:", "value": "ANSI/TIA-568.2-E, ISO/IEC 11801-1 Ed. 1.0, IEC 60603-7, TIA-968-A (anteriormente FCC Part 68 Subpart F), Certificado cUL US" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones & Ambiente",
+        "items": [
+          { "label": "Rango de temperatura de operación:", "value": "–10 °C a 60 °C (14-140 °F)" },
+          { "label": "Construcción eco-friendly:", "value": "RoHS compliant, libre de plomo, halógenos y PVC" }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC5-07-0606B/MC5-07-0606B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC5-07-0606B/MC5-07-0606B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC5-07-0606B/MC5-07-0606B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC5-10-0606B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 5e, 3.1 m, azul, marca SIEMON – MC5-10-0606B (Bulk pack)",
+    "titulo": "Patch Cord UTP RJ-45 Cat 5e, 3.1 m, azul, marca SIEMON – MC5-10-0606B (Bulk pack)",
+    "precio": "US$ 10.1",
+    "categoria": "Patch Cord UTP Cat 5e",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC5-10-0606B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC5-10-0606B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC5-10-0606B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP categoría 5e, de tipo stranded (trenzado) para mayor flexibilidad y durabilidad, con boot y latch guard que protege el clip al pasar por canaletas o racks.",
+      "Contactos con un mínimo de 50 micro-pulgadas de oro sobre níquel, lo que mejora la conductividad y protege contra la corrosión.",
+      "Chaqueta con construcción flame-retardant CM, ideal para cumplir normativas de seguridad contra incendios.",
+      "Supera los requerimientos de desempeño de ANSI/TIA-568.2-E e ISO/IEC 11801-1 Ed. 1.0, asegurando transmisión confiable."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo:", "value": "Patch Cord UTP Cat 5e, stranded, con boot y latch guard" },
+          { "label": "Conectividad:", "value": "RJ-45 por ambos extremos; cableado T568B (compatible con T568A)" },
+          { "label": "Longitud:", "value": "3.1 m (aprox. 10 ft) — indicado por código “10” en el número de parte" },
+          { "label": "Color:", "value": "Azul — indicado por código “06” en el número de parte" },
+          { "label": "Presentación:", "value": "Bulk pack de 100 unidades — se identifica con la “B” al final del modelo" },
+          { "label": "Materiales:", "value": "Chaqueta CM flame-retardant; protección contra flexión; contacto dorado sobre níquel" }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "PoE:", "value": "Compatible con IEEE 802.3af (Tipo 1), IEEE 802.3at (Tipo 2), IEEE 802.3bt (Tipos 3 y 4), PoH (Power over HDBaseT)" }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "Aprobaciones y estándares cumplidos:", "value": "ANSI/TIA-568.2-E, ISO/IEC 11801-1 Ed. 1.0, IEC 60603-7, TIA-968-A (antiguamente FCC Part 68 Subpart F), Listado cUL US" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones & Ambiente",
+        "items": [
+          { "label": "Rango de operación:", "value": "–10 °C a 60 °C (14℉–140℉)" },
+          { "label": "Composición ambiental:", "value": "RoHS compliant, sin plomo ni PVC. Construcción robusta y duradera." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC5-10-0606B/MC5-10-0606B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC5-10-0606B/MC5-10-0606B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC5-10-0606B/MC5-10-0606B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC5-8T-05-B02C": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 5e, 1.52 m (5 ft), color blanco, marca SIEMON — MC5-8T-05-B02C.",
+    "titulo": "Patch Cord UTP RJ-45 Cat 5e, 1.52 m (5 ft), color blanco, marca SIEMON — MC5-8T-05-B02C.",
+    "precio": "US$ 8.8",
+    "categoria": "Patch Cord UTP Cat 5e",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC5-8T-05-B02C_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC5-8T-05-B02C_back.jpg",
+      "https://web.netperu100.com/siemon/images/MC5-8T-05-B02C_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP Cat 5e stranded (4 pares), bota protectora con latch-guard para evitar enganches.",
+      "Conectores RJ-45 pre-terminados en ambos extremos, contactos chapados en oro (mín. 50 µin) para resistencia a corrosión y buena conductividad.",
+      "Chaqueta con clasificación CM / flame-retardant (uso horizontal / interno).",
+      "Fabricado y probado por fábrica para garantizar cumplimiento de Cat 5e (no recomendado terminación en campo)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord / cordón de parcheo UTP, Category 5e, stranded." },
+          { "label": "Conectividad:", "value": "RJ-45 → RJ-45; cableado compatible T568A/T568B. Longitud: 1.52 m (5 ft); color: blanco." },
+          { "label": "Dimensiones:", "value": "Longitud 1.52 m; diámetro exterior no especificado en ficha pública." },
+          { "label": "Peso:", "value": "No especificado públicamente en las fichas consultadas." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (IEEE / OTROS)",
+        "items": [
+          { "label": "Cumple o está diseñado para:", "value": "Trabajar con los estándares de canal/componentes Category 5e: ANSI/TIA-568 (Cat5e), ISO/IEC 11801 y normas relacionadas para conectores RJ-45." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS compliant; listado/cumplimiento con requisitos TIA/IEC para Cat 5e; listado cUL/US en algunos SKUs distribuidos." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (14 °F a 140 °F) (valor indicado en las fichas de la familia de cables)." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC5-8T-05-B02C/MC5-8T-05-B02C_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC5-8T-05-B02C/MC5-8T-05-B02C_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC5-8T-05-B02C/MC5-8T-05-B02C_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-03-01B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 0.9 m, color negro, marca SIEMON – MC6-03-01B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 0.9 m, color negro, marca SIEMON – MC6-03-01B",
+    "precio": "US$ 9.3",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-03-01B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-03-01B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-03-01B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP Category 6, 4 pares, stranded (flexible) — diseñado para mantener desempeño de canal Cat-6 hasta 250 MHz.",
+      "Conectores RJ-45 en ambos extremos, boots claros (clear boot) y diseño de crimp 360° que mejora el alivio de tensión sin deformar pares.",
+      "Patented cross-pair isolator y otras mejoras de construcción que elevan la consistencia del rendimiento en el patching.",
+      "Variante Bulk (100 unidades) identificada por la “B” en el código cuando aplica al pack de proyecto. (MC6-03-01B corresponde a 0.9 m / negro / 100-pack en distribuidores)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord / cordón de parcheo UTP, Category 6, 4 pares, stranded." },
+          { "label": "Conectividad:", "value": "RJ-45 macho → RJ-45 macho; cableado compatible T568A / T568B." },
+          { "label": "Dimensiones:", "value": "Longitud: 0.9 m (3 ft). Diámetro exterior del cable no especificado públicamente en la ficha." },
+          { "label": "Peso:", "value": "No especificado públicamente en la documentación disponible." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "Diseñado para cumplir/exceder:", "value": "Requisitos de estándar de componentes ANSI/TIA-568.2-D (Cat 6) e ISO/IEC 11801-1; además cumple las especificaciones para conectores modulares IEC/ANSI aplicables a Cat-6." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "Chaqueta con clasificación CM / flame-retardant; cumplimiento RoHS; listado/cumplimiento cUL/cUL-US en SKUs distribuidos." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (14 °F a 140 °F)." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-03-01B/MC6-03-01B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-03-01B/MC6-03-01B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-03-01B/MC6-03-01B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-03-02B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 0.9 m (3 ft), color blanco, SIEMON — MC6-03-02B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 0.9 m (3 ft), color blanco, SIEMON — MC6-03-02B",
+    "precio": "US$ 9.3",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-03-02B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-03-02B_left.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-03-02B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Patch cord Category 6 (UTP), 4 pares, tipo stranded (flexible).",
+      "Conectores RJ-45 en ambos extremos, bota antienganches (clear/snug boot) y crimp 360° para alivio de tensión.",
+      "Construcción diseñada para rendimiento hasta 250 MHz (cumple/excede Cat-6).",
+      "Presentación Bulk (B) = paquete de proyecto (añadir “B” indica pack de 100 unidades en la familia MC6)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord / cordón de parcheo UTP, Category 6, 4 pares, stranded." },
+          { "label": "Conectividad:", "value": "RJ-45 macho → RJ-45 macho; cableado T568A/T568B. Modelo MC6-03-02 → 03 = 0.9 m (3 ft); 02 = White (blanco)." },
+          { "label": "Dimensiones:", "value": "Diámetro nominal del cable ≈ 5.3 mm (0.20 in); longitud 0.9 m." },
+          { "label": "Peso:", "value": "No especificado públicamente en la ficha técnica." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (es componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte eléctrico / PoE:", "value": "Compatible con Power over Ethernet (soporta despliegues PoE/PoH según la familia MC6)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "Normas IEEE relevantes:", "value": "IEEE 802.3af, 802.3at, 802.3bt (aplican a uso con PoE)." },
+          { "label": "Otras normas / estándares de cableado:", "value": "ANSI/TIA-568 (Cat-6), ISO/IEC 11801, IEC 60603-7 (especificaciones de conectores)." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS compliant; chaqueta con clasificación CM / flame-retardant; listado/cumplimiento cUL/cUL-US en SKUs y distribuidores." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (14 °F a 140 °F)." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-03-02B/MC6-03-02B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-03-02B/MC6-03-02B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-03-02B/MC6-03-02B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-03-03B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 0.9 m (3 ft), color rojo, SIEMON — MC6-03-03B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 0.9 m (3 ft), color rojo, SIEMON — MC6-03-03B",
+    "precio": "US$ 9.3",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-03-03B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-03-03B_sid.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-03-03B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Patch cord Category 6 (UTP), 4 pares, stranded (flexible).",
+      "Bota integrada (clear boot) con latch-guard para proteger el clip; diseño slim para alta densidad.",
+      "Construcción pensada para desempeño hasta 250 MHz, con aislador patentado y crimp 360° para minimizar deformación de pares.",
+      "Disponible en pack Bulk (añadir “B” = 100 unidades)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP, Category 6, 4-pair, stranded." },
+          { "label": "Conectividad:", "value": "RJ-45 macho → RJ-45 macho; compatible T568A / T568B." },
+          { "label": "Dimensiones:", "value": "Longitud = 0.9 m (3 ft). Diámetro nominal del cable ≈ 5.3 mm (0.20 in)." },
+          { "label": "Peso:", "value": "No especificado en la ficha pública." },
+          { "label": "Resistencia de contacto:", "value": "20 mΩ." },
+          { "label": "Resistencia DC entrada-salida:", "value": "200 mΩ." },
+          { "label": "Corriente nominal @25 °C:", "value": "1.5 A." },
+          { "label": "Wire size:", "value": "26 AWG (7×34) stranded tinned copper." },
+          { "label": "Número de ciclos de inserción:", "value": "750." },
+          { "label": "Retención mínima del plug:", "value": "50 N." },
+          { "label": "Jacket:", "value": "CM / LSOH (flame-retardant)." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte PoE:", "value": "Adecuado para IEEE 802.3af, 802.3at, 802.3bt (Tipos 1–4) y Power over HDBaseT (PoH)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (IEEE / OTROS)",
+        "items": [
+          { "label": "IEEE / PoE:", "value": "IEEE 802.3af / 802.3at / 802.3bt (Types 1–4)." },
+          { "label": "Otras normas de cableado / conectores:", "value": "ANSI/TIA-568.2-D; ISO/IEC 11801-1; IEC 60603-7; TIA-968-A; IEC 60332-1, 60754, 61054, 61034 (según ficha)." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "cUL US listed (según SKU/ficha); RoHS, libre de plomo/halógenos/PVC." },
+          { "label": "Flammability rating:", "value": "UL 94-V0 (plástico); jacket cumple requisitos CM/LSOH." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 75 °C (14 °F a 167 °F) según la ficha de la familia MC6." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-03-03B/MC6-03-03B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-03-03B/MC6-03-03B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-03-03B/MC6-03-03B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-03-05B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 0.9 m (3 ft), color amarillo, SIEMON — MC6-03-05B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 0.9 m (3 ft), color amarillo, SIEMON — MC6-03-05B",
+    "precio": "US$ 9.3",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-03-05B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-03-05B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-03-05B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Patch cord Category 6 (UTP), 4 pares, stranded (alta flexibilidad).",
+      "Boot con protector (latch-guard) para evitar que el clip se enganche al pasar por bandejas o canaletas; diseño slim para alta densidad.",
+      "Construcción y pruebas en fábrica para asegurar rendimiento de canal Cat-6 (250 MHz).",
+      "Presentación Bulk (paquete de proyecto) indicada por la “B” al final del código; color 05 = Yellow (amarillo)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord / cordón de parcheo UTP, Category 6, 4 pares, stranded." },
+          { "label": "Conectividad:", "value": "RJ-45 macho → RJ-45 macho; cableado compatible T568A / T568B." },
+          { "label": "Dimensiones:", "value": "Longitud: 0.9 m (3 ft). Diámetro nominal del cable: ~5.3 mm (0.20 in)." },
+          { "label": "Peso:", "value": "No especificado públicamente en la ficha técnica." },
+          { "label": "Construcción eléctrica / mecánica:", "value": "conductor 26 AWG (7×34) stranded tinned copper; contactos chapados (mín. 50 µin oro); ciclos de inserción ≈ 750; retención mínima del plug 50 N." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte PoE:", "value": "Apto para despliegues PoE conforme a IEEE 802.3af, 802.3at, 802.3bt (Types 1–4) y compatible con PoH cuando corresponde." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (lista principal)",
+        "items": [
+          { "label": "Diseñado para cumplir/exceder:", "value": "Estándares de componente/canal: ANSI/TIA-568.2-D (Cat-6), ISO/IEC 11801-1, IEC 60603-7." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones / materiales:", "value": "RoHS compliant; chaqueta flame-retardant CM / LSOH disponible según región; libre de plomo/halógenos según spec." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (14 °F a 140 °F)." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-03-05B/MC6-03-05B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-03-05B/MC6-03-05B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-03-05B/MC6-03-05B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-03-06B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 0.9 m (3 ft), color azul, SIEMON — MC6-03-06B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 0.9 m (3 ft), color azul, SIEMON — MC6-03-06B",
+    "precio": "US$ 9.3",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-03-06B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-03-06B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-03-06B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP Category 6, 4 pares, stranded (flexible) — rendimiento hasta 250 MHz.",
+      "Patented cross-pair isolator y 360° crimp para mejor NEXT y alivio de tensión sin deformar pares.",
+      "Bota slim con latch-guard integral (protege el clip al pasar por bandejas/canaletas).",
+      "Chaqueta cumple requisitos CM / LS0H (flame-retardant), opcional clip color para codificar puertos.",
+      "Presentación Bulk (añadir “B” = pack de proyecto de 100 unidades)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord / cordón de parcheo UTP, Category 6, 4-pair, stranded." },
+          { "label": "Conectividad:", "value": "RJ-45 macho → RJ-45 macho; cableado T568A / T568B." },
+          { "label": "Dimensiones:", "value": "Longitud = 0.9 m (3 ft). Diámetro nominal del cable ≈ 5.3 mm (0.20 in)." },
+          { "label": "Peso:", "value": "No especificado públicamente en la ficha técnica oficial." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Nota (energía):", "value": "Apto para PoE — IEEE 802.3af, 802.3at, 802.3bt (Types 3 & 4) y Power over HDBaseT (PoH)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (lista principal)",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Cat-6):", "value": "" },
+          { "label": "ISO/IEC 11801-1 Ed.1.0:", "value": "" },
+          { "label": "IEC 60603-7:", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "cUL US listed (según SKU/distribuidor), RoHS, libre de plomo/halógenos/PVC." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 75 °C (14 °F a 167 °F) (valor publicado para la familia MC6)." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-03-06B/MC6-03-06B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-03-06B/MC6-03-06B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-03-06B/MC6-03-06B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-05-01B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 1.5 m (5 ft), color negro, SIEMON — MC6-05-01B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 1.5 m (5 ft), color negro, SIEMON — MC6-05-01B",
+    "precio": "US$ 10.4",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-05-01B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-05-01B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-05-01B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Patch cord Category 6 (UTP), 4 pares, stranded (flexible).",
+      "Bota slim con latch-guard integrado (protege el clip), 360° crimp y aislador interno patentado para mejor NEXT.",
+      "Cordaje 250 MHz para desempeño Cat-6; clips de color opcionales para identificación sin desconectar el cordón.",
+      "Presentación Bulk (paquete de proyecto, 100 unidades) indicada por la “B” en la referencia."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord / cordón de parcheo UTP, Category 6 (MC6 series)." },
+          { "label": "Conectividad:", "value": "RJ-45 macho → RJ-45 macho; cableado T568A/T568B." },
+          { "label": "Dimensiones:", "value": "Longitud: 1.5 m (5 ft). Diámetro nominal del cable (O.D.): 5.3 mm (0.20 in)." },
+          { "label": "Peso:", "value": "No disponible públicamente en las fichas técnicas consultadas." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte eléctrico / PoE:", "value": "Compatible con PoE según estándares IEEE: 802.3af, 802.3at, 802.3bt (Types 1–4) y Power over HDBaseT (PoH)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "Normas / estándares relevantes:", "value": "ANSI/TIA-568.2-D (Category 6), ISO/IEC 11801-1 (Ed. 1.0), IEC 60603-7, TIA-968-A (antes FCC Part 68), IEEE PoE: 802.3af / 802.3at / 802.3bt (Types 1–4)." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "UL US listed; RoHS compliant; cumple requisitos IEC de inflamabilidad (IEC 60332-1, 60754, 61034) según la ficha." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (14 °F a 140 °F) — rango publicado para la familia MC6." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-05-01B/MC6-05-01B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-05-01B/MC6-05-01B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-05-01B/MC6-05-01B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-05-02B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 1.5 m, color blanco, SIEMON — MC6-05-02B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 1.5 m, color blanco, SIEMON — MC6-05-02B",
+    "precio": "US$ 10.4",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-05-02B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-05-02B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-05-02B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Patch cord Category 6 (UTP), 4 pares, stranded (flexible).",
+      "Bota slim con latch-guard integrado (protege el clip), 360° crimp para alivio de tensión sin deformar pares y aislador interno para mejorar NEXT.",
+      "Diseñado para rendimiento hasta 250 MHz; opcionales clips de color para codificar puertos sin desconectar el cordón."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord / cordón de parcheo UTP, Category 6, 4 pares, stranded." },
+          { "label": "Conectividad:", "value": "RJ-45 macho → RJ-45 macho; cableado compatible T568A / T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 1.5 m (5.0 ft); diámetro nominal del cable ≈ 5.3 mm (0.20 in)." },
+          { "label": "Peso:", "value": "No especificado públicamente en la ficha técnica oficial." },
+          { "label": "Datos mecánicos adicionales:", "value": "ciclos de inserción: 750; retención mínima del plug: 50 N; conductor nominal 26 AWG (7×34) stranded tinned copper." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte eléctrico / PoE:", "value": "Apto para IEEE 802.3af, 802.3at, 802.3bt (Types 1–4) y Power over HDBaseT (PoH)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "Normas y estándares:", "value": "ANSI/TIA-568.2-D (Cat-6), ISO/IEC 11801-1 Ed 1.0, IEC 60603-7, TIA-968-A, IEC 60332-1 / 60754 / 61034." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones / green features:", "value": "RoHS compliant; libre de plomo/halógenos/PVC; listado UL US según SKU." },
+          { "label": "Jacket / inflamabilidad:", "value": "Jacket tipo CM / LS0H; plásticos flame-retardant; UL 94-V0 en materiales plásticos." },
+          { "label": "Temperatura de operación:", "value": "-10 °C a 60 °C (14 °F a 140 °F)." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-05-02B/MC6-05-02B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-05-02B/MC6-05-02B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-05-02B/MC6-05-02B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-05-03B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 1.5 m (5 ft), color rojo, SIEMON — MC6-05-03B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 1.5 m (5 ft), color rojo, SIEMON — MC6-05-03B",
+    "precio": "US$ 10.4",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-05-03B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-05-03B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-05-03B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Patch cord Category 6 (UTP), 4 pares, tipo stranded (flexible).",
+      "Bota slim con latch-guard (protege el clip), diseño de crimp 360° para alivio de tensión sin deformar pares.",
+      "Cable nominal 26 AWG (7×34) stranded tinned copper; diámetro exterior ~5.3 mm (0.20 in).",
+      "Construcción y pruebas en fábrica para rendimiento Cat-6 (250 MHz).",
+      "Bulk pack = paquete de proyecto (añadir “B” = 100 unidades)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord / cordón de parcheo UTP, Category 6, 4 pares, stranded." },
+          { "label": "Conectividad:", "value": "RJ-45 macho → RJ-45 macho; wiring T568A/T568B." },
+          { "label": "Dimensiones:", "value": "Longitud: 1.5 m (5 ft). Cable O.D.: ≈ 5.3 mm." },
+          { "label": "Peso:", "value": "No figura en la documentación pública (no disponible)." },
+          { "label": "Datos mecánicos:", "value": "ciclos de inserción ≈ 750; retención mínima plug 50 N." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte PoE / eléctrico:", "value": "Apto para despliegues PoE conforme a IEEE 802.3af, 802.3at y 802.3bt (Types 1–4)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (Lista principal)",
+        "items": [
+          { "label": "ANSI/TIA-568 (component/channel Cat-6):", "value": "" },
+          { "label": "ISO/IEC 11801 (relevante para Category 6):", "value": "" },
+          { "label": "IEC 60603-7 (conectores modulares):", "value": "" },
+          { "label": "IEEE (PoE): 802.3af, 802.3at, 802.3bt.", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Materiales / ambiente:", "value": "RoHS compliant; libre de plomo/halógenos/PVC según spec; jacket CM / LS0H (flame-retardant)." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (valor estándar de la línea)." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-05-03B/MC6-05-03B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-05-03B/MC6-05-03B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-05-03B/MC6-05-03B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-05-06B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 1.5 m (5 ft), color azul, SIEMON — MC6-05-06B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 1.5 m (5 ft), color azul, SIEMON — MC6-05-06B",
+    "precio": "US$ 10.4",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-05-06B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-05-06B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-05-06B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP Category 6, 4 pares, stranded (flexible).",
+      "Bota slim con latch-guard integrado para proteger el clip; diseño con 360° crimp para buen alivio de tensión sin deformar pares.",
+      "Construcción y pruebas en fábrica para rendimiento de canal Cat-6 (250 MHz) — pensado para altas densidades en racks/panels.",
+      "Presentación Bulk (paquete de proyecto). Código del color: 06 = Blue (azul); código de longitud: 05 = 1.5 m (5 ft)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP, Category 6, 4 pares, stranded (MC6 series)." },
+          { "label": "Conectividad:", "value": "RJ-45 macho → RJ-45 macho; wiring compatible T568A / T568B. Conector a conector (110 → 110)." },
+          { "label": "Dimensiones:", "value": "Longitud 1.5 m (5 ft). Diámetro nominal del cable ≈ 5.3 mm (0.20 in)." },
+          { "label": "Peso:", "value": "No especificado públicamente en las fichas técnicas consultadas." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte PoE / energía:", "value": "Compatible con IEEE 802.3af, 802.3at, 802.3bt (Types 1–4) y Power over HDBaseT (PoH)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (lista principal)",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Category 6):", "value": "" },
+          { "label": "ISO/IEC 11801-1 (Ed.1.0) / Class E:", "value": "" },
+          { "label": "IEC 60603-7 (conectores modulares):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad plugs/modular):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "UL US listed (según SKU/distribuidor), RoHS compliant." },
+          { "label": "Jacket / inflamabilidad:", "value": "Chaqueta CM / LSOH (según región) — flame-retardant." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (valores publicados por la familia MC6)." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-05-06B/MC6-05-06B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-05-06B/MC6-05-06B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-05-06B/MC6-05-06B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-07-02B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 2.1 m, color blanco, marca SIEMON — MC6-07-02B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 2.1 m, color blanco, marca SIEMON — MC6-07-02B",
+    "precio": "US$ 11.4",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-07-02B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-07-02B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-07-02B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP Categoría 6, 4 pares, conductor trenzado flexible (stranded) 26 AWG.",
+      "Conectores RJ-45 macho en ambos extremos, con bota protectora slim y latch-guard para evitar daños en el clip.",
+      "Diseño 360° crimp que asegura alivio de tensión sin deformar los pares.",
+      "Ensamblado y probado en fábrica para cumplir el rendimiento de canal Cat 6 (250 MHz).",
+      "Presentación Bulk para proyectos. Código de color 02 = blanco, código de longitud 07 = 2.1 m (7 ft)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP, Category 6, 4 pares, stranded (serie MC6)." },
+          { "label": "Conectividad:", "value": "RJ-45 macho → RJ-45 macho, compatible con cableado T568A / T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 2.1 m (7 ft), diámetro exterior ≈ 5.3 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte PoE / Energía:", "value": "Compatible con IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt (Tipos 1–4) y PoH (Power over HDBaseT)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Categoría 6):", "value": "" },
+          { "label": "ISO/IEC 11801-1 Clase E:", "value": "" },
+          { "label": "IEC 60603-7 (conectores modulares):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores modulares):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "Cumple con RoHS, listado UL (según mercado)." },
+          { "label": "Jacket / Inflamabilidad:", "value": "Chaqueta CM o LSOH (dependiendo de la versión)." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-07-02B/MC6-07-02B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-07-02B/MC6-07-02B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-07-02B/MC6-07-02B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-07-03B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 2.1 m, color rojo, marca SIEMON — MC6-07-03B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 2.1 m, color rojo, marca SIEMON — MC6-07-03B",
+    "precio": "US$ 11.4",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-07-03B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-07-03B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-07-03B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP Categoría 6, 4 pares, conductor trenzado flexible (stranded) 26 AWG.",
+      "Conectores RJ-45 macho en ambos extremos, con bota protectora slim y latch-guard para evitar daños en el clip.",
+      "Diseño 360° crimp que asegura alivio de tensión y mantiene la integridad de los pares.",
+      "Ensamblado y probado en fábrica para cumplir el rendimiento de canal Cat 6 (250 MHz).",
+      "Presentación Bulk para proyectos. Código de color 03 = rojo, código de longitud 07 = 2.1 m (7 ft)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP, Category 6, 4 pares, stranded (serie MC6)." },
+          { "label": "Conectividad:", "value": "RJ-45 macho → RJ-45 macho, compatible con cableado T568A / T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 2.1 m (7 ft), diámetro exterior ≈ 5.3 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte PoE / Energía:", "value": "Compatible con IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt (Tipos 1–4) y PoH (Power over HDBaseT)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Categoría 6):", "value": "" },
+          { "label": "ISO/IEC 11801-1 Clase E:", "value": "" },
+          { "label": "IEC 60603-7 (conectores modulares):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores modulares):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "Cumple con RoHS, listado UL (según mercado)." },
+          { "label": "Jacket / Inflamabilidad:", "value": "Chaqueta CM o LSOH (dependiendo de la versión)." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-07-03B/MC6-07-03B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-07-03B/MC6-07-03B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-07-03B/MC6-07-03B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-07-06B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 2.1 m, color azul, marca SIEMON — MC6-07-06B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 2.1 m, color azul, marca SIEMON — MC6-07-06B",
+    "precio": "US$ 11.4",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-07-06B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-07-06B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-07-06B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP Categoría 6, 4 pares, conductor trenzado flexible (stranded) 26 AWG.",
+      "Conectores RJ-45 macho en ambos extremos, con bota protectora slim y latch-guard para evitar roturas en el clip.",
+      "Diseño 360° crimp que asegura un alivio de tensión uniforme y mantiene la torsión de los pares hasta el punto de terminación.",
+      "Ensamblado y probado en fábrica para garantizar el rendimiento de canal Cat 6 (250 MHz).",
+      "Presentación Bulk para proyectos. Código de color 06 = azul, código de longitud 07 = 2.1 m (7 ft)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP, Category 6, 4 pares, stranded (serie MC6)." },
+          { "label": "Conectividad:", "value": "RJ-45 macho → RJ-45 macho, compatible con cableado T568A / T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 2.1 m (7 ft), diámetro exterior ≈ 5.3 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte PoE / Energía:", "value": "Compatible con IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt (Tipos 1–4) y PoH (Power over HDBaseT)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Categoría 6):", "value": "" },
+          { "label": "ISO/IEC 11801-1 Clase E:", "value": "" },
+          { "label": "IEC 60603-7 (conectores modulares):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores modulares):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "Cumple con RoHS, listado UL (según mercado)." },
+          { "label": "Jacket / Inflamabilidad:", "value": "Chaqueta CM o LSOH (dependiendo de la versión)." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-07-06B/MC6-07-06B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-07-06B/MC6-07-06B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-07-06B/MC6-07-06B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-10-01B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 3.1 m, color negro, marca SIEMON — MC6-10-01B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 3.1 m, color negro, marca SIEMON — MC6-10-01B",
+    "precio": "US$ 13.1",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-10-01B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-10-01B_left.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-10-01B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP Categoría 6, 4 pares, conductor trenzado flexible (stranded) calibre 26 AWG.",
+      "Conectores RJ-45 macho en ambos extremos, con bota protectora y latch-guard para mayor durabilidad.",
+      "Terminación 360° crimp para un alivio de tensión uniforme y torsión de pares mantenida hasta el punto de conexión.",
+      "Ensamblado y probado en fábrica para cumplir con el rendimiento de canal Cat 6 (hasta 250 MHz).",
+      "Presentación Bulk, ideal para instalaciones y proyectos. Código de color 01 = negro, código de longitud 10 = 3.1 m (10 ft)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP, Categoría 6, 4 pares, stranded (serie MC6)." },
+          { "label": "Conectividad:", "value": "RJ-45 macho ↔ RJ-45 macho, compatible con cableado T568A / T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 3.1 m (10 ft), diámetro exterior aproximado 5.3 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte PoE / Energía:", "value": "Compatible con IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt (Tipos 1–4) y PoH (Power over HDBaseT)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Categoría 6):", "value": "" },
+          { "label": "ISO/IEC 11801-1 Clase E:", "value": "" },
+          { "label": "IEC 60603-7 (conectores modulares):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores modulares):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "Cumple con RoHS, listado UL (según mercado)." },
+          { "label": "Jacket / Inflamabilidad:", "value": "Chaqueta CM o LSOH (dependiendo de la versión)." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-01B/MC6-10-01B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-01B/MC6-10-01B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-01B/MC6-10-01B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-10-02B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 3.1 m, color blanco, marca SIEMON — MC6-10-02B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 3.1 m, color blanco, marca SIEMON — MC6-10-02B",
+    "precio": "US$ 13.1",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-10-02B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-10-02B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-10-02B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP Categoría 6, 4 pares, conductor trenzado flexible (stranded) calibre 26 AWG.",
+      "Conectores RJ-45 macho en ambos extremos, con bota protectora y latch-guard para evitar daños en la pestaña de retención.",
+      "Terminación 360° crimp que garantiza alivio de tensión uniforme y torsión de pares mantenida hasta el punto de conexión.",
+      "Ensamblado y probado en fábrica para cumplir con el rendimiento de canal Cat 6 (hasta 250 MHz).",
+      "Presentación Bulk, ideal para instalaciones y proyectos. Código de color 02 = blanco, código de longitud 10 = 3.1 m (10 ft)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP, Categoría 6, 4 pares, stranded (serie MC6)." },
+          { "label": "Conectividad:", "value": "RJ-45 macho ↔ RJ-45 macho, compatible con cableado T568A / T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 3.1 m (10 ft), diámetro exterior aproximado 5.3 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte PoE / Energía:", "value": "Compatible con IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt (Tipos 1–4) y PoH (Power over HDBaseT)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Categoría 6):", "value": "" },
+          { "label": "ISO/IEC 11801-1 Clase E:", "value": "" },
+          { "label": "IEC 60603-7 (conectores modulares):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores modulares):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "Cumple con RoHS, listado UL (según mercado)." },
+          { "label": "Jacket / Inflamabilidad:", "value": "Chaqueta CM o LSOH (dependiendo de la versión)." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-02B/MC6-10-02B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-02B/MC6-10-02B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-02B/MC6-10-02B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-10-03B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 3.1 m, color rojo, marca SIEMON — MC6-10-03B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 3.1 m, color rojo, marca SIEMON — MC6-10-03B",
+    "precio": "US$ 13.1",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-10-03B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-10-03B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-10-03B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP Categoría 6, 4 pares, conductor trenzado flexible (stranded) calibre 26 AWG.",
+      "Conectores RJ-45 macho en ambos extremos, con bota protectora y latch-guard para mayor durabilidad.",
+      "Terminación 360° crimp que mantiene la torsión de los pares hasta el punto de conexión, mejorando el rendimiento.",
+      "Ensamblado y probado en fábrica para cumplir con el estándar Cat 6 (hasta 250 MHz).",
+      "Presentación Bulk, ideal para instalaciones profesionales. Código de color 03 = rojo, código de longitud 10 = 3.1 m (10 ft)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP, Categoría 6, 4 pares, stranded (serie MC6)." },
+          { "label": "Conectividad:", "value": "RJ-45 macho ↔ RJ-45 macho, compatible con cableado T568A / T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 3.1 m (10 ft), diámetro exterior aproximado 5.3 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte PoE / Energía:", "value": "Compatible con IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt (Tipos 1–4) y PoH (Power over HDBaseT)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Categoría 6):", "value": "" },
+          { "label": "ISO/IEC 11801-1 Clase E:", "value": "" },
+          { "label": "IEC 60603-7 (conectores modulares):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores modulares):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "Cumple con RoHS, listado UL (según mercado)." },
+          { "label": "Jacket / Inflamabilidad:", "value": "Chaqueta CM o LSOH (dependiendo de la versión)." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-03B/MC6-10-03B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-03B/MC6-10-03B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-03B/MC6-10-03B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-10-05B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 3.1 m, color amarillo, marca SIEMON — MC6-10-05B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 3.1 m, color amarillo, marca SIEMON — MC6-10-05B",
+    "precio": "US$ 13.1",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-10-05B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-10-05B_back.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-10-05B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP Categoría 6, 4 pares, conductor trenzado flexible (stranded) calibre 26 AWG.",
+      "Conectores RJ-45 macho en ambos extremos, con bota protectora y latch-guard para evitar daños en el clip de retención.",
+      "Terminación 360° crimp que mantiene la torsión de los pares hasta el punto de conexión para mejor desempeño.",
+      "Ensamblado y probado en fábrica para cumplir con el estándar Cat 6 (hasta 250 MHz).",
+      "Presentación Bulk, ideal para instalaciones profesionales. Código de color 05 = amarillo, código de longitud 10 = 3.1 m (10 ft)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP, Categoría 6, 4 pares, stranded (serie MC6)." },
+          { "label": "Conectividad:", "value": "RJ-45 macho ↔ RJ-45 macho, compatible con cableado T568A / T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 3.1 m (10 ft), diámetro exterior aproximado 5.3 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte PoE / Energía:", "value": "Compatible con IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt (Tipos 1–4) y PoH (Power over HDBaseT)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Categoría 6):", "value": "" },
+          { "label": "ISO/IEC 11801-1 Clase E:", "value": "" },
+          { "label": "IEC 60603-7 (conectores modulares):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores modulares):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "Cumple con RoHS, listado UL (según mercado)." },
+          { "label": "Jacket / Inflamabilidad:", "value": "Chaqueta CM o LSOH (dependiendo de la versión)." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-05B/MC6-10-05B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-05B/MC6-10-05B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-05B/MC6-10-05B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-10-06B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 3.1 m, color azul, marca SIEMON — MC6-10-06B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 3.1 m, color azul, marca SIEMON — MC6-10-06B",
+    "precio": "US$ 13.1",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-10-06B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-10-06B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-10-06B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP Categoría 6, 4 pares, conductor trenzado flexible (stranded) calibre 26 AWG.",
+      "Conectores RJ-45 macho en ambos extremos, con bota protectora y latch-guard para evitar daños en el clip de retención.",
+      "Terminación 360° crimp que mantiene la torsión de los pares hasta el punto de conexión para un mejor desempeño eléctrico.",
+      "Ensamblado y probado en fábrica para cumplir con el estándar Cat 6 (hasta 250 MHz).",
+      "Presentación Bulk, ideal para instalaciones profesionales. Código de color 06 = azul, código de longitud 10 = 3.1 m (10 ft)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP, Categoría 6, 4 pares, stranded (serie MC6)." },
+          { "label": "Conectividad:", "value": "RJ-45 macho ↔ RJ-45 macho, compatible con cableado T568A / T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 3.1 m (10 ft), diámetro exterior aproximado 5.3 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte PoE / Energía:", "value": "Compatible con IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt (Tipos 1–4) y PoH (Power over HDBaseT)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Categoría 6):", "value": "" },
+          { "label": "ISO/IEC 11801-1 Clase E:", "value": "" },
+          { "label": "IEC 60603-7 (conectores modulares):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores modulares):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "Cumple con RoHS, listado UL (según mercado)." },
+          { "label": "Jacket / Inflamabilidad:", "value": "Chaqueta CM o LSOH (dependiendo de la versión)." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-06B/MC6-10-06B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-06B/MC6-10-06B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-06B/MC6-10-06B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-10-07B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 3.1 m, color verde, marca SIEMON — MC6-10-07B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 3.1 m, color verde, marca SIEMON — MC6-10-07B",
+    "precio": "US$ 13.1",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-10-07B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-10-07B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-10-07B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP Categoría 6, 4 pares, conductor trenzado flexible (stranded) calibre 26 AWG.",
+      "Conectores RJ-45 macho en ambos extremos, con bota protectora y latch-guard para evitar daños en el clip de retención.",
+      "Terminación 360° crimp que conserva la torsión de los pares hasta el punto de terminación para mejorar el rendimiento eléctrico.",
+      "Ensamblado y probado en fábrica para cumplir con el estándar Cat 6 (hasta 250 MHz).",
+      "Presentación Bulk, ideal para instalaciones de alto desempeño. Código de color 07 = verde, código de longitud 10 = 3.1 m (10 ft)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP, Categoría 6, 4 pares, stranded (serie MC6)." },
+          { "label": "Conectividad:", "value": "RJ-45 macho ↔ RJ-45 macho, compatible con cableado T568A / T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 3.1 m (10 ft), diámetro exterior aproximado 5.3 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte PoE / Energía:", "value": "Compatible con IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt (Tipos 1–4) y PoH (Power over HDBaseT)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Categoría 6):", "value": "" },
+          { "label": "ISO/IEC 11801-1 Clase E:", "value": "" },
+          { "label": "IEC 60603-7 (conectores modulares):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores modulares):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "Cumple con RoHS, listado UL (según mercado)." },
+          { "label": "Jacket / Inflamabilidad:", "value": "Chaqueta CM o LSOH (dependiendo de la versión)." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-07B/MC6-10-07B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-07B/MC6-10-07B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-10-07B/MC6-10-07B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-15-02B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 4.5 m, color blanco, marca SIEMON — MC6-15-02B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 4.5 m, color blanco, marca SIEMON — MC6-15-02B",
+    "precio": "US$ 17.9",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-15-02B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-15-02B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-15-02B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP Categoría 6, 4 pares, conductor trenzado flexible (stranded) calibre 26 AWG.",
+      "Conectores RJ-45 macho en ambos extremos, con bota protectora y latch-guard para proteger el clip de retención.",
+      "Ensamblado y probado en fábrica para garantizar el cumplimiento del rendimiento Cat 6 (hasta 250 MHz).",
+      "Terminación 360° crimp que mantiene la torsión de los pares hasta el punto de conexión, reduciendo diafonía y pérdidas.",
+      "Presentación Bulk, ideal para instalaciones de red de alto desempeño.",
+      "Código de color 02 = blanco, código de longitud 15 = 4.5 m (15 ft)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP, Categoría 6, 4 pares, stranded (serie MC6)." },
+          { "label": "Conectividad:", "value": "RJ-45 macho ↔ RJ-45 macho, compatible con cableado T568A / T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 4.5 m (15 ft), diámetro exterior aproximado 5.3 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte PoE / Energía:", "value": "Compatible con IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt (Tipos 1–4) y PoH (Power over HDBaseT)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Categoría 6):", "value": "" },
+          { "label": "ISO/IEC 11801-1 Clase E:", "value": "" },
+          { "label": "IEC 60603-7 (conectores modulares):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores modulares):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "Cumple con RoHS, listado UL (según mercado)." },
+          { "label": "Jacket / Inflamabilidad:", "value": "Chaqueta CM o LSOH (dependiendo de la versión)." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-15-02B/MC6-15-02B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-15-02B/MC6-15-02B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-15-02B/MC6-15-02B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-15-06": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 4.5 m, color azul, marca SIEMON — MC6-15-06",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 4.5 m, color azul, marca SIEMON — MC6-15-06",
+    "precio": "US$ 18.8",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-15-06_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-15-06_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-15-06_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP Categoría 6, 4 pares, conductor trenzado flexible (stranded) calibre 26 AWG.",
+      "Conectores RJ-45 macho en ambos extremos, con bota protectora y latch-guard para prolongar la vida útil del clip.",
+      "Ensamblado y probado en fábrica para garantizar el rendimiento Cat 6 (hasta 250 MHz).",
+      "Terminación 360° crimp para mantener el trenzado de los pares y reducir interferencias.",
+      "Presentación Bulk, ideal para redes de alto desempeño.",
+      "Código de color 06 = azul, código de longitud 15 = 4.5 m (15 ft)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP, Categoría 6, 4 pares, stranded (serie MC6)." },
+          { "label": "Conectividad:", "value": "RJ-45 macho ↔ RJ-45 macho, compatible con cableado T568A / T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 4.5 m (15 ft), diámetro exterior aproximado 5.3 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte PoE / Energía:", "value": "Compatible con IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt (Tipos 1–4) y PoH (Power over HDBaseT)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Categoría 6):", "value": "" },
+          { "label": "ISO/IEC 11801-1 Clase E:", "value": "" },
+          { "label": "IEC 60603-7 (conectores modulares):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores modulares):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "Cumple con RoHS, listado UL (según mercado)." },
+          { "label": "Jacket / Inflamabilidad:", "value": "Chaqueta CM o LSOH (dependiendo de la versión)." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-15-06/MC6-15-06_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-15-06/MC6-15-06_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-15-06/MC6-15-06_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-15-06B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 4.5 m BULK, color azul, marca SIEMON — MC6-15-06B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 4.5 m BULK, color azul, marca SIEMON — MC6-15-06B",
+    "precio": "US$ 17.9",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-15-06B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-15-06B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-15-06B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable de cobre UTP Categoría 6, 4 pares trenzados, conductor flexible calibre 26 AWG.",
+      "Conectores RJ-45 macho en ambos extremos con bota moldeada y protector de seguro (latch guard).",
+      "Desempeño certificado para 250 MHz según norma ANSI/TIA-568.2-D.",
+      "Construcción Bulk para proyectos e instalaciones profesionales.",
+      "Ensamblado y probado en fábrica para garantizar el rendimiento eléctrico y mecánico.",
+      "Color de chaqueta: Azul (código 06).",
+      "Longitud: 4.5 metros (15 pies)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP, Categoría 6, 4 pares, stranded." },
+          { "label": "Conectividad:", "value": "RJ-45 macho ↔ RJ-45 macho, compatible con cableado T568A y T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 4.5 m; diámetro exterior aproximado 5.3 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Soporte de energía:", "value": "Compatible con IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt (PoE Tipos 1 a 4) y PoH." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Cat 6):", "value": "" },
+          { "label": "ISO/IEC 11801 Clase E:", "value": "" },
+          { "label": "IEC 60603-7 (conectores modulares):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS, listado UL (según versión)." },
+          { "label": "Chaqueta / Inflamabilidad:", "value": "CM o LSOH según la variante del producto." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-15-06B/MC6-15-06B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-15-06B/MC6-15-06B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-15-06B/MC6-15-06B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-20-06": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6, 6.1 m, color azul, marca SIEMON — MC6-20-06",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6, 6.1 m, color azul, marca SIEMON — MC6-20-06",
+    "precio": "US$ 22.1",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-20-06_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-20-06_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-20-06_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP de cobre Categoría 6, 4 pares trenzados, conductor flexible calibre 26 AWG.",
+      "Conectores RJ-45 macho en ambos extremos con bota moldeada y protector de pestaña (latch guard).",
+      "Desempeño certificado para transmisión de hasta 250 MHz, conforme a ANSI/TIA-568.2-D.",
+      "Ensamblado y probado en fábrica para asegurar el rendimiento eléctrico y mecánico.",
+      "Chaqueta de PVC o LSOH (según versión) para instalaciones de redes de datos.",
+      "Color: Azul (código 06).",
+      "Longitud: 6.1 metros (20 pies)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP, Categoría 6, 4 pares, stranded." },
+          { "label": "Conectividad:", "value": "RJ-45 macho ↔ RJ-45 macho, compatible con cableado T568A y T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 6.1 m; diámetro exterior aproximado 5.3 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Compatible con PoE:", "value": "IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt (PoE Tipos 1 a 4) y PoH." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Cat 6):", "value": "" },
+          { "label": "ISO/IEC 11801 Clase E:", "value": "" },
+          { "label": "IEC 60603-7 (conectores modulares):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS, listado UL (según versión)." },
+          { "label": "Chaqueta / Inflamabilidad:", "value": "CM o LSOH según la variante." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-20-06/MC6-20-06_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-20-06/MC6-20-06_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-20-06/MC6-20-06_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-MC6-20-06B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6 BULK, 6.1 m, color azul, marca SIEMON — MC6-20-06B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6 BULK, 6.1 m, color azul, marca SIEMON — MC6-20-06B",
+    "precio": "US$ 21",
+    "categoria": "Patch Cord UTP Cat 6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MC6-20-06B_top.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-20-06B_down.jpg",
+      "https://web.netperu100.com/siemon/images/MC6-20-06B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Cable UTP de cobre Categoría 6, 4 pares trenzados, conductor flexible calibre 26 AWG.",
+      "Conectores RJ-45 macho en ambos extremos con bota moldeada y protector de pestaña (latch guard).",
+      "Rendimiento certificado hasta 250 MHz, conforme a ANSI/TIA-568.2-D.",
+      "Ensamblado y probado en fábrica para asegurar desempeño eléctrico y mecánico.",
+      "Chaqueta de PVC (tipo BULK) ideal para instalaciones de redes de voz y datos.",
+      "Color: Azul (código 06).",
+      "Longitud: 6.1 metros (20 pies)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP Categoría 6, 4 pares, stranded, BULK." },
+          { "label": "Conectividad:", "value": "RJ-45 macho ↔ RJ-45 macho, compatible con cableado T568A y T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 6.1 m; diámetro exterior aproximado 5.3 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Compatible con PoE:", "value": "IEEE 802.3af, IEEE 802.3at, IEEE 802.3bt (PoE Tipos 1 a 4) y PoH." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Cat 6):", "value": "" },
+          { "label": "ISO/IEC 11801 Clase E:", "value": "" },
+          { "label": "IEC 60603-7 (conectores modulares):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS, listado UL (según versión)." },
+          { "label": "Chaqueta / Inflamabilidad:", "value": "CM (PVC) o equivalente BULK." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-20-06B/MC6-20-06B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-20-06B/MC6-20-06B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MC6-20-06B/MC6-20-06B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-ZM6A-03-06B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6A Z-MAX BULK, 0.9 m, color azul, marca SIEMON — ZM6A-03-06B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6A Z-MAX BULK, 0.9 m, color azul, marca SIEMON — ZM6A-03-06B",
+    "precio": "US$ 21.4",
+    "categoria": "Patch Cord UTP Cat 6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/ZM6A-03-06B_top.jpg",
+      "https://web.netperu100.com/siemon/images/ZM6A-03-06B_down.jpg",
+      "https://web.netperu100.com/siemon/images/ZM6A-03-06B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Patch cord UTP Categoría 6A de alto rendimiento, 4 pares, conductor trenzado stranded, calibre 26 AWG.",
+      "Tecnología Z-MAX® de SIEMON para desempeño optimizado hasta 500 MHz.",
+      "Conectores RJ-45 macho en ambos extremos con bota moldeada y protector de pestaña (latch guard).",
+      "Diseñado para aplicaciones 10GBASE-T y compatible con categorías inferiores.",
+      "Ensamblado y probado en fábrica para asegurar cumplimiento eléctrico y mecánico.",
+      "Chaqueta de PVC tipo BULK, ideal para redes de alta velocidad y ambientes críticos.",
+      "Color: Azul (código 06).",
+      "Longitud: 0.9 metros (3 pies)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP Categoría 6A, 4 pares, stranded, Z-MAX BULK." },
+          { "label": "Conectividad:", "value": "RJ-45 macho ↔ RJ-45 macho, compatible con cableado T568A y T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 0.9 m; diámetro exterior aproximado 6 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Compatible con:", "value": "IEEE 802.3an (10GBASE-T), IEEE 802.3af/at/bt (PoE Tipos 1 a 4), y PoH." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Cat 6A):", "value": "" },
+          { "label": "ISO/IEC 11801 Clase EA:", "value": "" },
+          { "label": "IEC 60603-7-51 (conectores modulares Cat 6A):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS, listado UL (según versión)." },
+          { "label": "Chaqueta / Inflamabilidad:", "value": "CM (PVC) o equivalente BULK." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-03-06B/ZM6A-03-06B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-03-06B/ZM6A-03-06B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-03-06B/ZM6A-03-06B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-ZM6A-05-06B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6A Z-MAX BULK, 1.5 m, color azul, marca SIEMON — ZM6A-05-06B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6A Z-MAX BULK, 1.5 m, color azul, marca SIEMON — ZM6A-05-06B",
+    "precio": "US$ 23.6",
+    "categoria": "Patch Cord UTP Cat 6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/ZM6A-05-06B_top.jpg",
+      "https://web.netperu100.com/siemon/images/ZM6A-05-06B_down.jpg",
+      "https://web.netperu100.com/siemon/images/ZM6A-05-06B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Patch cord UTP Categoría 6A de alto rendimiento, 4 pares, conductor trenzado stranded, calibre 26 AWG.",
+      "Tecnología Z-MAX® de SIEMON para un rendimiento superior hasta 500 MHz.",
+      "Conectores RJ-45 macho en ambos extremos con bota moldeada y protector de pestaña (latch guard).",
+      "Diseñado para aplicaciones 10GBASE-T y totalmente retrocompatible con categorías inferiores.",
+      "Ensamblado y probado en fábrica para garantizar cumplimiento eléctrico y mecánico.",
+      "Chaqueta de PVC tipo BULK, ideal para redes de alta velocidad y ambientes críticos.",
+      "Color: Azul (código 06).",
+      "Longitud: 1.5 metros (5 pies)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP Categoría 6A, 4 pares, stranded, Z-MAX BULK." },
+          { "label": "Conectividad:", "value": "RJ-45 macho ↔ RJ-45 macho, compatible con cableado T568A y T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 1.5 m; diámetro exterior aproximado 6 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Compatible con:", "value": "IEEE 802.3an (10GBASE-T), IEEE 802.3af/at/bt (PoE Tipos 1 a 4) y PoH." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Cat 6A):", "value": "" },
+          { "label": "ISO/IEC 11801 Clase EA:", "value": "" },
+          { "label": "IEC 60603-7-51 (conectores modulares Cat 6A):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS, listado UL (según versión)." },
+          { "label": "Chaqueta / Inflamabilidad:", "value": "CM (PVC) o equivalente BULK." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-05-06B/ZM6A-05-06B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-05-06B/ZM6A-05-06B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-05-06B/ZM6A-05-06B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-ZM6A-07-06B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6A Z-MAX BULK, 2.1 m, color azul, marca SIEMON — ZM6A-07-06B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6A Z-MAX BULK, 2.1 m, color azul, marca SIEMON — ZM6A-07-06B",
+    "precio": "US$ 25.8",
+    "categoria": "Patch Cord UTP Cat 6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/ZM6A-07-06B_top.jpg",
+      "https://web.netperu100.com/siemon/images/ZM6A-07-06B_down.jpg",
+      "https://web.netperu100.com/siemon/images/ZM6A-07-06B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Patch cord UTP Categoría 6A de alto rendimiento, 4 pares, conductor trenzado stranded, calibre 26 AWG.",
+      "Tecnología Z-MAX® de SIEMON que ofrece un rendimiento de hasta 500 MHz.",
+      "Conectores RJ-45 macho en ambos extremos, con bota moldeada y protector de pestaña (latch guard).",
+      "Soporta aplicaciones 10GBASE-T y es retrocompatible con categorías inferiores.",
+      "Ensamblado y probado en fábrica para asegurar cumplimiento eléctrico y mecánico.",
+      "Chaqueta de PVC tipo BULK para instalaciones de alto rendimiento.",
+      "Color: Azul (código 06).",
+      "Longitud: 2.1 metros (7 pies)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP Categoría 6A, 4 pares, stranded, Z-MAX BULK." },
+          { "label": "Conectividad:", "value": "RJ-45 macho ↔ RJ-45 macho, compatible con cableado T568A y T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 2.1 m; diámetro exterior aproximado 6 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Compatible con:", "value": "IEEE 802.3an (10GBASE-T), IEEE 802.3af/at/bt (PoE Tipos 1 a 4) y PoH." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Cat 6A):", "value": "" },
+          { "label": "ISO/IEC 11801 Clase EA:", "value": "" },
+          { "label": "IEC 60603-7-51 (conectores modulares Cat 6A):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS, listado UL (según versión)." },
+          { "label": "Chaqueta / Inflamabilidad:", "value": "CM (PVC) o equivalente BULK." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-07-06B/ZM6A-07-06B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-07-06B/ZM6A-07-06B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-07-06B/ZM6A-07-06B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-ZM6A-10-06B": {
+    "pageTitle": "Patch Cord UTP RJ-45 Cat 6A Z-MAX BULK, 3.1 m, color azul, marca SIEMON — ZM6A-10-06B",
+    "titulo": "Patch Cord UTP RJ-45 Cat 6A Z-MAX BULK, 3.1 m, color azul, marca SIEMON — ZM6A-10-06B",
+    "precio": "US$ 29",
+    "categoria": "Patch Cord UTP Cat 6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/ZM6A-10-06B_top.jpg",
+      "https://web.netperu100.com/siemon/images/ZM6A-10-06B_down.jpg",
+      "https://web.netperu100.com/siemon/images/ZM6A-10-06B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Patch cord UTP Categoría 6A de alto rendimiento, 4 pares, conductor trenzado stranded, calibre 26 AWG.",
+      "Tecnología Z-MAX® de SIEMON para desempeño optimizado hasta 500 MHz.",
+      "Conectores RJ-45 macho en ambos extremos con bota moldeada y protector de pestaña (latch guard).",
+      "Diseñado para aplicaciones 10GBASE-T y compatible con categorías inferiores.",
+      "Ensamblado y probado en fábrica para asegurar cumplimiento eléctrico y mecánico.",
+      "Chaqueta de PVC tipo BULK, ideal para redes de alta velocidad y ambientes críticos.",
+      "Color: Azul (código 06).",
+      "Longitud: 3.1 metros (10 pies)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord UTP Categoría 6A, 4 pares, stranded, Z-MAX BULK." },
+          { "label": "Conectividad:", "value": "RJ-45 macho ↔ RJ-45 macho, compatible con cableado T568A y T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 3.1 m; diámetro exterior aproximado 6 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Compatible con:", "value": "IEEE 802.3an (10GBASE-T), IEEE 802.3af/at/bt (PoE Tipos 1 a 4) y PoH." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Cat 6A):", "value": "" },
+          { "label": "ISO/IEC 11801 Clase EA:", "value": "" },
+          { "label": "IEC 60603-7-51 (conectores modulares Cat 6A):", "value": "" },
+          { "label": "TIA-968-A (compatibilidad de conectores):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS, listado UL (según versión)." },
+          { "label": "Chaqueta / Inflamabilidad:", "value": "CM (PVC) o equivalente BULK." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-10-06B/ZM6A-10-06B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-10-06B/ZM6A-10-06B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-10-06B/ZM6A-10-06B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-ZM6A-S15-06": {
+    "pageTitle": "Patch Cord F/UTP RJ-45 Cat 6A LSOH Z-MAX, 4.6 m, color azul, marca SIEMON — ZM6A-S15-06",
+    "titulo": "Patch Cord F/UTP RJ-45 Cat 6A LSOH Z-MAX, 4.6 m, color azul, marca SIEMON — ZM6A-S15-06",
+    "precio": "US$ 38.50",
+    "categoria": "Patch Cord UTP Cat 6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/ZM6A-S15-06_top.jpg",
+      "https://web.netperu100.com/siemon/images/ZM6A-S15-06_down.jpg",
+      "https://web.netperu100.com/siemon/images/ZM6A-S15-06_sid.jpg"
+    ],
+    "especificaciones": [
+      "Patch cord F/UTP (Foiled/Unshielded Twisted Pair) Categoría 6A de alto rendimiento, 4 pares, conductor stranded calibre 26 AWG.",
+      "Tecnología Z-MAX® de SIEMON, con rendimiento de hasta 500 MHz y soporte para aplicaciones 10GBASE-T.",
+      "Blindaje general de lámina (Foil) que reduce la diafonía y la interferencia electromagnética (EMI).",
+      "Chaqueta LSOH (Low Smoke Zero Halogen) para mayor seguridad en entornos con requisitos de baja emisión de humos y gases tóxicos.",
+      "Conectores RJ-45 macho blindados en ambos extremos con bota moldeada y protector de pestaña.",
+      "Retrocompatible con categorías inferiores (Cat 6, Cat 5e).",
+      "Longitud: 4.6 metros.",
+      "Color: Azul (código 06)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord F/UTP Categoría 6A, 4 pares, stranded, LSOH Z-MAX." },
+          { "label": "Conectividad:", "value": "RJ-45 macho blindado ↔ RJ-45 macho blindado, compatible T568A y T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 4.6 m; diámetro exterior aproximado 7 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Compatible con:", "value": "IEEE 802.3an (10GBASE-T), IEEE 802.3af/at/bt (PoE Tipos 1 a 4) y PoH." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Cat 6A):", "value": "" },
+          { "label": "ISO/IEC 11801 Clase EA:", "value": "" },
+          { "label": "IEC 60603-7-51 (conectores modulares blindados Cat 6A):", "value": "" },
+          { "label": "IEC 61156-5 (cables balanceados):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS, listado UL (según versión)." },
+          { "label": "Chaqueta / Inflamabilidad:", "value": "LSOH (IEC 60332-1, IEC 60754, IEC 61034)." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-S15-06/ZM6A-S15-06_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-S15-06/ZM6A-S15-06_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-S15-06/ZM6A-S15-06_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-ZM6A-S10-02B": {
+    "pageTitle": "Patch Cord S/FTP RJ-45 Cat 6A LSOH Z-MAX, 3 m, color blanco, marca SIEMON — ZM6A-S10-02B",
+    "titulo": "Patch Cord S/FTP RJ-45 Cat 6A LSOH Z-MAX, 3 m, color blanco, marca SIEMON — ZM6A-S10-02B",
+    "precio": "US$ 27",
+    "categoria": "Patch Cord UTP Cat 6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/ZM6A-S10-02B_top.jpg",
+      "https://web.netperu100.com/siemon/images/ZM6A-S10-02B_down.jpg",
+      "https://web.netperu100.com/siemon/images/ZM6A-S10-02B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Patch cord S/FTP (Shielded/Foiled Twisted Pair) Categoría 6A, 4 pares, con blindaje individual por par y blindaje general trenzado, calibre 26 AWG stranded.",
+      "Tecnología Z-MAX® de SIEMON, con rendimiento de hasta 500 MHz para aplicaciones de 10 Gigabits Ethernet.",
+      "Chaqueta LSOH (Low Smoke Zero Halogen) para uso en entornos donde se requiere baja emisión de humos y gases tóxicos.",
+      "Conectores RJ-45 macho blindados en ambos extremos con botas moldeadas y protección de pestaña.",
+      "Alta inmunidad frente a interferencias electromagnéticas (EMI) y diafonía externa (Alien Crosstalk).",
+      "Retrocompatible con categorías inferiores (Cat 6, Cat 5e).",
+      "Longitud: 3 metros.",
+      "Color: Blanco (código 02)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord S/FTP Categoría 6A, 4 pares, stranded, LSOH Z-MAX." },
+          { "label": "Conectividad:", "value": "RJ-45 macho blindado ↔ RJ-45 macho blindado, compatible T568A y T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 3 m; diámetro exterior aproximado 7 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Compatible con:", "value": "IEEE 802.3an (10GBASE-T), IEEE 802.3af/at/bt (PoE Tipos 1 a 4) y PoH." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Cat 6A):", "value": "" },
+          { "label": "ISO/IEC 11801 Clase EA:", "value": "" },
+          { "label": "IEC 60603-7-51 (conectores modulares blindados Cat 6A):", "value": "" },
+          { "label": "IEC 61156-5 (cables balanceados):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS, listado UL (según versión)." },
+          { "label": "Chaqueta / Inflamabilidad:", "value": "LSOH (IEC 60332-1, IEC 60754, IEC 61034)." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-S10-02B/ZM6A-S10-02B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-S10-02B/ZM6A-S10-02B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-S10-02B/ZM6A-S10-02B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-ZM6A-S03-06B": {
+    "pageTitle": "Patch Cord S/FTP RJ-45 Cat 6A LSOH Z-MAX, 0.90 m, color azul, marca SIEMON — ZM6A-S03-06B",
+    "titulo": "Patch Cord S/FTP RJ-45 Cat 6A LSOH Z-MAX, 0.90 m, color azul, marca SIEMON — ZM6A-S03-06B",
+    "precio": "US$ 21",
+    "categoria": "Patch Cord UTP Cat 6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/ZM6A-S03-06B_top.jpg",
+      "https://web.netperu100.com/siemon/images/ZM6A-S03-06B_down.jpg",
+      "https://web.netperu100.com/siemon/images/ZM6A-S03-06B_sid.jpg"
+    ],
+    "especificaciones": [
+      "Patch cord S/FTP (Shielded/Foiled Twisted Pair) Categoría 6A, 4 pares, con blindaje individual por par (foil) y blindaje general trenzado (braid).",
+      "Tecnología Z-MAX® de SIEMON, optimizada para rendimiento de 10 Gigabits Ethernet (hasta 500 MHz).",
+      "Chaqueta LSOH (Low Smoke Zero Halogen) que reduce emisión de humos y gases tóxicos en caso de incendio.",
+      "Conectores RJ-45 macho blindados en ambos extremos con botas moldeadas y protección de pestaña.",
+      "Excelente inmunidad contra interferencias electromagnéticas (EMI) y diafonía externa (Alien Crosstalk).",
+      "Retrocompatible con categorías inferiores (Cat 6 y Cat 5e).",
+      "Longitud: 0.90 metros.",
+      "Color: Azul (código 06)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord S/FTP Categoría 6A, 4 pares stranded, LSOH Z-MAX." },
+          { "label": "Conectividad:", "value": "RJ-45 macho blindado ↔ RJ-45 macho blindado, compatible T568A y T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 0.90 m; diámetro exterior aproximado 7 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Compatible con:", "value": "IEEE 802.3an (10GBASE-T), IEEE 802.3af/at/bt (PoE Tipos 1 a 4) y PoH." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Cat 6A):", "value": "" },
+          { "label": "ISO/IEC 11801 Clase EA:", "value": "" },
+          { "label": "IEC 60603-7-51 (conectores modulares blindados Cat 6A):", "value": "" },
+          { "label": "IEC 61156-5 (cables balanceados):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS, listado UL (según versión)." },
+          { "label": "Chaqueta / Inflamabilidad:", "value": "LSOH (IEC 60332-1, IEC 60754, IEC 61034)." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-S03-06B/ZM6A-S03-06B_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-S03-06B/ZM6A-S03-06B_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-S03-06B/ZM6A-S03-06B_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchcord-ZM6A-S20-06": {
+    "pageTitle": "Patch Cord S/FTP RJ-45 Cat 6A LSOH Z-MAX, 6.1 m, color azul, marca SIEMON — ZM6A-S20-06",
+    "titulo": "Patch Cord S/FTP RJ-45 Cat 6A LSOH Z-MAX, 6.1 m, color azul, marca SIEMON — ZM6A-S20-06",
+    "precio": "US$ 46.50",
+    "categoria": "Patch Cord UTP Cat 6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/ZM6A-S20-06_top.jpg",
+      "https://web.netperu100.com/siemon/images/ZM6A-S20-06_down.jpg",
+      "https://web.netperu100.com/siemon/images/ZM6A-S20-06_sid.jpg"
+    ],
+    "especificaciones": [
+      "Patch cord S/FTP (Shielded/Foiled Twisted Pair) Categoría 6A, 4 pares, con blindaje individual por par (foil) y blindaje general trenzado (braid).",
+      "Tecnología Z-MAX® de SIEMON, optimizada para rendimiento de 10 Gigabits Ethernet (hasta 500 MHz).",
+      "Chaqueta LSOH (Low Smoke Zero Halogen) que reduce la emisión de humos y gases corrosivos en caso de incendio.",
+      "Conectores RJ-45 macho blindados en ambos extremos, con botas moldeadas y protección de pestaña para evitar daños.",
+      "Alta resistencia a interferencias electromagnéticas (EMI) y diafonía externa (Alien Crosstalk).",
+      "Retrocompatible con categorías inferiores (Cat 6 y Cat 5e).",
+      "Longitud: 6.1 metros.",
+      "Color: Azul (código 06)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch cord S/FTP Categoría 6A, 4 pares stranded, LSOH Z-MAX." },
+          { "label": "Conectividad:", "value": "RJ-45 macho blindado ↔ RJ-45 macho blindado, compatible T568A y T568B." },
+          { "label": "Dimensiones:", "value": "Longitud 6.1 m; diámetro exterior aproximado 7 mm." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Compatible con:", "value": "IEEE 802.3an (10GBASE-T), IEEE 802.3af/at/bt (PoE Tipos 1 a 4) y PoH." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568.2-D (Cat 6A):", "value": "" },
+          { "label": "ISO/IEC 11801 Clase EA:", "value": "" },
+          { "label": "IEC 60603-7-51 (conectores modulares blindados Cat 6A):", "value": "" },
+          { "label": "IEC 61156-5 (cables balanceados):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS, listado UL (según versión)." },
+          { "label": "Chaqueta / Inflamabilidad:", "value": "LSOH (IEC 60332-1, IEC 60754, IEC 61034)." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-S20-06/ZM6A-S20-06_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-S20-06/ZM6A-S20-06_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/ZM6A-S20-06/ZM6A-S20-06_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  }
+}

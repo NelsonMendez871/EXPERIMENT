@@ -1,0 +1,1751 @@
+{
+  "jack-MX5-03B": {
+    "pageTitle": "Jack RJ-45 Cat. 5e MAX Angular BULK, color rojo, marca SIEMON jack-MX5-03B",
+    "titulo": "Jack RJ-45 Cat. 5e MAX Angular BULK, color rojo, marca SIEMON jack-MX5-03B",
+    "precio": "US$ 7.6",
+    "categoria": "Jack RJ-45 Cat5",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MX5-03B_top.webp",
+      "https://web.netperu100.com/siemon/images/MX5-03B_back.webp",
+      "https://web.netperu100.com/siemon/images/MX5-03B_back.webp"
+    ],
+    "especificaciones": [
+      "Módulo de salida (outlet) ángulo (angled), color rojo, con tapa protectora. Es parte de la línea MAX 5e de Siemon.",
+      "Supera el rendimiento estándar de categoría 5e, con desempeño válido para frecuencia de hasta 160 MHz.",
+      "Permite instalación rápida con sistema 'Palm Guard', entrada piramidal para guiar pares, y punch-down estilo 110 (compatible con T568A/B).",
+      "Incluye puerta protectora para reducir entrada de polvo y contaminantes."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          {
+            "label": "Tipo de dispositivo:",
+            "value": "Outlet MAX 5e UTP, ángulo (angular), con tapa, bulk pack."
+          },
+          {
+            "label": "Conectividad:",
+            "value": "RJ-45 categoría 5e, punch-down 110, compatible con esquemas de cableado T568A/B."
+          },
+          {
+            "label": "Dimensiones:",
+            "value": "No se encontraron datos exactos."
+          },
+          {
+            "label": "Peso:",
+            "value": "No hay datos disponibles públicamente."
+          }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          {
+            "label": "Protocolo de direccionamiento:",
+            "value": "No es aplicable al ser un componente pasivo (sin IP ni capa de red)."
+          },
+          {
+            "label": "Protocolo de gestión remota:",
+            "value": "Tampoco aplica; es un conector pasivo."
+          }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          {
+            "label": "",
+            "value": "Cumple con UL 2043, apto para uso en espacios de manejo de aire (air-handling spaces), como cielorrasos o ductos. Excede el estándar Cat 5e, soportando buen margen en NEXT, FEXT, Return Loss a 160 MHz."
+          }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          {
+            "label": "Certificaciones:",
+            "value": "UL 2043. Otros sellos o certificaciones no aparecen en las fuentes consultadas."
+          },
+          {
+            "label": "Temperatura de operación:",
+            "value": "No se encontró especificación. Usualmente estos materiales operan entre 0 °C y 50 °C (referencia genérica)."
+          }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-MX5-06": {
+    "pageTitle": "Jack RJ-45 Cat. 5e MAX Angular, color Azul, marca SIEMON – MX5-06",
+    "titulo": "Jack RJ-45 Cat. 5e MAX Angular, color Azul, marca SIEMON – MX5-06",
+    "precio": "US$ 8.9",
+    "categoria": "Jack RJ-45 Cat5",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MX5-06_top.webp",
+      "https://web.netperu100.com/siemon/images/MX5-06_left.webp",
+      "https://web.netperu100.com/siemon/images/MX5-06_down.webp"
+    ],
+    "especificaciones": [
+      "Módulo angular (angled) color azul, parte de la línea MAX 5e de Siemon, con tapa protectora y rear strain relief cap.",
+      "Rendimiento por encima del estándar categoría 5e, con frecuencia de funcionamiento hasta 160 MHz.",
+      "Diseño compacto: admite alta densidad, permite hasta 6 jacks en una placa de 1 gang y 12 en 2 gangs. Instalación fácil tanto desde el frente como desde atrás; admite apilamiento lateral.",
+      "Terminación estilo punch-down sobre bloque S310, compatible con cableado T568A/B.",
+      "Incluye íconos codificados por color para identificación de puertos.",
+      "Puerta protectora para evitar entrada de polvo y contaminantes."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet (módulo) MAX 5e UTP de tipo angled (angular), color azul, con tapa y cap de alivio de tensión trasero." },
+          { "label": "Conectividad:", "value": "RJ-45 categoría 5e, punch-down, compatible con T568A/B." },
+          { "label": "Dimensiones:", "value": "No encontré datos específicos del modelo angular MX5-06. (Un modelo plano similar MX5-F06 reporta dimensiones aprox. 1″ × 0.8″ × 0.3″ pero no es exactamente el mismo diseño)" },
+          { "label": "Peso:", "value": "No hay información disponible." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (dispositivo pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "", "value": "Cumple con UL 2043, apto para instalaciones en espacios con circulación de aire." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "UL 2043 mencionada. No aparecen otras." },
+          { "label": "Temperatura de operación:", "value": "No disponible en las fuentes consultadas." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-MX5-F01VP": {
+    "pageTitle": "Jack RJ-45 Cat. 5e MAX Plano VALUPACK, color negro, marca SIEMON – MX5-F01VP",
+    "titulo": "Jack RJ-45 Cat. 5e MAX Plano VALUPACK, color negro, marca SIEMON – MX5-F01VP",
+    "precio": "US$ 6.6",
+    "categoria": "Jack RJ-45 Cat5",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MX5-F01VP_top.webp",
+      "https://web.netperu100.com/siemon/images/MX5-F01VP_left.webp",
+      "https://web.netperu100.com/siemon/images/MX5-F01VP_back.webp"
+    ],
+    "especificaciones": [
+      "Módulo plano (flat), color negro, de la línea MAX 5e de Siemon. Incluye door icons codificados por color para fácil identificación en la red.",
+      "Rendimiento que supera el estándar Cat 5e, con energía de canal y de componente hasta 160 MHz.",
+      "Instalación rápida con sistema Palm Guard y terminación tipo punch-down en bloque S310, compatible con cableado T568A/B.",
+      "Diseño delgado y apilable, ideal para montajes de alta densidad.",
+      "Diseño apto para espacios con circulación de aire (UL 2043 compliant).",
+      "El sufijo 'VP' indica que viene en Value Pack—kit que incluye 250 jacks, puertas, tapas de terminación y íconos color-match."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet (módulo) plano (flat) Cat 5e MAX, color negro, versión Value Pack (VP)" },
+          { "label": "Conectividad:", "value": "RJ-45, categoría 5e, terminación punch-down S310, compatible con T568A/B" },
+          { "label": "Dimensiones:", "value": "No encontré datos específicos para el MX5-F01VP" },
+          { "label": "Peso:", "value": "No disponible en las fuentes revisadas" }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (es un componente pasivo)" },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica" }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (IEEE)",
+        "items": [
+          { "label": "", "value": "No encontré referencia directa a normas IEEE específicas. Solo se menciona cumplimiento con UL 2043 para uso en espacios de aire acondicionado." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "Cumple con UL 2043 (apto para espacios de manejo de aire)" },
+          { "label": "Temperatura de operación:", "value": "No hay datos disponibles" }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-MX5-F02VP": {
+    "pageTitle": "Jack RJ-45 Cat. 5e MAX Plano VALUPACK, color blanco, marca SIEMON – MX5-F02VP",
+    "titulo": "Jack RJ-45 Cat. 5e MAX Plano VALUPACK, color blanco, marca SIEMON – MX5-F02VP",
+    "precio": "US$ 6.6",
+    "categoria": "Jack RJ-45 Cat5",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MX5-F02VP_top.webp",
+      "https://web.netperu100.com/siemon/images/MX5-F02VP_left.webp",
+      "https://web.netperu100.com/siemon/images/MX5-F02VP_back.webp"
+    ],
+    "especificaciones": [
+      "Módulo flat (plano) color blanco, parte de la línea MAX 5e de Siemon, versión Value Pack (VP) — suele incluir íconos y tapas en el kit.",
+      "Desempeño por encima del estándar Cat 5e, diseñado para frecuencias de hasta 160 MHz.",
+      "Terminación rápida mediante bloque S310 punch-down, compatible con esquemas T568A/B."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet plano (flat) Cat 5e MAX, blanco, versión Value Pack (MX5-F02VP)." },
+          { "label": "Conectividad:", "value": "RJ-45 UTP, punch-down (S310), compatible con T568A/B." },
+          { "label": "Dimensiones y peso:", "value": "No hay datos oficiales disponibles." },
+          { "label": "Peso:", "value": "Tampoco disponible en fuentes confiables." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica, es un conector pasivo." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (IEEE)",
+        "items": [
+          { "label": "", "value": "No encontré referencia directa a normas IEEE específicas. Solo el cumplimiento UL 2043, estándar para ubicaciones con circulación de aire." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "Cumple con UL 2043 (apto para espacios con manejo de aire)." },
+          { "label": "Temperatura de operación:", "value": "No hay información disponible." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-MX5-F06": {
+    "pageTitle": "Jack RJ-45 Cat. 5e MAX Plano, color azul, marca SIEMON – MX5-F06",
+    "titulo": "Jack RJ-45 Cat. 5e MAX Plano, color azul, marca SIEMON – MX5-F06",
+    "precio": "US$ 8.9",
+    "categoria": "Jack RJ-45 Cat5",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MX5-F06_top.webp",
+      "https://web.netperu100.com/siemon/images/MX5-F06_left.webp",
+      "https://web.netperu100.com/siemon/images/MX5-F06_down.webp"
+    ],
+    "especificaciones": [
+      "Módulo plano (flat) color azul, de la línea MAX 5e de Siemon, con tapa de alivio de tensión trasera (rear strain relief cap) y S310 punch-down block que facilita la terminación rápida. Esta línea reúne las ventajas de los outlets 10G y MAX 6, con mejor performance que el estándar Cat 5e.",
+      "Soporta rendimiento tanto de componente como de canal de hasta 160 MHz, superando el estándar Cat 5e.",
+      "Compatible con cableado T568A/B, instalación desde frente o atrás, íconos codificados (color-matching, rojo y azul), y puerta protectora contra polvo."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet plano (flat) MAX 5e de Siemon, color azul, parte de la serie MAX 5e." },
+          { "label": "Conectividad:", "value": "RJ-45 UTP categoría 5e, punch-down S310, compatible con T568A/B." },
+          { "label": "Dimensiones:", "value": "Aproximadamente 1 in × 0.8 in × 0.3 in (longitud × ancho × alto)." },
+          { "label": "Peso:", "value": "No disponible en las fuentes consultadas." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (IEEE)",
+        "items": [
+          { "label": "", "value": "No se mencionan normas IEEE específicas en las fuentes encontradas. Cumple con UL 2043, apto para espacios con manejo de aire." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "Cumple con UL 2043." },
+          { "label": "Temperatura de operación:", "value": "No se encontró información disponible públicamente." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-MX6-02VP": {
+    "pageTitle": "Jack RJ-45 Cat 6 MAX Angular VP, color blanco, marca SIEMON – MX6-02VP",
+    "titulo": "Jack RJ-45 Cat 6 MAX Angular VP, color blanco, marca SIEMON – MX6-02VP",
+    "precio": "US$ 8.4",
+    "categoria": "Jack RJ-45 Cat6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MX6-02VP_top.webp",
+      "https://web.netperu100.com/siemon/images/MX6-02VP_left.webp",
+      "https://web.netperu100.com/siemon/images/MX6-02VP_sid.webp"
+    ],
+    "especificaciones": [
+      "Módulo angular (angled), blanco, de la línea MAX 6 de Siemon, con tapa de alivio de tensión trasera (rear strain relief) y puerta protectora de color matching. Ideal para color-coding y alta densidad.",
+      "Rendimiento que supera los requerimientos de Cat 6, con diseño compacto para instalaciones donde el espacio es limitado. Se pueden montar hasta 6 jacks en una placa simple y 12 en doble.",
+      "Instalación rápida con sistema Palm Guard y entrada de cable en forma de pirámide sobre bloque S310; compatible con esquemas T568A/B y retrocompatible con sistemas Cat 5e/Class D."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet MAX 6 angular (angled), Cat 6, incluye tapa y rear strain relief cap; versión Value Pack (VP) (kit de 250 jacks + acces.)" },
+          { "label": "Conectividad:", "value": "RJ-45 UTP categoría 6, punch-down sobre bloque S310, compatible con cableado T568A/B" },
+          { "label": "Dimensiones:", "value": "Aproximadamente 1 in × 2 in × 1 in (largo × ancho × alto)" },
+          { "label": "Peso:", "value": "Cerca de 0.1 lb (~45 g)" }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (es un módulo pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (IEEE)",
+        "items": [
+          { "label": "", "value": "No se especifican normas IEEE en las fuentes disponibles, pero el módulo cumple con UL 2043 (apto para espacios con circulación de aire)" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "UL 2043" },
+          { "label": "Temperatura de operación:", "value": "No hay información pública disponible." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-MX6-03VP": {
+    "pageTitle": "Jack RJ-45 Cat 6 MAX Angular VP, color rojo, marca SIEMON – MX6-03VP",
+    "titulo": "Jack RJ-45 Cat 6 MAX Angular VP, color rojo, marca SIEMON – MX6-03VP",
+    "precio": "US$ 8.4",
+    "categoria": "Jack RJ-45 Cat6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MX6-03VP_front.webp",
+      "https://web.netperu100.com/siemon/images/MX6-03VP_sid.webp",
+      "https://web.netperu100.com/siemon/images/MX6-03VP_back.webp"
+    ],
+    "especificaciones": [
+      "Módulo angular (angled) color rojo, perteneciente a la línea MAX 6 de Siemon. Cuenta con tapa protectora (door) y cap de alivio de tensión trasera (rear strain relief cap). Cumple con los requerimientos de rendimiento superiores a Cat 6, permitiendo alta densidad de instalación y gestión eficiente de cables.",
+      "Excelente eficiencia en espacios reducidos: permite una instalación compacta de hasta seis outlets en una placa simple y doce en una doble.",
+      "Instalación rápida con terminación tipo punch-down en bloque S310, sistema “Palm Guard” para asegurar el módulo durante el proceso, y entrada tipo pirámide para facilitar la separación de pares.",
+      "Compatible con wire standards T568A/B, retrocompatible con Cat 5e/Class D, incluye íconos codificados por color para identificación rápida, puertas protectoras para minimizar polvo y contaminantes.",
+      "Cumple con norma UL 2043, apto para uso en espacios con flujo de aire (air-handling spaces)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet MAX 6 de tipo angular (angled), Cat 6, con tapa y cap de alivio trasero, versión Value Pack (VP) (kit con 250 jacks, puertas, caps y íconos color-matching)" },
+          { "label": "Conectividad:", "value": "RJ-45 UTP Categoria 6, punch-down sobre bloque S310, compatible con T568A/B" },
+          { "label": "Dimensiones y peso:", "value": "No se encontraron datos públicos en las fuentes disponibles." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (IEEE)",
+        "items": [
+          { "label": "", "value": "No se mencionan normas IEEE específicas en las fuentes consultadas, pero el módulo cumple con UL 2043 para entornos de manejo de aire" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "UL 2043." },
+          { "label": "Temperatura de operación:", "value": "No disponible públicamente." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-MX6-06VP": {
+    "pageTitle": "Jack RJ-45 Cat 6 MAX Angular VP, color azul, marca SIEMON – MX6-06VP",
+    "titulo": "Jack RJ-45 Cat 6 MAX Angular VP, color azul, marca SIEMON – MX6-06VP",
+    "precio": "US$ 8.4",
+    "categoria": "Jack RJ-45 Cat6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MX6-06VP_top.jpg",
+      "https://web.netperu100.com/siemon/images/MX6-06VP_left.jpg",
+      "https://web.netperu100.com/siemon/images/MX6-06VP_back.jpg"
+    ],
+    "especificaciones": [
+      "Módulo angular (angled) color azul, de la línea MAX 6, versión Value Pack (VP) (kit con múltiples unidades + íconos y puertas codificadas por color)",
+      "Diseño compacto para alta densidad: se pueden colocar hasta seis módulos en una placa de un gang y doce en doble gang.",
+      "Instalación rápida con sistema Palm Guard y entrada Pyramid wire entry en bloque S310, compatible con cableado T568A/B y retrocompatible con Cat 5e/Class D.",
+      "Alto rendimiento: supera ampliamente los requisitos de hardware para Cat 6."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet MAX 6 angular, Cat 6, versión Value Pack (MX6-06VP)" },
+          { "label": "Conectividad:", "value": "RJ-45 UTP Cat 6, terminación punch-down con bloque S310, compatible con estándares T568A/B" },
+          { "label": "Dimensiones / Peso:", "value": "No se encontraron datos precisos en las fuentes disponibles; hay datos genéricos sobre otros modelos, pero no aplican directamente al MX6-06VP." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (es un módulo pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (IEEE)",
+        "items": [
+          { "label": "", "value": "No se mencionan normas IEEE específicas en las fuentes consultadas. Cumple con UL 2043, apto para espacios con circulación de aire (air-handling spaces)" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "UL 2043" },
+          { "label": "Temperatura de operación:", "value": "No hay información disponible públicamente." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-MX6-F01VP": {
+    "pageTitle": "Jack RJ-45 Cat 6 MAX Plano VP, color negro, marca SIEMON – MX6-F01VP",
+    "titulo": "Jack RJ-45 Cat 6 MAX Plano VP, color negro, marca SIEMON – MX6-F01VP",
+    "precio": "US$ 8.4",
+    "categoria": "Jack RJ-45 Cat6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MX6-F01VP_top.webp",
+      "https://web.netperu100.com/siemon/images/MX6-F01VP_left.webp",
+      "https://web.netperu100.com/siemon/images/MX6-F01VP_back.webp"
+    ],
+    "especificaciones": [
+      "Módulo plano (flat) color negro, parte de la línea MAX 6, versión Value Pack (VP) (kit con 250 jacks, puertas, tapas y íconos codificados)",
+      "Supera el rendimiento del estándar Cat 6, ideal para aplicaciones de alta densidad; hasta seis módulos por placa simple y doce por placa doble.",
+      "Terminación rápida con sistema Palm Guard y entrada tipo Pyramid en bloque S310; instalación desde el frente o atrás; compatible con T568A/B; retro compatible con Cat 5e/Class D.",
+      "Inclusión de íconos codificados por color y puertas protectoras para reducir polvo y suciedad."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet MAX 6 plano (flat), Cat 6, versión Value Pack — MX6-F01VP" },
+          { "label": "Conectividad:", "value": "RJ-45 UTP categoría 6, punch-down S310, compatible con T568A/B" },
+          { "label": "Dimensiones:", "value": "Aprox. 1.25 × 0.9 × 0.75 in (32 × 23 × 19 mm)." },
+          { "label": "Peso:", "value": "Entre 2.4 oz (~ 68 g) según Amazon; otras fuentes mencionan 0.06 lb (~ 27 g)" }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica — es un componente pasivo." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (IEEE)",
+        "items": [
+          { "label": "", "value": "No se citan normas IEEE específicas, pero cumple con UL 2043, apto para espacios de manejo de aire (air-handling spaces)" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "Cumple con UL 2043." },
+          { "label": "Temperatura de operación:", "value": "No hay información pública disponible." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  }
+  ,
+  "jack-MX6-F03VP": {
+    "pageTitle": "Jack RJ-45 Cat 6 MAX Plano VP, color rojo, marca SIEMON – MX6-F03VP",
+    "titulo": "Jack RJ-45 Cat 6 MAX Plano VP, color rojo, marca SIEMON – MX6-F03VP",
+    "precio": "US$ 8.4",
+    "categoria": "Jack RJ-45 Cat6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MX6-F03VP_front.webp",
+      "https://web.netperu100.com/siemon/images/MX6-F03VP_sid.webp",
+      "https://web.netperu100.com/siemon/images/MX6-F03VP_back.webp"
+    ],
+    "especificaciones": [
+      "Es un módulo plano (flat) en color rojo, de la línea MAX 6 de Siemon, en versión Value Pack (VP), lo que implica que el kit incluye puertas, tapas de alivio de tracción trasera y etiquetas codificadas por color.",
+      "Es compacto y alto rendimiento: supera las especificaciones de hardware de la categoría 6, diferenciándose por soportar cableado T568A/B, tener diseño apilable (hasta 6 en una placa de 1 gang y 12 en 2 gang), Palm Guard para facilitar la instalación, entrada tipo pirámide (pyramid wire entry) en el bloque S310, y ser retrocompatible con sistemas Cat 5e/Class D.",
+      "Viene con íconos para identificación rápida y puertas protectoras (dust doors) para reducir el ingreso de polvo y contaminantes.",
+      "Certificado bajo UL 2043, permitiendo su uso en espacios con circulación de aire (air-handling spaces)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet plano MAX 6 Cat 6, color rojo, versión Value Pack (MX6-F03VP), que incluye accesorios como íconos, puertas y tapas de alivio trasero" },
+          { "label": "Conectividad:", "value": "RJ-45 UTP categoría 6, con terminación punch-down sobre bloque S310, compatible con estándares T568A/B" },
+          { "label": "Dimensiones / Peso:", "value": "No hay datos públicos específicos disponibles en las fuentes consultadas. Algunas tiendas can detect “0.50 lbs” para el modelo plano (MX6-F03), posiblemente sin accesorios, pero no se confirma que corresponda al paquete VP." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (es un módulo pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "Tampoco aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de normas (IEEE)",
+        "items": [
+          { "label": "", "value": "No hay menciones de normas IEEE específicas. Se confirma que cumple UL 2043 para uso en espacios con manejo de aire." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "UL 2043." },
+          { "label": "Temperatura de operación:", "value": "No disponible públicamente en las fuentes revisadas." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-MX6-F06VP": {
+    "pageTitle": "Jack RJ-45 Cat 6 MAX Plano VP, color azul, marca SIEMON – MX6-F06VP",
+    "titulo": "Jack RJ-45 Cat 6 MAX Plano VP, color azul, marca SIEMON – MX6-F06VP",
+    "precio": "US$ 8.4",
+    "categoria": "Jack RJ-45 Cat6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MX6-F06VP_top.webp",
+      "https://web.netperu100.com/siemon/images/MX6-F06VP_left.webp",
+      "https://web.netperu100.com/siemon/images/MX6-F06VP_side.webp"
+    ],
+    "especificaciones": [
+      "Módulo plano (flat) en color azul, de la línea MAX 6, versión Value Pack (VP): viene en presentación de paquetes de 250 unidades.",
+      "Diseño compacto, ideal para entornos de alta densidad; permiten instalar hasta seis unidades en una placa de un gang y doce en una doble.",
+      "Terminación rápida con sistema Palm Guard, entrada tipo pyramid en bloque S310; compatible con cableado T568A/B.",
+      "Incluye iconos color-code para identificación rápida y puertas para minimizar la entrada de polvo. Compatible con instalaciones desde el frente o atrás."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet MAX 6 plano Cat 6, versión Value Pack (MX6-F06VP)" },
+          { "label": "Conectividad:", "value": "RJ-45 UTP Cat 6, punch-down con bloque S310, compatible con T568A/B" },
+          { "label": "Dimensiones:", "value": "No hay datos específicos disponibles públicamente" },
+          { "label": "Peso:", "value": "No hay datos específicos disponibles públicamente" }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (IEEE)",
+        "items": [
+          { "label": "", "value": "No se mencionan normas IEEE específicas en las fuentes disponibles. Cumple con UL 2043, lo que lo hace apto para uso en espacios con circulación de aire (air-handling spaces)." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "UL 2043." },
+          { "label": "Temperatura de operación:", "value": "No está disponible públicamente." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-MX6-06B": {
+    "pageTitle": "Jack RJ-45 Cat 6 MAX Angular, color azul, marca SIEMON – MX6-06B",
+    "titulo": "Jack RJ-45 Cat 6 MAX Angular, color azul, marca SIEMON – MX6-06B",
+    "precio": "US$ 4.59",
+    "categoria": "Jack RJ-45 Cat6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MX6-06B_top.webp",
+      "https://web.netperu100.com/siemon/images/MX6-06B_sid.webp",
+      "https://web.netperu100.com/siemon/images/MX6-06B_back.webp"
+    ],
+    "especificaciones": [
+      "Módulo angular (angled) color azul, parte de la línea MAX 6 de Siemon, que ofrece un diseño de baja altura ideal para alta densidad y mejor manejo de cables en áreas con poco espacio.",
+      "Rendimiento que supera ampliamente los estándares Cat 6, con compatibilidad hacia atrás con Cat 5e/Class D.",
+      "Permite instalación compacta: hasta 6 jacks en una placa simple y 12 en una doble.",
+      "Terminación sencilla con sistema Palm Guard y entrada tipo Pyramid wire entry sobre bloque S310, compatible con cableado T568A/B.",
+      "Equipado con puertas protectoras anti-polvo y códigos de color para rápida identificación.",
+      "Diseño Unshielded (no blindado), con puerta incluida.",
+      "Empaque tipo Bulk Pack."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet MAX 6 angular, Cat 6, color azul, con golpe protector, damper trasero y puerta integrada. Empaque Bulk Pack (no VP)." },
+          { "label": "Conectividad:", "value": "RJ-45 UTP, terminación punch-down (110), cableado universal T568A/B." },
+          { "label": "Dimensiones:", "value": "No hay datos públicos específicos en las fuentes consultadas." },
+          { "label": "Peso:", "value": "No disponible públicamente." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (IEEE)",
+        "items": [
+          { "label": "", "value": "No se mencionan normas IEEE específicas en las fuentes buscadas. Cumple con UL 2043, apto para uso en espacios con circulación de aire." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "UL 2043." },
+          { "label": "Temperatura de operación:", "value": "No hay información pública disponible." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-MX6-F01B": {
+    "pageTitle": "Jack RJ-45 Cat 6 MAX Plano, color negro, marca SIEMON – MX6-F01B",
+    "titulo": "Jack RJ-45 Cat 6 MAX Plano, color negro, marca SIEMON – MX6-F01B",
+    "precio": "US$ 4.59",
+    "categoria": "Jack RJ-45 Cat6",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MX6-F01B_top.webp",
+      "https://web.netperu100.com/siemon/images/MX6-F01B_left.webp",
+      "https://web.netperu100.com/siemon/images/MX6-F01B_sid.webp"
+    ],
+    "especificaciones": [
+      "Módulo plano (flat) en color negro, perteneciente a la línea MAX 6 de Siemon, diseñado para rendimiento superior y alta densidad.",
+      "Diseño compacto: permite hasta 6 módulos en una placa simple y 12 en una doble, ideal cuando el espacio es limitado.",
+      "Instalación flexible desde el frente o la parte trasera, con sistema Palm Guard y entrada tipo pyramid en bloque S310; compatible con cableado T568A/B y retrocompatible con Cat 5e/Class D.",
+      "Incluye íconos codificados por color para fácil identificación y puertas protectoras que reducen el ingreso de polvo y contaminantes.",
+      "Cumple con la norma UL 2043, apto para espacios con circulación de aire (air-handling spaces).",
+      "Presentación Bulk Pack (B), con empaque de proyecto completo de 100 unidades, sin incluir Value Pack de 250 unidades."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet plano MAX 6 Cat 6, color negro, empaque Bulk Pack (MX6-F01B)" },
+          { "label": "Conectividad:", "value": "RJ-45 UTP categoría 6, punch-down tipo 110, cableado universal T568A/B" },
+          { "label": "Dimensiones:", "value": "No hay datos específicos disponibles en las fuentes consultadas." },
+          { "label": "Peso:", "value": "No hay datos disponibles públicamente." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (es pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (IEEE)",
+        "items": [
+          { "label": "", "value": "No se citan normas IEEE específicas. Cumple con UL 2043 (apto para espacios con manejo de aire)." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "UL 2043." },
+          { "label": "Temperatura de operación:", "value": "No hay información pública disponible." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-Z6A-S01B": {
+    "pageTitle": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular (Hybrid), color negro, marca SIEMON – Z6A-S01B",
+    "titulo": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular (Hybrid), color negro, marca SIEMON – Z6A-S01B",
+    "precio": "US$ 16",
+    "categoria": "Jack RJ-45 Cat6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/Z6A-S01B_top.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S01B_left.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S01B_side.jpeg"
+    ],
+    "especificaciones": [
+      "Módulo shielded (apantallado) Cat 6A con diseño híbrido plano/angulado, permite montaje desde el frente o la parte trasera.",
+      "Reducción de profundidad del 40 %, ideal para cajas poco profundas. Cuerpo compacto y apilable lateralmente para alta densidad.",
+      "Terminación rápida y consistente usando tecnología Zero-Cross y herramienta Z-TOOL, canales guías y paneles color-code.",
+      "Cuerpo metálico de aleación zinc con blindaje de 360°, aislamiento entre módulos mediante bezels plásticos para evitar interferencia de tierra y alien crosstalk.",
+      "Incluye puerta (spring door) para minimizar ingreso de polvo, iconos de alta visibilidad y capacidad de color-code en el bezel."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet Z-MAX 6A shielded, híbrido plano/angulado, color negro, Bulk Pack (100 unidades)" },
+          { "label": "Conectividad:", "value": "RJ-45, blindado, terminación punch-down con Z-TOOL, compatible con T568A/B" },
+          { "label": "Dimensiones:", "value": "41.2 × 14.5 × 21.1 mm (1.6 × 0.57 × 0.832 in.)" },
+          { "label": "Peso:", "value": "No especificado públicamente" },
+          { "label": "Rango de cable:", "value": "22–26 AWG sólido/trenzado; diámetro máximo con aislamiento: 1.48 mm; diámetro de conductor: 0.60 mm; diámetro del cable: hasta 9 mm; soporte de 5 re-terminaciones" },
+          { "label": "Durabilidad mecánica:", "value": "2500 ciclos de inserción; retención mínima 50 N" },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (14 °F a 140 °F)" },
+          { "label": "Materiales:", "value": "Cuerpo en aleación de zinc; contactos de aleación de cobre con oro ≥1.27 µm; plástico retardante UL 94 V-0" },
+          { "label": "Certificaciones eléctricas:", "value": "Contact resistance 20 mΩ; aislación 500 MΩ; resistencia 200 mΩ; aislamiento 1000 VAC/1500 VDC" }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "PoE:", "value": "Compatible con IEEE 802.3af (Type 1), IEEE 802.3at (Type 2), IEEE 802.3bt (Type 3 y 4), y Power over HDBaseT (PoH)" }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (IEEE / Otros)",
+        "items": [
+          { "label": "", "value": "Cumple con ANSI/TIA-568.2-D, ISO/IEC 11801-1 Ed 1, IEC-60603-7, IEC-60512-99-002 (3rd party). Compatible con PoE estándares IEEE mencionados." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "Cumple con UL 2043 y UL 1863, apto para espacios con flujo de aire. RoHS, libre de plomo, halógenos y PVC." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (14–140 °F)" }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-Z6A-S01DB": {
+    "pageTitle": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular con puerta (Bulk), color negro, marca SIEMON – Z6A-S01DB",
+    "titulo": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular con puerta (Bulk), color negro, marca SIEMON – Z6A-S01DB",
+    "precio": "US$ 18",
+    "categoria": "Jack RJ-45 Cat6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/Z6A-S01DB_top.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S01DB_left.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S01DB_sid.jpeg"
+    ],
+    "especificaciones": [
+      "Módulo shielded Cat 6A con diseño híbrido plano/angulado, permite montaje desde el frente o la parte trasera.",
+      "Arquitectura compacta que reduce la profundidad de la instalación en hasta un 40 %, ideal para cajas poco profundas.",
+      "Incluye puerta (door) para evitar entrada de polvo y contaminantes. Terminación con sistema Zero-Cross™ y herramienta Z-TOOL™ para instalación rápida y consistente.",
+      "Carcasa de zinc fundido con blindaje completo de 360°, marco plástico aislante para evitar contacto directo entre módulos y mantener alta performance en alien crosstalk.",
+      "Iconos visibles y sistema de codificación por color en los bezels para identificación rápida."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet Z-MAX 6A shielded, híbrido plano/angulado, con puerta, color negro, empaque Bulk (100 unidades)" },
+          { "label": "Conectividad:", "value": "RJ-45 blindado, terminación punch-down tipo 110 compatible con T568A/B" },
+          { "label": "Dimensiones (L×W×H):", "value": "41.2 × 14.5 × 21.1 mm (1.6 × 0.57 × 0.83 in)" },
+          { "label": "Rango de cable:", "value": "22–26 AWG sólido o trenzado; diámetro exterior del cable hasta 9 mm; soporta hasta 5 re-terminaciones" },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (14 °F a 140 °F)" }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "PoE:", "value": "Compatible con IEEE 802.3af, 802.3at, 802.3bt (Tipo 3 & 4) y Power over HDBaseT (PoH)" }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (IEEE / Otros)",
+        "items": [
+          { "label": "", "value": "Cumple con ANSI/TIA-568.2-D, ISO/IEC 11801-1 Ed 1, IEC 60603-7, IEC 60512-99-002 (3rd party tested), UL 2043, UL 1863." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Construcción:", "value": "Zinc die-cast, contactos con recubrimiento de oro ≥ 1.27 µm, plástico retardante UL 94 V-0." },
+          { "label": "Ecológico:", "value": "Libre de plomo, halógenos y PVC. Empaque eco-friendly." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-Z6A-S02B": {
+    "pageTitle": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular (Hybrid), color blanco, marca SIEMON – Z6A-S02B",
+    "titulo": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular (Hybrid), color blanco, marca SIEMON – Z6A-S02B",
+    "precio": "US$ 16",
+    "categoria": "Jack RJ-45 Cat6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/Z6A-S02B_top.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S02B_left.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S02B_sid.jpeg"
+    ],
+    "especificaciones": [
+      "Conector apantallado (shielded) Cat 6A, diseño híbrido plano/angulado que permite instalación desde el frente o la parte trasera. Reduce la profundidad del montaje en hasta un 40 %, útil en cajas con espacio limitado.",
+      "Terminación con tecnología Zero-Cross™ y herramienta Z-TOOL™, que agiliza y uniformiza la instalación.",
+      "Cuerpo metálico con blindaje de 360°, más bezel plástico aislante que previene interferencia entre módulos adyacentes — excelente control de alien crosstalk.",
+      "Incluye sistema de íconos de alta visibilidad y códigos de color para identificación rápida, además de un “spring door” para protección contra polvo."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet Z-MAX 6A shielded, hybrid (flat/angled), blanco, empaque Bulk (100 unidades)" },
+          { "label": "Conectividad:", "value": "RJ-45 blindado, punch-down (110), esquema T568A/B universal" },
+          { "label": "Dimensiones:", "value": "41.2 × 14.5 × 21.1 mm (~1.6 × 0.57 × 0.83 in)" },
+          { "label": "Peso:", "value": "No disponible públicamente" },
+          { "label": "Rango de cableado:", "value": "22–26 AWG (sólido/trenzado), cable OD hasta 9 mm, 5 re-terminaciones" },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (14 °F a 140 °F)" },
+          { "label": "Materiales:", "value": "Housing de zinc, contactos cobre con ≥1.27 µm de oro, plástico UL 94 V-0" },
+          { "label": "Eléctricas:", "value": "Resistencia de contacto: 20 mΩ; aislamiento: 500 MΩ; tensión de aislamiento: 1000 VAC / 1500 VDC; corriente nominal: 1.5 A; compatible con PoE Types 1–4 y PoH" }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "PoE:", "value": "Compatible con IEEE 802.3af (Type 1), IEEE 802.3at (Type 2), IEEE 802.3bt (Type 3 & 4) y PoH" }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "", "value": "Cumple con ANSI/TIA-568.2-D, ISO/IEC 11801-1 Ed 1.0, IEC-60603-7, IEC-60512-99-002 (tercero), UL 2043 y UL 1863 (apto para espacios con circulación de aire)" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Construcción ecológica:", "value": "Libre de plomo, PVC y halógenos; empaque eco-friendly." },
+          { "label": "Flammability rating:", "value": "UL 94 V-0." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-Z6A-S02DB": {
+    "pageTitle": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular con puerta (Bulk), color blanco, marca SIEMON – Z6A-S02DB",
+    "titulo": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular con puerta (Bulk), color blanco, marca SIEMON – Z6A-S02DB",
+    "precio": "US$ 18",
+    "categoria": "Jack RJ-45 Cat6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/Z6A-S02DB_top.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S02DB_left.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S02DB_sid.jpeg"
+    ],
+    "especificaciones": [
+      "Conector apantallado (shielded) Cat 6A, diseño híbrido plano/angulado, ideal para cajas poco profundas (profundidad reducida en ~40 %).",
+      "Incluye spring door para proteger del polvo y sistema de terminación Zero-Cross™ con herramienta Z-TOOL™ para instalación rápida y uniforme.",
+      "Carcasa de aluminio fundido que ofrece blindaje completo de 360°, con bezels plásticos que aíslan módulos adyacentes y aseguran alto control de crosstalk.",
+      "Paneles y bezels con sistema de íconos codificados para identificación rápida. Permite instalación desde el frente o posterior con retención robusta del cable."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet Z-MAX 6A Shielded, híbrido plano/angulado con puerta, blanco, Bulk Pack (100 unidades)" },
+          { "label": "Conectividad:", "value": "RJ-45 blindado, punch-down (110), esquema T568A/B universal" },
+          { "label": "Dimensiones:", "value": "41.2 × 14.5 × 21.1 mm (~1.6×0.57×0.83 in)" },
+          { "label": "Peso:", "value": "No especificado públicamente" },
+          { "label": "Rango de cableado:", "value": "22–26 AWG sólido/trenzado; cable OD hasta 9 mm; admite hasta 5 re-terminaciones" },
+          { "label": "Temperatura operativa:", "value": "–10 °C a 60 °C (14–140 °F)" }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "PoE:", "value": "Compatible con IEEE 802.3af (Type 1), IEEE 802.3at (Type 2), IEEE 802.3bt (Type 3 y 4) y Power over HDBaseT (PoH)" }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (IEEE / Otros)",
+        "items": [
+          { "label": "", "value": "Cumple con ANSI/TIA-568.2-D, ISO/IEC 11801-1 Ed 1.0, IEC-60603-7, IEC-60512-99-002 (3rd party verificado), UL 2043 y UL 1863 (apto para espacios con circulación de aire)" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Construcción ecológica:", "value": "Libre de plomo, halógenos y PVC; empaque eco-friendly; termoplástico retardante UL 94 V-0." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-Z6A-S03B": {
+    "pageTitle": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular (Bulk), color rojo, marca SIEMON – Z6A-S03B",
+    "titulo": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular (Bulk), color rojo, marca SIEMON – Z6A-S03B",
+    "precio": "US$ 16",
+    "categoria": "Jack RJ-45 Cat6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/Z6A-S03B_top.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S03B_left.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S03B_sid.jpeg"
+    ],
+    "especificaciones": [
+      "Módulo apantallado (shielded) Cat 6A con diseño híbrido plano/angulado que permite montaje desde el frente o atrás.",
+      "Carcasa de fundición metálica con blindaje de 360° y basamento aislante para evitar interferencias laterales.",
+      "Terminación rápida con sistema Zero-Cross™ y herramienta Z-TOOL™.",
+      "Incluye iconos codificados por color y opción de “spring door” para protección contra polvo.",
+      "Construcción compacta y apilable, ideal para alta densidad.",
+      "Cumple con normativas de uso en espacios con aire acondicionado (UL 2043)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet Z-MAX 6A Shielded, híbrido plano/angulado, color rojo, Bulk Pack (100 uds.)." },
+          { "label": "Conectividad:", "value": "RJ-45 blindado, terminación tipo 110, cableado universal T568A/B." },
+          { "label": "Dimensiones:", "value": "41.2 × 14.5 × 21.1 mm (~1.6 × 0.57 × 0.83 in)." },
+          { "label": "Peso:", "value": "No especificado públicamente." },
+          { "label": "Materiales:", "value": "Housing de zinc die-cast; contacto en aleación de cobre con al menos 1.27 µm de oro; plástico retardante UL 94 V-0." },
+          { "label": "Eléctricas:", "value": "Resistencia de contacto: 20 mΩ; Resistencia de entrada a salida: 200 mΩ; Voltaje de aislamiento: hasta 1000 V DC/AC (y hasta 1500 V en algunas cifras); Corriente nominal: 1.5 A; Compatible hacia atrás con Cat 5e/Cat 6; Apto para PoE (Tipos 1–4) y PoH." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "PoE:", "value": "Compatible con IEEE 802.3af (Type 1), 802.3at (Type 2), 802.3bt (Type 3 & 4), y Power over HDBaseT (PoH)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "", "value": "Cumple con ANSI/TIA-568.2-D, ISO/IEC 11801-1 Ed 1.0, IEC 60603-7-51, IEC 60512-99-002 (verificado por terceros), UL 2043 (apto para espacios con circulación de aire)." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones Ambientales y Operativas",
+        "items": [
+          { "label": "Materiales ecológicos:", "value": "Libre de plomo, halógenos y PVC, con empaque eco-friendly (Bulk Pack). Plásticos retardantes UL 94 V-0." },
+          { "label": "Rango de temperatura de operación:", "value": "–10 °C a 60 °C (14 °F a 140 °F)." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-Z6A-S03DB": {
+    "pageTitle": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular con puerta (Bulk), color rojo, marca SIEMON – Z6A-S03DB",
+    "titulo": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular con puerta (Bulk), color rojo, marca SIEMON – Z6A-S03DB",
+    "precio": "US$ 18",
+    "categoria": "Jack RJ-45 Cat6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/Z6A-S03DB_top.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S03DB_left.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S03DB_sid.jpeg"
+    ],
+    "especificaciones": [
+      "Conector apantallado (shielded) Cat 6A con diseño híbrido plano/angulado para instalación desde el frente o la parte trasera.",
+      "Arquitectura compacta que reduce la profundidad en aproximadamente 40 %, ideal para cajas poco profundas.",
+      "Terminación rápida y consistente mediante tecnología Zero-Cross™ y herramienta Z-TOOL™.",
+      "Cuerpo metálico con blindaje de 360° y bezels plásticos aislantes para evitar interferencias entre módulos, mejorando el control del alien crosstalk.",
+      "Incluye sistema de íconos codificados por color y spring door (puerta) para proteger contra polvo y contaminantes."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet Z-MAX 6A Shielded, plano/angulado híbrido, con puerta, color rojo, empaque Bulk Pack (100 uds.)" },
+          { "label": "Conectividad:", "value": "RJ-45 apantallado, punch-down (110), cableado universal T568A/B" },
+          { "label": "Dimensiones:", "value": "41.2 × 14.5 × 21.1 mm (~1.6 × 0.57 × 0.83 in)" },
+          { "label": "Cableado compatibles:", "value": "22–26 AWG sólido o trenzado; diámetro exterior del cable hasta 9 mm; admite hasta 5 re-terminaciones" },
+          { "label": "Durabilidad / Retención:", "value": "Ciclos de inserción: 2,500; Retención mínima: 50 N" },
+          { "label": "Materiales:", "value": "Housing de aleación de zinc; contactos con al menos 50 micro-inches (1.27 µm) de oro; plástico UL 94 V-0" },
+          { "label": "Rango de temperatura:", "value": "–10 °C a 60 °C (14 °F a 140 °F)" }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "PoE:", "value": "Compatible con IEEE 802.3af (Type 1), 802.3at (Type 2), 802.3bt (Type 3 y 4) y Power over HDBaseT (PoH)" }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas (IEEE / Otros)",
+        "items": [
+          { "label": "", "value": "Cumple con ANSI/TIA-568.2-D, ISO/IEC 11801-1 Ed 1.0, IEC 60603-7-51, IEC 60512-99-002 (verificado por terceros), UL 2043 y UL 1863 (apto para espacios con circulación de aire)" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Ecológico:", "value": "Libre de plomo, halógenos y PVC. Empleado en empaques eco-friendly; plásticos con retardante UL 94 V-0." },
+          { "label": "PowerGUARD:", "value": "Incluye tecnología PowerGUARD para operar a temperaturas de hasta 75 °C, mejorando disipación de calor en aplicaciones de PoE o HDBaseT. Perfecto para sistemas donde se requiere eficiencia térmica sin sacrificar rendimiento." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-Z6A-S05": {
+    "pageTitle": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular, color amarillo, marca SIEMON – Z6A-S05",
+    "titulo": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular, color amarillo, marca SIEMON – Z6A-S05",
+    "precio": "US$ 21",
+    "categoria": "Jack RJ-45 Cat6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/Z6A-S05_top.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S05_left.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S05_sid.jpeg"
+    ],
+    "especificaciones": [
+      "Conector apantallado (shielded) Cat 6A con diseño híbrido plano/angulado (hybrid flat/angled), permite montaje frontal o trasero.",
+      "Terminación rápida gracias al sistema Zero-Cross™ combinado con la herramienta Z-TOOL™, que agiliza y uniformiza el proceso.",
+      "Carcasa metálica con blindaje de 360° y bezel plástico aislante para controlar el alien crosstalk.",
+      "Sistema de iconos color-code para identificación visual rápida.",
+      "Diseño compacto y apilable, ideal para alta densidad y economiza espacio en canalizaciones.",
+      "Versión Bulk Pack (cantidad a granel), color amarillo — sin puerta."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet Z-MAX 6A shielded, plano/angulado híbrido, color amarillo, terminación sin puerta, empaque Bulk Pack." },
+          { "label": "Conectividad:", "value": "RJ-45 blindado, terminación punch-down (110), compatible con T568A/B." },
+          { "label": "Dimensiones:", "value": "41.2 × 14.5 × 21.1 mm (~1.6 × 0.57 × 0.83 in)." },
+          { "label": "Materiales:", "value": "Carcasa de zinc die-cast; contactos de aleación de cobre con al menos 1.27 µm de oro; plásticos retardantes UL 94 V-0." },
+          { "label": "Rango de cable:", "value": "22-26 AWG, cable exterior hasta 9 mm, hasta 5 reterminaciones posibles." },
+          { "label": "Rendimiento eléctrico:", "value": "Resistencia de contacto 20 mΩ, aislamiento 500 MΩ, aislación mínima 1000 VAC / 1500 VDC, corriente nominal 1.5 A, compatible con PoE tipos 1-4 y PoH." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (14 °F a 140 °F)." },
+          { "label": "Ciclos de inserción:", "value": "2,500; fuerza mínima de retención del conector: 50 N." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "PoE:", "value": "Compatible con IEEE 802.3af (Type 1), 802.3at (Type 2), 802.3bt (Types 3 y 4) y Power over HDBaseT (PoH)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas y Certificaciones",
+        "items": [
+          { "label": "Normas y estándares aplicables:", "value": "ANSI/TIA-568.2-D, ISO/IEC 11801-1 Ed 1.0, IEC 60603-7-51, IEC 60512-99-002 (verificado por terceros), UL 2043 (apto para espacios con manejo de aire)." },
+          { "label": "Materiales ecológicos:", "value": "RoHS, libre de plomo, halógenos y PVC; empaque eco-friendly." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-Z6A-S05DB": {
+    "pageTitle": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular con puerta (Bulk), color amarillo, marca SIEMON – Z6A-S05DB",
+    "titulo": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular con puerta (Bulk), color amarillo, marca SIEMON – Z6A-S05DB",
+    "precio": "US$ 18",
+    "categoria": "Jack RJ-45 Cat6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/Z6A-S05DB_top.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S05DB_left.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S05DB_sid.jpeg"
+    ],
+    "especificaciones": [
+      "Módulo apantallado (shielded) Cat 6A con diseño híbrido plano/angulado. Permite montaje tanto frontal como trasero y reduce la profundidad en una caja en un 40 % para eficiencia en espacios reducidos.",
+      "Terminación rápida y consistente gracias al sistema Zero-Cross™ y la herramienta Z-TOOL™.",
+      "Carcasa de fundición metálica con blindaje de 360°, además de bezels plásticos aislantes que previenen interferencias entre módulos pegados — ideal para mantener control de alien crosstalk en instalaciones densas.",
+      "Incluye puerta (spring door) para proteger contra polvo (indicada por la “D” en Z6A-S05DB) y permite identificación rápida mediante íconos codificados por color."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Z-MAX 6A shielded hybrid outlet (plano/angulado), amarillo, con puerta, Bulk Pack (100 uds.)" },
+          { "label": "Conectividad:", "value": "RJ-45 apantallado, terminación punch-down (110), cableado universal T568A/B" },
+          { "label": "Dimensiones (L×A×H):", "value": "41.2 × 14.5 × 21.1 mm (~1.6 × 0.57 × 0.83 in)" },
+          { "label": "Materiales:", "value": "Carcasa zinc die-cast; contactos con ≥1.27 µm de oro; plásticos UL 94 V-0" },
+          { "label": "Términos eléctricos:", "value": "Resistencia: 20 mΩ; aislamiento: 500 MΩ; soporta hasta 1000 VAC / 1500 VDC; corriente máxima 1.5 A; compatible con PoE tipos 1-4 y PoH" },
+          { "label": "Rango operativo:", "value": "–10 °C a 60 °C (14–140 °F)" },
+          { "label": "Durabilidad:", "value": "Ciclos de inserción: 2 500; retención: mínimo 50 N" }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "PoE:", "value": "Compatible con Power over Ethernet: IEEE 802.3af (Type 1), 802.3at (Type 2), 802.3bt (Types 3 y 4) y Power over HDBaseT (PoH)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas y Certificaciones",
+        "items": [
+          { "label": "Estándares y certificaciones técnicas:", "value": "ANSI/TIA-568.2-D, ISO/IEC 11801-1 Ed 1.0, IEC 60603-7 / IEC 60512-99-002 (verificación externa), Cumple con UL 2043 y UL 1863, apto para ambientes con circulación de aire (como cielorrasos)." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones Ambientales",
+        "items": [
+          { "label": "Construcción y empaque ecológico:", "value": "RoHS, libre de plomo, PVC y halógenos; plásticos con certificación UL 94 V-0." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-Z6A-S06B": {
+    "pageTitle": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular (Bulk), color azul, marca SIEMON – Z6A-S06B",
+    "titulo": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular (Bulk), color azul, marca SIEMON – Z6A-S06B",
+    "precio": "US$ 16",
+    "categoria": "Jack RJ-45 Cat6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/Z6A-S06B_top.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S06B_left.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S06B_left.jpeg"
+    ],
+    "especificaciones": [
+      "Conector apantallado (shielded) Cat 6A con diseño híbrido plano/angulado, reduce la profundidad de instalación hasta un 40 %. Blindaje completo de 360° y lateralmente aislado para reducir el alien crosstalk.",
+      "Terminación rápida con Zero-Cross™ y herramienta Z-TOOL™.",
+      "Incluye íconos codificados por color —ideal para altas densidades—, sin puerta."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Área de montaje plano/angulado, color azul, empaque bulk (100 uds.)—B al final indica 100-count." },
+          { "label": "Conectividad:", "value": "RJ-45 apantallado, punch-down (110), T568A/B universal." },
+          { "label": "Dimensiones (L×W×H):", "value": "41.2 × 14.5 × 21.1 mm (~1.6 × 0.57 × 0.83 in)." },
+          { "label": "Materiales:", "value": "Housing zinc die-cast, contactos cobre con ≥1.27 µm oro, plásticos UL 94 V-0." },
+          { "label": "Rendimiento eléctrico:", "value": "Resistencia contacto: 20 mΩ; aislamiento: 500 MΩ; aislación: 1000 VAC / 1500 VDC; corriente: 1.5 A." },
+          { "label": "Durabilidad:", "value": "2,500 ciclos de inserción; retención mínima: 50 N." },
+          { "label": "Rango de cableado:", "value": "22–26 AWG, cable OD hasta 9 mm, hasta 5 re-terminaciones, compatible con T568A/B." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (14–140 °F)." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "PoE:", "value": "Compatible con Power over Ethernet: IEEE 802.3af (Type 1), 802.3at (Type 2), 802.3bt (Types 3 & 4) y PoH (Power over HDBaseT)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas Técnicas",
+        "items": [
+          { "label": "Estándares y certificaciones:", "value": "ANSI/TIA-568.2-D, ISO/IEC 11801-1 Ed 1.0, IEC 60603-7-51, IEC 60512-99-002 (3rd-party), UL 2043, UL 1863 – apto para espacios con manejo de aire" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Construcción eco-friendly:", "value": "cumple RoHS, libre de plomo, halógenos y PVC." },
+          { "label": "Flammability rating:", "value": "UL 94 V-0." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-Z6A-S06DB": {
+    "pageTitle": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular con puerta (Bulk), color azul – Siemon Z6A-S06DB",
+    "titulo": "Jack RJ-45 Cat 6A Shielded Z-MAX Plano/Angular con puerta (Bulk), color azul – Siemon Z6A-S06DB",
+    "precio": "US$ 18",
+    "categoria": "Jack RJ-45 Cat6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/Z6A-S06DB_top.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S06DB_down.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-S06DB_sid.jpeg"
+    ],
+    "especificaciones": [
+      "Diseño shielded (apantallado) Cat 6A con arquitectura híbrida plano/angulada, ideal para montaje frontal o trasero en cajas profundas o poco profundas, reduciendo profundidad hasta en un 40 % gracias a su perfil compacto.",
+      "Terminación rápida y homogénea gracias al sistema Zero-Cross™ y la herramienta Z-TOOL™ que facilitan el alineamiento y la inserción de pares.",
+      "Carcasa de metal con blindaje de 360 °, más bezels plásticos aislantes que previenen interferencias entre módulos y facilitan alta densidad sin pérdida de calidad.",
+      "Incluye puerta (spring-door) para protección contra polvo, además de un sistema de íconos codificados por color para identificación rápida de puertos en entornos con alta densidad de conexiones."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Outlet Z-MAX 6A shielded, hybrid (flat/angled), color azul, con puerta, Bulk Pack (100 unidades)" },
+          { "label": "Conectividad:", "value": "RJ-45 apantallado, punch-down 110, compatible con cableado universal T568A/B" },
+          { "label": "Dimensiones:", "value": "41.2 × 14.5 × 21.1 mm (~1.6 × 0.57 × 0.83 in)" },
+          { "label": "Materiales:", "value": "Cuerpo de zinc die-cast; contactos de cobre con recubrimiento de oro de al menos 1.27 µm; plástico UL 94 V-0" },
+          { "label": "Rendimiento eléctrico:", "value": "Resistencia de contacto: 20 mΩ; aislamiento: 500 MΩ; tensión de aislamiento: hasta 1000 VAC / 1500 VDC; corriente nominal: 1.5 A; compatible con PoE tipos 1-4 y PoH" },
+          { "label": "Durabilidad:", "value": "2,500 ciclos de inserción; retención mínima: 50 N" },
+          { "label": "Cableado:", "value": "Compatible con cables 22–26 AWG, OD hasta 9 mm, hasta 5 re-terminaciones" },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (14 °F a 140 °F)" }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "PoE:", "value": "Compatible con PoE (Power over Ethernet): IEEE 802.3af (Type 1), IEEE 802.3at (Type 2), IEEE 802.3bt (Types 3 y 4) y PoH (Power over HDBaseT)" }
+        ]
+      },
+      {
+        "titulo": "Normas y Certificaciones",
+        "items": [
+          { "label": "Cumple con:", "value": "ANSI/TIA-568.2-D, ISO/IEC 11801-1 (Ed 1.0), IEC 60603-7 / IEC 60512-99-002 (validados por terceros), UL 2043 y UL 1863 (apto para espacios con circulación de aire)" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones Ambientales",
+        "items": [
+          { "label": "Eco-friendly:", "value": "cumple RoHS, libre de plomo, halógenos y PVC. Plástico conforme a UL 94 V-0." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-Z6A-SK01": {
+    "pageTitle": "Jack RJ-45 Cat 6A Shielded Z-MAX Keystone, color negro – Siemon Z6A-SK01",
+    "titulo": "Jack RJ-45 Cat 6A Shielded Z-MAX Keystone, color negro – Siemon Z6A-SK01",
+    "precio": "US$ 17",
+    "categoria": "Jack RJ-45 Cat6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/Z6A-SK01_top.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-SK01_left.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-SK01_sid.jpeg"
+    ],
+    "especificaciones": [
+      "Conector shielded (apantallado) Cat 6A con diseño Keystone, ideal para marcos modulares e integración profesional en paneles.",
+      "Terminado sin herramientas, apto para cableado T568A/B. Compatible con cableado 22–26 AWG, tanto sólido como trenzado.",
+      "Diseño compacto, ideal para alta densidad y escenarios con espacio limitado.",
+      "Certificación UL 94 V-0 para resistencia a la flama."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Keystone shielded RJ-45 Cat 6A outlet" },
+          { "label": "Conectividad:", "value": "Termination 110; T568A/B universal" },
+          { "label": "Dimensiones / Peso:", "value": "No disponibles públicamente" },
+          { "label": "Materiales:", "value": "Cuerpo de zinc, blindaje completo, estándares UL/IEC" },
+          { "label": "Flammability:", "value": "UL 94 V-0" },
+          { "label": "Color:", "value": "Negro" }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "PoE:", "value": "Compatible con IEEE 802.3af (Type 1), 802.3at (Type 2), 802.3bt (Types 3 & 4), y PoH (Power over HDBaseT)" }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "", "value": "Cumple con ANSI/TIA-568.2-D, ISO/IEC 11801-1 Ed 1.0, IEC 60603-7, UL 2043 & UL 1863" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Construcción ecológica:", "value": "Libre de plomo, halógenos y PVC." },
+          { "label": "Operación:", "value": "Apto para espacios con sistemas de circulación de aire gracias a su cumplimiento UL 2043." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "jack-Z6A-SK01B": {
+    "pageTitle": "Jack RJ-45 Cat 6A Shielded Z-MAX Keystone (Bulk), color negro – SIEMON Z6A-SK01B",
+    "titulo": "Jack RJ-45 Cat 6A Shielded Z-MAX Keystone (Bulk), color negro – SIEMON Z6A-SK01B",
+    "precio": "US$ 16",
+    "categoria": "Jack RJ-45 Cat6A",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/Z6A-SK01B_top.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-SK01B_down.jpeg",
+      "https://web.netperu100.com/siemon/images/Z6A-SK01B_sid.jpeg"
+    ],
+    "especificaciones": [
+      "Módulo shielded (apantallado) categoría 6A en formato Keystone, pensado para marcos modulares o patch panels estilo 1U.",
+      "Terminación tool-less (sin herramientas), compatible con cableado universal T568A/B; soporta cables de 22–26 AWG, tanto sólidos como trenzados.",
+      "Diseño compacto, ideal para alta densidad; con certificación UL 94 V-0 (resistente a la flama)."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Keystone outlet apantallado Cat 6A, negro, formato bulk pack (100 unidades)" },
+          { "label": "Conectividad:", "value": "Terminación tipo 110, cableado universal T568A/B." },
+          { "label": "Dimensiones / Peso:", "value": "No disponibles públicamente." },
+          { "label": "Material / Calidad:", "value": "Housing metálico con blindaje completo, plástico con UL 94 V-0." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "PoE:", "value": "Compatible con alimentación PoE: IEEE 802.3af (Type 1), 802.3at (Type 2), 802.3bt (Types 3 & 4) y PoH (Power over HDBaseT)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "", "value": "Compatible con ANSI/TIA-568.2-D, ISO/IEC 11801-1 Ed. 1.0, IEC 60603-7, UL 2043 & UL 1863 (apto para espacios con circulación de aire)" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones & Ambiente",
+        "items": [
+          { "label": "Construcción respetuosa del medio ambiente:", "value": "RoHS compliant, libre de plomo, halógenos y PVC." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/9A6L4-A5/9A6L4-A5_ds.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  }
+}
