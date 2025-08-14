@@ -1,0 +1,364 @@
+{
+    "patchpanel-MX-PNL-24": {
+    "pageTitle": "Patch Panel 24 Puertos Modular MAX, color negro, marca SIEMON — MX-PNL-24",
+    "titulo": "Patch Panel 24 Puertos Modular MAX, color negro, marca SIEMON — MX-PNL-24",
+    "precio": "US$ 46",
+    "categoria": "Patch Panel",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MX-PNL-24_top.jpg",
+      "https://web.netperu100.com/siemon/images/MX-PNL-24_down.jpg",
+      "https://web.netperu100.com/siemon/images/MX-PNL-24_sid.jpg"
+    ],
+    "especificaciones": [
+      "Patch panel modular con 24 posiciones para jacks de la serie MAX (no incluidos).",
+      "Diseño 1U para montaje en rack estándar de 19\".",
+      "Construcción en acero de alta resistencia con acabado en color negro.",
+      "Etiquetado y numeración de puertos para facilitar la administración.",
+      "Gestión de cables integrada para un enrutamiento ordenado.",
+      "Ideal para aplicaciones de voz, datos y video en redes estructuradas."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch panel modular." },
+          { "label": "Conectividad:", "value": "Hasta 24 puertos RJ-45 mediante módulos MAX (no incluidos)." },
+          { "label": "Dimensiones:", "value": "1U estándar (aprox. 482.6 mm × 44.45 mm)." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568:", "value": "" },
+          { "label": "ISO/IEC 11801:", "value": "" },
+          { "label": "IEEE 802.3 (aplicable según los módulos instalados):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MX-PNL-24/MX-PNL-24_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MX-PNL-24/MX-PNL-24_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MX-PNL-24/MX-PNL-24_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchpanel-TM-PNLZ-24-01": {
+    "pageTitle": "Patch Panel 24 Puertos Modular TERA Z-MAX, color negro, para Cat. 6A y 7A, marca SIEMON — TM-PNLZ-24-01",
+    "titulo": "Patch Panel 24 Puertos Modular TERA Z-MAX, color negro, para Cat. 6A y 7A, marca SIEMON — TM-PNLZ-24-01",
+    "precio": "US$ 94",
+    "categoria": "Patch Panel",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/TM-PNLZ-24-01_top.jpg",
+      "https://web.netperu100.com/siemon/images/TM-PNLZ-24-01_back.jpg",
+      "https://web.netperu100.com/siemon/images/TM-PNLZ-24-01_sid.jpg"
+    ],
+    "especificaciones": [
+      "Patch panel modular de 24 puertos para conectores TERA Z-MAX.",
+      "Compatible con categorías 6A y 7A para aplicaciones de alto rendimiento.",
+      "Diseño 1U para montaje en rack estándar de 19\".",
+      "Construcción robusta en acero con acabado en color negro.",
+      "Numeración y etiquetado de puertos para facilitar la administración de la red.",
+      "Gestión integrada de cables para organización y alivio de tensión.",
+      "Ideal para entornos de misión crítica y aplicaciones de alta velocidad."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch panel modular TERA Z-MAX." },
+          { "label": "Conectividad:", "value": "24 puertos para conectores TERA Z-MAX Cat. 6A y 7A." },
+          { "label": "Dimensiones:", "value": "1U estándar (aprox. 482.6 mm × 44.45 mm)." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568:", "value": "" },
+          { "label": "ISO/IEC 11801:", "value": "" },
+          { "label": "IEEE 802.3 (aplicable según conectores instalados):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/TM-PNLZ-24-01/TM-PNLZ-24-01_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/TM-PNLZ-24-01/TM-PNLZ-24-01_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/TM-PNLZ-24-01/TM-PNLZ-24-01_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchpanel-MX-PNL-48": {
+    "pageTitle": "Patch Panel 48 Puertos Modular MAX, color negro, marca SIEMON — MX-PNL-48",
+    "titulo": "Patch Panel 48 Puertos Modular MAX, color negro, marca SIEMON — MX-PNL-48",
+    "precio": "US$ 76",
+    "categoria": "Patch Panel",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/MX-PNL-48_top.jpg",
+      "https://web.netperu100.com/siemon/images/MX-PNL-48_down.jpg",
+      "https://web.netperu100.com/siemon/images/MX-PNL-48_sid.jpg"
+    ],
+    "especificaciones": [
+      "Panel modular 1U para 48 posiciones (jacks MAX no incluidos).",
+      "Montaje estándar en rack 19\" (1U).",
+      "Construcción metálica resistente con acabado negro en polvo.",
+      "Numeración visible y espacios para etiquetado por puerto.",
+      "Gestión de cables integrada en la parte trasera (guía / clip) para orden y alivio de tensión.",
+      "Compatible con insertos/modulares MAX (permite mezclar Cat5e/6/6A según jack instalado).",
+      "Diseño pensado para instalaciones de alta densidad y facilidad de mantenimiento."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch panel modular, 48 puertos, 1U." },
+          { "label": "Conectividad:", "value": "Soporta 48 módulos RJ-45 tipo MAX (jacks no incluidos); compatible con cableado T568A/B una vez terminados los jacks." },
+          { "label": "Dimensiones (aprox.):", "value": "482.6 mm (ancho) × 44.45 mm (alto, 1U) × 100–160 mm (profundidad, depende del diseño y organización de cableado)." },
+          { "label": "Peso:", "value": "No especificado públicamente (varía según versión y accesorios de gestión)." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (dispositivo pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Observación:", "value": "Al alojar jacks y cableado adecuados, el panel soporta aplicaciones Ethernet definidas por IEEE 802.3 (10/100/1000/10G según componentes instalados)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568:", "value": "Recomendado para infraestructura de parcheo." },
+          { "label": "ISO/IEC 11801:", "value": "Infraestructura de cableado." },
+          { "label": "IEC 60603-7:", "value": "Especificaciones para conectores modulares." },
+          { "label": "Compatible con IEEE 802.3:", "value": "Según los módulos/jacks y el cableado instalado." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS; normalmente disponible con listado/compatibilidad UL / CE según región y SKU." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (rango típico para hardware de rack)." },
+          { "label": "Materiales / Acabado:", "value": "Acero con recubrimiento en polvo (protección anticorrosión)." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MX-PNL-48/MX-PNL-48_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MX-PNL-48/MX-PNL-48_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/MX-PNL-48/MX-PNL-48_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchpanel-HD6-24": {
+    "pageTitle": "Patch Panel 24 Puertos Cat-6 S110 (preloaded 24 jacks), color negro — SIEMON HD6-24",
+    "titulo": "Patch Panel 24 Puertos Cat-6 S110 (preloaded 24 jacks), color negro — SIEMON HD6-24",
+    "precio": "US$ 219",
+    "categoria": "Patch Panel",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/HD6-24_top.jpg",
+      "https://web.netperu100.com/siemon/images/HD6-24_sid.jpg",
+      "https://web.netperu100.com/siemon/images/HD6-24_sid.jpg"
+    ],
+    "especificaciones": [
+      "Panel 1U para rack 19\", 24 puertos (pre-cargado / preloaded según SKU).",
+      "Diseñado para exceder los requisitos Category 6 (rendimiento comprobado hasta 250 MHz).",
+      "Terminación tipo 110 / S110 (bloques de terminación de tipo punch-down), con gestión de cables integrada para un acabado profesional.",
+      "Numeración/etiquetado claro por puerto y opciones de gestión trasera para orden y alivio de tensión."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch panel modular 1U, Category 6 (HD6 series)." },
+          { "label": "Conectividad:", "value": "24 puertos RJ-45 (jacks instalados según modelo); cableado T568A/T568B; terminación 110 / S110." },
+          { "label": "Dimensiones:", "value": "Formato 1U rack 19\" — ancho ≈ 482.6 mm, alto 44.45 mm; profundidad variable según gestión de cable (valor típico entre 100–160 mm)." },
+          { "label": "Peso:", "value": "No especificado públicamente en la ficha; varía según versión y accesorios." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica — es componente pasivo." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Observación útil:", "value": "Soporta las aplicaciones Ethernet definidas por IEEE 802.3 (10/100/1000/—10G depende de jacks/cableado instalados)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "Cumple / está diseñado para trabajar con:", "value": "ANSI/TIA-568 (Cat-6), ISO/IEC 11801, IEC 60603-7 (especificaciones de conectores modulares)." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS; versiones/part-numbers suelen listar cumplimiento UL / cUL según mercado y SKU." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (valor de referencia de la familia HD6)." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/HD6-24/HD6-24_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/HD6-24/HD6-24_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/HD6-24/HD6-24_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "patchpanel-HD6-48": {
+    "pageTitle": "Patch Panel 48 Puertos Cat-6 S110, negro — SIEMON HD6-48",
+    "titulo": "Patch Panel 48 Puertos Cat-6 S110, negro — SIEMON HD6-48",
+    "precio": "US$ 442",
+    "categoria": "Patch Panel",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/HD6-48_top.jpg",
+      "https://web.netperu100.com/siemon/images/HD6-48_down.jpg",
+      "https://web.netperu100.com/siemon/images/HD6-48_sid.jpg"
+    ],
+    "especificaciones": [
+      "Patch panel HD®6 de alta densidad diseñado para exceder los requisitos Category-6 (rendimiento hasta 250 MHz).",
+      "48 puertos RJ-45, montaje en rack estándar; versión con terminación S110 / 110 punch-down.",
+      "Frente limpio sin tornillos visibles y gestión trasera incluida (rear cable manager, fijaciones, labels, cable ties) para una instalación ordenada.",
+      "Diseñado para usarse con los módulos/cables MAX y MC de Siemon para completar un canal Cat-6."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Patch panel modular 48-puertos, HD®6, Category-6." },
+          { "label": "Conectividad:", "value": "48 puertos RJ-45; terminación con bloque S110 (punch-down); wiring T568A/T568B." },
+          { "label": "Dimensiones:", "value": "Montaje rack 19\" estándar; altura ≈ 2U (≈ 88.9 mm / 3.5 in)." },
+          { "label": "Peso:", "value": "No especificado públicamente (varía según configuración y accesorios)." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." },
+          { "label": "Nota práctica:", "value": "Soporta las aplicaciones de capa física definidas por IEEE 802.3 (Ethernet 10/100/1000 — y desempeño 10G depende de canal completo con componentes adecuados)." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568:", "value": "Category-6 requirements." },
+          { "label": "ISO/IEC 11801:", "value": "Cableado estructurado." },
+          { "label": "IEC 60603-7:", "value": "Especificaciones de conectores modulares." },
+          { "label": "Compatible con IEEE 802.3:", "value": "Aplicaciones Ethernet cuando se usa con jacks y cableado apropiado." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS; listado/compatibilidad UL según región/SKU (consulte ficha del SKU para detalles)." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C (valor de referencia de la familia HD6)." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/HD6-48/HD6-48_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/HD6-48/HD6-48_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/HD6-48/HD6-48_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  }
+}

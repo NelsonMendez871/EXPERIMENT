@@ -1,0 +1,507 @@
+{
+    "fibraoptica-FCP3-RACK": {
+    "pageTitle": "Bandeja de Fibra Óptica Rackeable 1RU, capacidad 3 paneles, color negro, marca SIEMON — FCP3-RACK",
+    "titulo": "Bandeja de Fibra Óptica Rackeable 1RU, capacidad 3 paneles, color negro, marca SIEMON — FCP3-RACK",
+    "precio": "US$ 115",
+    "categoria": "Bandeja de Fibra Óptica",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/FCP3-RACK_top.jpg",
+      "https://web.netperu100.com/siemon/images/FCP3-RACK_down.jpg",
+      "https://web.netperu100.com/siemon/images/FCP3-RACK_sid.jpg"
+    ],
+    "especificaciones": [
+      "Bandeja de fibra óptica rackeable de 1 unidad de rack (1RU).",
+      "Capacidad para hasta 3 paneles modulares (no incluidos).",
+      "Compatible con paneles y módulos de la serie FCP3 de SIEMON.",
+      "Construcción metálica robusta para larga durabilidad.",
+      "Acabado en color negro con recubrimiento en polvo para resistencia a la corrosión.",
+      "Compatible con bandejas fijas para una instalación estable y segura.",
+      "Diseño que facilita el manejo, organización y protección de los cables de fibra.",
+      "Ideal para centros de datos y gabinetes de telecomunicaciones."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Bandeja rackeable para fibra óptica." },
+          { "label": "Conectividad:", "value": "Soporta instalación de paneles adaptadores para conectores de fibra (LC, SC, etc., según panel)." },
+          { "label": "Dimensiones:", "value": "1RU estándar (aprox. 44 mm alto, 483 mm ancho, 280 mm profundidad)." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "EIA/ECA-310-E:", "value": "Cumple para montaje en rack de 19\"." },
+          { "label": "Compatibilidad:", "value": "ANSI/TIA-568 y ISO/IEC 11801 para infraestructura de telecomunicaciones (dependiendo de módulos instalados)." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/FCP3-RACK/FCP3-RACK_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/FCP3-RACK/FCP3-RACK_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/FCP3-RACK/FCP3-RACK_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "fibraoptica-FCP3-DWR": {
+    "pageTitle": "Bandeja de Fibra Óptica Rackeable 1RU, capacidad 3 paneles, bandeja deslizante, color negro, marca SIEMON — FCP3-DWR",
+    "titulo": "Bandeja de Fibra Óptica Rackeable 1RU, capacidad 3 paneles, bandeja deslizante, color negro, marca SIEMON — FCP3-DWR",
+    "precio": "US$ 299",
+    "categoria": "Bandeja de Fibra Óptica",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/FCP3-DWR_top.png",
+      "https://web.netperu100.com/siemon/images/FCP3-DWR_down.png",
+      "https://web.netperu100.com/siemon/images/FCP3-DWR_sid.png"
+    ],
+    "especificaciones": [
+      "Bandeja de fibra óptica rackeable de 1 unidad de rack (1RU).",
+      "Capacidad para hasta 3 paneles modulares (no incluidos).",
+      "Compatible con paneles y módulos de la serie FCP3 de SIEMON.",
+      "Bandeja deslizante que facilita el acceso frontal para instalación y mantenimiento.",
+      "Construcción metálica robusta con acabado en pintura negra en polvo para mayor durabilidad y resistencia a la corrosión.",
+      "Diseño que permite un manejo ordenado y seguro del cableado de fibra óptica.",
+      "Ideal para centros de datos, racks de telecomunicaciones y redes corporativas."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Bandeja rackeable deslizante para fibra óptica." },
+          { "label": "Conectividad:", "value": "Soporta instalación de paneles adaptadores para conectores de fibra (LC, SC, etc., según panel)." },
+          { "label": "Dimensiones:", "value": "1RU estándar (aprox. 44 mm alto, 483 mm ancho, 280 mm profundidad)." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "EIA/ECA-310-E:", "value": "Cumple para montaje en rack de 19\"." },
+          { "label": "Compatibilidad:", "value": "ANSI/TIA-568 y ISO/IEC 11801 para infraestructura de telecomunicaciones (dependiendo de módulos instalados)." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/FCP3-DWR/FCP3-DWR_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/FCP3-DWR/FCP3-DWR_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/FCP3-DWR/FCP3-DWR_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "fibraoptica-FCP3-DWR-4A": {
+    "pageTitle": "Bandeja de Fibra Óptica Rackeable 1RU High-Density, capacidad 4 paneles, bandeja deslizante, color negro, marca SIEMON — FCP3-DWR-4A",
+    "titulo": "Bandeja de Fibra Óptica Rackeable 1RU High-Density, capacidad 4 paneles, bandeja deslizante, color negro, marca SIEMON — FCP3-DWR-4A",
+    "precio": "US$ 358",
+    "categoria": "Bandeja de Fibra Óptica",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/FCP3-DWR-4A_top.jpg",
+      "https://web.netperu100.com/siemon/images/FCP3-DWR-4A_down.jpg",
+      "https://web.netperu100.com/siemon/images/FCP3-DWR-4A_sid.jpg"
+    ],
+    "especificaciones": [
+      "Bandeja de fibra óptica rackeable de alta densidad (High-Density) en formato 1 unidad de rack (1RU).",
+      "Capacidad para hasta 4 paneles modulares (no incluidos), optimizando el espacio en el rack.",
+      "Bandeja deslizante que permite un fácil acceso frontal para instalación, inspección y mantenimiento.",
+      "Estructura metálica resistente con acabado en pintura negra en polvo para mayor durabilidad y protección contra la corrosión.",
+      "Diseño de alta densidad ideal para centros de datos y racks con limitaciones de espacio.",
+      "Compatible con paneles y módulos adaptadores de la serie FCP3 de SIEMON.",
+      "Permite manejo ordenado y seguro de fibras, minimizando la pérdida óptica por curvatura."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Bandeja rackeable deslizante de alta densidad para fibra óptica." },
+          { "label": "Conectividad:", "value": "Soporta paneles adaptadores para conectores de fibra (LC, SC, etc., según panel)." },
+          { "label": "Dimensiones:", "value": "1RU estándar (aprox. 44 mm alto, 483 mm ancho, 280 mm profundidad)." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "EIA/ECA-310-E:", "value": "Cumple para montaje en rack de 19\"." },
+          { "label": "Compatibilidad:", "value": "ANSI/TIA-568 y ISO/IEC 11801 para cableado estructurado de telecomunicaciones (dependiendo de módulos instalados)." }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/FCP3-DWR-4A/FCP3-DWR-4A_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/FCP3-DWR-4A/FCP3-DWR-4A_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/FCP3-DWR-4A/FCP3-DWR-4A_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "fibraoptica-RIC-F-LC12-01C": {
+    "pageTitle": "Panel de Fibra Óptica con 6 Acopladores LC Dúplex MM/SM, color beige, marca SIEMON — RIC-F-LC12-01C",
+    "titulo": "Panel de Fibra Óptica con 6 Acopladores LC Dúplex MM/SM, color beige, marca SIEMON — RIC-F-LC12-01C",
+    "precio": "US$ 98",
+    "categoria": "Panel de Fibra Óptica",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/RIC-F-LC12-01C_top.jpg",
+      "https://web.netperu100.com/siemon/images/RIC-F-LC12-01C_down.jpg",
+      "https://web.netperu100.com/siemon/images/RIC-F-LC12-01C_sid.jpg"
+    ],
+    "especificaciones": [
+      "Panel de fibra óptica preconfigurado con 6 acopladores LC dúplex (total 12 posiciones).",
+      "Compatible con fibra multimodo (MM) y monomodo (SM), ofreciendo flexibilidad en la instalación.",
+      "Carcasa y adaptadores en color beige para identificación visual en racks y bandejas.",
+      "Montaje rápido en bandejas y chasis compatibles de la serie RIC de SIEMON.",
+      "Construcción robusta para garantizar durabilidad y estabilidad de conexión.",
+      "Reduce pérdida óptica y asegura alineación precisa de férulas.",
+      "Ideal para entornos de centros de datos, telecomunicaciones y cableado estructurado."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Panel de fibra óptica con acopladores LC dúplex." },
+          { "label": "Conectividad:", "value": "6 acopladores LC dúplex (12 puertos), MM/SM." },
+          { "label": "Dimensiones:", "value": "Compatible con bandejas estándar RIC (aprox. 130 mm × 35 mm)." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica (componente pasivo)." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568:", "value": "" },
+          { "label": "ISO/IEC 11801:", "value": "" },
+          { "label": "IEC 61754-20 (interfaz LC):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/RIC-F-LC12-01C/RIC-F-LC12-01C_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/RIC-F-LC12-01C/RIC-F-LC12-01C_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/RIC-F-LC12-01C/RIC-F-LC12-01C_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "fibraoptica-RIC-F-BLNK-01": {
+    "pageTitle": "Panel Ciego para Bandeja de Fibra Óptica, marca SIEMON — RIC-F-BLNK-01",
+    "titulo": "Panel Ciego para Bandeja de Fibra Óptica, marca SIEMON — RIC-F-BLNK-01",
+    "precio": "US$ 4.6",
+    "categoria": "Panel de Fibra Óptica",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/RIC-F-BLNK-01_top.jpg",
+      "https://web.netperu100.com/siemon/images/RIC-F-BLNK-01_down.jpg",
+      "https://web.netperu100.com/siemon/images/RIC-F-BLNK-01_sid.jpg"
+    ],
+    "especificaciones": [
+      "Panel ciego diseñado para cubrir posiciones no utilizadas en bandejas y chasis de fibra óptica.",
+      "Ayuda a mantener la organización y estética del rack.",
+      "Evita la acumulación de polvo y la entrada de contaminantes en puertos vacíos.",
+      "Compatible con bandejas y chasis de la serie RIC de SIEMON.",
+      "Instalación rápida y sin necesidad de herramientas especiales.",
+      "Fabricado en material resistente para uso en entornos de telecomunicaciones y centros de datos."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Panel ciego para bandeja de fibra óptica." },
+          { "label": "Conectividad:", "value": "No aplica (componente pasivo sin puertos)." },
+          { "label": "Dimensiones:", "value": "Compatible con módulos estándar RIC (aprox. 130 mm × 35 mm)." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568:", "value": "" },
+          { "label": "ISO/IEC 11801:", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/RIC-F-BLNK-01/RIC-F-BLNK-01_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/RIC-F-BLNK-01/RIC-F-BLNK-01_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/RIC-F-BLNK-01/RIC-F-BLNK-01_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "fibraoptica-RIC-F-LC16-01C": {
+    "pageTitle": "Panel de Fibra Óptica con 8 Acopladores LC Duplex, color beige, marca SIEMON — RIC-F-LC16-01C",
+    "titulo": "Panel de Fibra Óptica con 8 Acopladores LC Duplex, color beige, marca SIEMON — RIC-F-LC16-01C",
+    "precio": "US$ 179",
+    "categoria": "Panel de Fibra Óptica",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/RIC-F-LC16-01C_top.jpeg",
+      "https://web.netperu100.com/siemon/images/RIC-F-LC16-01C_down.jpeg",
+      "https://web.netperu100.com/siemon/images/RIC-F-LC16-01C_sid.jpeg"
+    ],
+    "especificaciones": [
+      "Panel de fibra óptica preinstalado con 8 acopladores LC dúplex para conexiones multimodo o monomodo.",
+      "Compatible con bandejas y chasis de la serie RIC de SIEMON.",
+      "Diseño modular para facilitar la instalación, mantenimiento y reorganización de enlaces de fibra.",
+      "Ideal para aplicaciones de alta densidad en centros de datos y redes de telecomunicaciones.",
+      "Fabricado en materiales de alta calidad para garantizar durabilidad y estabilidad mecánica.",
+      "Color beige para fácil identificación de tipo de fibra según estándares."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Panel de fibra óptica con acopladores LC dúplex." },
+          { "label": "Conectividad:", "value": "16 puertos LC (8 acopladores LC dúplex)." },
+          { "label": "Dimensiones:", "value": "Compatible con módulo estándar RIC (aprox. 130 mm × 35 mm)." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568:", "value": "" },
+          { "label": "ISO/IEC 11801:", "value": "" },
+          { "label": "IEC 61754-20 (interfaz de conector LC):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/RIC-F-LC16-01C/RIC-F-LC16-01C_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/RIC-F-LC16-01C/RIC-F-LC16-01C_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/RIC-F-LC16-01C/RIC-F-LC16-01C_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  },
+  "fibraoptica-RIC-F-LC24-01C": {
+    "pageTitle": "Panel de Fibra Óptica con 12 Acopladores LC Duplex, color beige, marca SIEMON — RIC-F-LC24-01C",
+    "titulo": "Panel de Fibra Óptica con 12 Acopladores LC Duplex, color beige, marca SIEMON — RIC-F-LC24-01C",
+    "precio": "US$ 223",
+    "categoria": "Panel de Fibra Óptica",
+    "imagenes": [
+      "https://web.netperu100.com/siemon/images/RIC-F-LC24-01C_top.jpg",
+      "https://web.netperu100.com/siemon/images/RIC-F-LC24-01C_down.jpg",
+      "https://web.netperu100.com/siemon/images/RIC-F-LC24-01C_sid.jpg"
+    ],
+    "especificaciones": [
+      "Panel de fibra óptica equipado con 12 acopladores LC dúplex para aplicaciones multimodo o monomodo.",
+      "Diseñado para instalarse en bandejas y chasis de la serie RIC de SIEMON.",
+      "Construcción modular que permite una instalación, sustitución y mantenimiento rápidos.",
+      "Soporte para despliegues de alta densidad en entornos de telecomunicaciones y centros de datos.",
+      "Fabricado con materiales de alta resistencia para mayor durabilidad y estabilidad mecánica.",
+      "Color beige conforme a la codificación estándar de tipo de fibra."
+    ],
+    "detalles": [
+      {
+        "titulo": "Especificaciones Técnicas",
+        "items": [
+          { "label": "Tipo de dispositivo:", "value": "Panel de fibra óptica con acopladores LC dúplex." },
+          { "label": "Conectividad:", "value": "24 puertos LC (12 acopladores LC dúplex)." },
+          { "label": "Dimensiones:", "value": "Compatible con módulo estándar RIC (aprox. 130 mm × 35 mm)." },
+          { "label": "Peso:", "value": "No especificado por el fabricante." }
+        ]
+      },
+      {
+        "titulo": "Protocolos Soportados",
+        "items": [
+          { "label": "Protocolo de direccionamiento:", "value": "No aplica." },
+          { "label": "Protocolo de gestión remota:", "value": "No aplica." }
+        ]
+      },
+      {
+        "titulo": "Cumplimiento de Normas",
+        "items": [
+          { "label": "ANSI/TIA-568:", "value": "" },
+          { "label": "ISO/IEC 11801:", "value": "" },
+          { "label": "IEC 61754-20 (interfaz de conector LC):", "value": "" }
+        ]
+      },
+      {
+        "titulo": "Certificaciones y Ambiente",
+        "items": [
+          { "label": "Certificaciones:", "value": "RoHS." },
+          { "label": "Temperatura de operación:", "value": "–10 °C a 60 °C." }
+        ]
+      }
+    ],
+    "descargas": [
+      {
+        "tipo": "Ficha técnica ",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/RIC-F-LC24-01C/RIC-F-LC24-01C_ds.pdf",
+        "icono": "fas fa-file-pdf",
+        "color": "text-red-500"
+      },
+      {
+        "tipo": "Manual",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/RIC-F-LC24-01C/RIC-F-LC24-01C_manual.pdf",
+        "icono": "fas fa-book-open",
+        "color": "text-blue-500"
+      },
+      {
+        "tipo": "Especificaciones",
+        "url": "https://nelsonmendez871.github.io/MULTIMEDIA/Pdf/RIC-F-LC24-01C/RIC-F-LC24-01C_specs.pdf",
+        "icono": "fas fa-file-alt",
+        "color": "text-green-500"
+      }
+    ]
+  }
+}

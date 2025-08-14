@@ -1,4 +1,4 @@
-﻿<html lang="es">
+<html lang="es">
 
 <head>
   <meta charset="UTF-8" />
@@ -124,9 +124,9 @@
       <span>&gt;</span>
       <a href="/EXPERIMENT/productos/cables/" class="font-semibold text-blue-900 hover:underline">SIEMON</a>
       <span>&gt;</span>
-      <a href="https://nelsonmendez871.github.io/EXPERIMENT/" class="font-semibold hover:underline">Productos SIEMON</a>
+      <a href="https://nelsonmendez871.github.io/EXPERIMENT/precios_fibraoptica.html" class="font-semibold hover:underline">Fibra óptica</a>
       <span>&gt;</span>
-      <span class="text-blue-900 font-bold">Productos SIEMON</span>
+      <span class="text-blue-900 font-bold">Fibra óptica SIEMON</span>
     </nav>
 
     <!-- CONTENT DE 3 COMULNAS SIDEBAR DERECHO - IZQUIERDO Y INFORMACION DE PRODUCTO -->
@@ -165,10 +165,12 @@
         <!-- CONTENIDO PRINCIPAL DE PRODUCTOS (siempre visible) -->
 
         <div class="w-full lg:w-4/6 bg-white rounded-lg shadow p-4">
-          <h2 class="text-2xl font-bold text-center mb-4 text-blue-900">Lista de productos SIEMON</h2>
-          <div class="mb-2"></div>
+          <h2 class="text-2xl font-bold text-center mb-4 text-blue-900">Lista de precios de fibra óptica SIEMON</h2>
+          <div class="mb-2 text-sm text-gray-700 font-semibold bg-blue-50 border border-blue-200 rounded px-3 py-2 flex items-center gap-2">
+            <!-- Mensaje eliminado, se agregará al final de la tabla -->
+          </div>
           <div class="overflow-x-auto">
-            <table class="min-w-full border border-blue-200 rounded-lg shadow-lg text-sm bg-white" id="tabla-siemon">
+            <table class="min-w-full border border-blue-200 rounded-lg shadow-lg text-sm bg-white" id="tabla-fibraoptica">
               <colgroup>
                 <col style="width: 120px;">
                 <col style="width: 340px;">
@@ -183,7 +185,7 @@
                   <th class="border border-blue-200 px-4 py-3 font-semibold text-center">Precio</th>
                 </tr>
               </thead>
-              <tbody id="tabla-siemon-body">
+              <tbody id="tabla-fibraoptica-body">
                 <!-- Aquí se insertan las filas dinámicamente -->
               </tbody>
             </table>
@@ -288,122 +290,78 @@
 
   <!-- Script para llenar la tabla de precios de cables SIEMON -->
   <script>
-    // Categorías y archivos para cada tipo de producto
-    const fuentes = [
-      {
-        archivo: 'data/cables.json',
-        categorias: [
-          { nombre: 'Cables Cat 5E', match: 'cat 5e' },
-          { nombre: 'Cables Cat 6', match: 'cat 6' },
-          { nombre: 'Cables Cat 6A', match: 'cat 6a' },
-          { nombre: 'Cables Cat 7A', match: 'cat 7a' }
-        ],
-        prefix: 'cable-',
-        folder: 'cables'
-      },
-      {
-        archivo: 'data/fibraoptica.json',
-        categorias: [
-          { nombre: 'Bandeja de Fibra Óptica', match: 'bandeja' },
-          { nombre: 'Panel de Fibra Óptica', match: 'panel' }
-        ],
-        prefix: 'fibraoptica-',
-        folder: 'fibraoptica'
-      },
-      {
-        archivo: 'data/jack.json',
-        categorias: [
-          { nombre: 'Jack RJ-45 Cat5', match: 'cat5' },
-          { nombre: 'Jack RJ-45 Cat6', match: 'cat6' },
-          { nombre: 'Jack RJ-45 Cat6A', match: 'cat6a' }
-        ],
-        prefix: 'jack-',
-        folder: 'jack',
-        matchFn: (categoria, match) => (categoria + '').toLowerCase().replace(/\s/g,'').includes(match)
-      },
-      {
-        archivo: 'data/patchcord.json',
-        categorias: [
-          { nombre: 'Patch Cord UTP Cat 5e', match: 'cat 5e' },
-          { nombre: 'Patch Cord UTP Cat 6', match: 'cat 6' },
-          { nombre: 'Patch Cord UTP Cat 6A', match: 'cat 6a' }
-        ],
-        prefix: 'patchcord-',
-        folder: 'patchcord'
-      },
-      {
-        archivo: 'data/patchpanel.json',
-        categorias: [
-          { nombre: 'Patch Panel', match: 'patch panel' }
-        ],
-        prefix: 'patchpanel-',
-        folder: 'patchpanel'
-      }
+    // Categorías válidas para fibra óptica y su orden de aparición
+    const categoriasFibra = [
+      { nombre: 'Bandeja de Fibra Óptica', match: 'bandeja' },
+      { nombre: 'Panel de Fibra Óptica', match: 'panel' }
     ];
 
+    // Función para extraer el número del precio (ej: "US$ 153" -> 153)
     function extraerPrecio(precioStr) {
       if (!precioStr) return Infinity;
       const match = precioStr.replace(/[^\d.]/g, '');
       return parseFloat(match) || Infinity;
     }
 
-    async function cargarTodo() {
-      const tbody = document.getElementById('tabla-siemon-body');
-      tbody.innerHTML = '';
-      for (const fuente of fuentes) {
-        const res = await fetch(fuente.archivo);
-        const data = await res.json();
+    // Cargar y renderizar la tabla de fibra óptica
+    fetch('data/fibraoptica.json')
+      .then(res => res.json())
+      .then(data => {
+        // Convertir el objeto en array de productos
         const productos = Object.entries(data).map(([key, prod]) => ({ ...prod, key }));
-        for (const cat of fuente.categorias) {
-          // Filtrar productos de la categoría
-          let productosCat;
-          if (fuente.matchFn) {
-            productosCat = productos.filter(p => fuente.matchFn(p.categoria || '', cat.match));
-          } else {
-            productosCat = productos.filter(p => (p.categoria || '').toLowerCase().includes(cat.match));
-          }
-          if (productosCat.length > 0) {
-            // Fila de categoría (separador)
-            const trCat = document.createElement('tr');
-            trCat.innerHTML = `<td colspan="4" class="border border-blue-900 text-center font-bold bg-gradient-to-r from-gray-900 via-blue-900 to-gray-800 text-white text-lg tracking-wide shadow-md">${cat.nombre}</td>`;
-            tbody.appendChild(trCat);
-            // Filas de productos de la categoría
-            productosCat
-              .sort((a, b) => extraerPrecio(a.precio) - extraerPrecio(b.precio))
-              .forEach((prod, i) => {
-                const img = prod.imagenes && prod.imagenes[0] ? `<img src="${prod.imagenes[0]}" alt="${prod.key}" class="h-20 w-20 object-contain mx-auto rounded shadow border border-blue-100 bg-white" />` : '';
-                const modelo = prod.key.replace(fuente.prefix, '');
-                const link = `productos/${fuente.folder}/${prod.key}.html`;
-                const fila = document.createElement('tr');
-                fila.className = (i % 2 === 0 ? 'bg-white' : 'bg-blue-50') + ' hover:bg-blue-100 transition-colors';
-                // Formatear el precio: U$ 7.20
-                let precioFormateado = '';
-                if (prod.precio) {
-                  let num = parseFloat(prod.precio.replace(/[^\d.]/g, ''));
-                  if (!isNaN(num)) {
-                    precioFormateado = `U$  ${num.toFixed(2)}`;
-                  } else {
-                    precioFormateado = prod.precio;
-                  }
-                }
-                fila.innerHTML = `
-                  <td class="border border-blue-200 px-2 py-3 text-center align-middle">${img}</td>
-                  <td class="border border-blue-200 px-2 py-3 align-middle">${prod.titulo || ''}</td>
-                  <td class="border border-blue-200 px-2 py-3 text-center align-middle"><a href="${link}" class="text-blue-700 hover:underline font-semibold">${modelo}</a></td>
-                  <td class="border border-blue-200 px-2 py-3 text-center align-middle font-bold">${precioFormateado}</td>
-                `;
-                tbody.appendChild(fila);
-              });
-          }
-        }
-      }
-      // Mensaje al final de la tabla
-      const trNota = document.createElement('tr');
-      trNota.innerHTML = `<td colspan="4" class="border-t border-blue-300 bg-gradient-to-r from-blue-50 via-white to-blue-100 text-center py-3 text-base font-semibold text-blue-900 rounded-b-lg shadow-md"><i class='fas fa-info-circle text-blue-600 mr-2'></i>Los precios son en dólares, no incluyen IGV</td>`;
-      tbody.appendChild(trNota);
-    }
 
-    window.addEventListener('DOMContentLoaded', cargarTodo);
+        // Agrupar productos por categoría
+        const productosPorCategoria = {};
+        categoriasFibra.forEach(cat => {
+          productosPorCategoria[cat.nombre] = productos.filter(prod => (prod.categoria || '').toLowerCase().includes(cat.match));
+        });
+
+        // Renderizar filas
+        const tbody = document.getElementById('tabla-fibraoptica-body');
+        tbody.innerHTML = '';
+        categoriasFibra.forEach((cat, idx) => {
+          // Fila de categoría (separador) con fondo oscuro y texto claro
+          const trCat = document.createElement('tr');
+          trCat.innerHTML = `<td colspan="4" class="border border-blue-900 text-center font-bold bg-gradient-to-r from-gray-900 via-blue-900 to-gray-800 text-white text-lg tracking-wide shadow-md">${cat.nombre}</td>`;
+          tbody.appendChild(trCat);
+
+          // Filas de productos de la categoría
+          productosPorCategoria[cat.nombre]
+            .sort((a, b) => extraerPrecio(a.precio) - extraerPrecio(b.precio))
+            .forEach((prod, i) => {
+              const img = prod.imagenes && prod.imagenes[0] ? `<img src="${prod.imagenes[0]}" alt="${prod.key}" class="h-20 w-20 object-contain mx-auto rounded shadow border border-blue-100 bg-white" />` : '';
+              const modelo = prod.key.replace('fibraoptica-', '');
+              const link = `productos/fibraoptica/${prod.key}.html`;
+              const fila = document.createElement('tr');
+              fila.className = (i % 2 === 0 ? 'bg-white' : 'bg-blue-50') + ' hover:bg-blue-100 transition-colors';
+              // Formatear el precio: U$  7.20
+              let precioFormateado = '';
+              if (prod.precio) {
+                let num = parseFloat(prod.precio.replace(/[^\d.]/g, ''));
+                if (!isNaN(num)) {
+                  precioFormateado = `U$  ${num.toFixed(2)}`;
+                } else {
+                  precioFormateado = prod.precio;
+                }
+              }
+              fila.innerHTML = `
+                <td class="border border-blue-200 px-2 py-3 text-center align-middle">${img}</td>
+                <td class="border border-blue-200 px-2 py-3 align-middle">${prod.titulo || ''}</td>
+                <td class="border border-blue-200 px-2 py-3 text-center align-middle"><a href="${link}" class="text-blue-700 hover:underline font-semibold">${modelo}</a></td>
+                <td class="border border-blue-200 px-2 py-3 text-center align-middle font-bold">${precioFormateado}</td>
+              `;
+              tbody.appendChild(fila);
+            });
+        });
+        // Mensaje al final de la tabla
+        const trNota = document.createElement('tr');
+        trNota.innerHTML = `<td colspan="4" class="border-t border-blue-300 bg-gradient-to-r from-blue-50 via-white to-blue-100 text-center py-3 text-base font-semibold text-blue-900 rounded-b-lg shadow-md"><i class='fas fa-info-circle text-blue-600 mr-2'></i>Los precios son en dólares, no incluyen IGV</td>`;
+        tbody.appendChild(trNota);
+      })
+      .catch(err => {
+        document.getElementById('tabla-fibraoptica-body').innerHTML = '<tr><td colspan="4" class="text-center text-red-500">No se pudo cargar la lista de precios.</td></tr>';
+        console.error('Error cargando fibraoptica.json:', err);
+      });
   </script>
 
 
