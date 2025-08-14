@@ -110,59 +110,35 @@
     });
   </script>
 
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      // Espera a que el navbar esté en el DOM
-      const esperarNavbar = setInterval(() => {
-        // Busca el menú móvil por clase o id (ajusta si tu navbar dinámico usa otra clase)
-        const mobileMenu = document.getElementById('mobile-menu');
-        if (mobileMenu) {
-          clearInterval(esperarNavbar);
-          // Busca el contenedor de enlaces (puede ser un div o ul)
-          const enlacesContainer = mobileMenu.querySelector('.flex.flex-wrap.justify-start.gap-2');
-          if (enlacesContainer) {
-            enlacesContainer.innerHTML = `
-              <a href="https://nelsonmendez871.github.io/EXPERIMENT/precios_cables.html" class="border-b w-full block py-2 font-medium text-blue-500 hover:text-blue-600 transition-colors duration-200 text-sm md:text-base">Cables</a>
-              <a href="https://nelsonmendez871.github.io/EXPERIMENT/precios_fibraoptica.html" class="border-b w-full block py-2 font-medium text-blue-500 hover:text-blue-600 transition-colors duration-200 text-sm md:text-base">Fibra Óptica</a>
-              <a href="https://nelsonmendez871.github.io/EXPERIMENT/precios_jack.html" class="border-b w-full block py-2 font-medium text-blue-500 hover:text-blue-600 transition-colors duration-200 text-sm md:text-base">Jack</a>
-              <a href="https://nelsonmendez871.github.io/EXPERIMENT/precios_patchcord.html" class="border-b w-full block py-2 font-medium text-blue-500 hover:text-blue-600 transition-colors duration-200 text-sm md:text-base">Patch Cord</a>
-              <a href="https://nelsonmendez871.github.io/EXPERIMENT/precios_patchpanel.html" class="border-b w-full block py-2 font-medium text-blue-500 hover:text-blue-600 transition-colors duration-200 text-sm md:text-base">Patch Panel</a>
-            `;
-          }
-        }
-      }, 100);
-    });
-  </script>
-
   <!-- SUBMENU DE MARCA DEPENDIENDO DEL PRODUCTO -->
   <nav class="bg-white border-b border-gray-200 shadow-sm">
       <div class="relative">
         <div class="nav-container flex justify-evenly overflow-x-auto md:py-2 px-4 space-x-2 scrollbar-hide">
-          <a href="#" class="nav-item flex items-center p-1.5 rounded-lg min-w-fit flex-shrink-0 space-x-1.5">
+          <a href="https://nelsonmendez871.github.io/EXPERIMENT/precios_cables.html" class="nav-item flex items-center p-1.5 rounded-lg min-w-fit flex-shrink-0 space-x-1.5">
             <div class="icon-container h-6 w-6 flex items-center justify-center">
               <img src="/EXPERIMENT/icons/cables.jpg" class="nav-icon max-h-full max-w-full" alt="Cables" />
             </div>
             <span class="text-xs font-medium text-gray-600 whitespace-nowrap">Cables</span>
           </a>
-          <a href="#" class="nav-item flex items-center p-1.5 rounded-lg min-w-fit flex-shrink-0 space-x-1.5">
+          <a href="https://nelsonmendez871.github.io/EXPERIMENT/precios_patchcord.html" class="nav-item flex items-center p-1.5 rounded-lg min-w-fit flex-shrink-0 space-x-1.5">
             <div class="icon-container h-6 w-6 flex items-center justify-center">
               <img src="/EXPERIMENT/icons/PatchCord.jpg" class="nav-icon max-h-full max-w-full" alt="Patch Cord" />
             </div>
             <span class="text-xs font-medium text-gray-600 whitespace-nowrap">Patch cord</span>
           </a>
-          <a href="#" class="nav-item flex items-center p-1.5 rounded-lg min-w-fit flex-shrink-0 space-x-1.5">
+          <a href="https://nelsonmendez871.github.io/EXPERIMENT/precios_jack.html" class="nav-item flex items-center p-1.5 rounded-lg min-w-fit flex-shrink-0 space-x-1.5">
             <div class="icon-container h-6 w-6 flex items-center justify-center">
               <img src="/EXPERIMENT/icons/Jack.jpg" class="nav-icon max-h-full max-w-full" alt="Jack" />
             </div>
             <span class="text-xs font-medium text-gray-600 whitespace-nowrap">Jack</span>
           </a>
-          <a href="#" class="nav-item flex items-center p-1.5 rounded-lg min-w-fit flex-shrink-0 space-x-1.5">
+          <a href="https://nelsonmendez871.github.io/EXPERIMENT/precios_fibraoptica.html" class="nav-item flex items-center p-1.5 rounded-lg min-w-fit flex-shrink-0 space-x-1.5">
             <div class="icon-container h-6 w-6 flex items-center justify-center">
               <img src="/EXPERIMENT/icons/FibraOptica.jpg" class="nav-icon max-h-full max-w-full" alt="Fibra óptica" />
             </div>
             <span class="text-xs font-medium text-gray-600 whitespace-nowrap">Fibra óptica</span>
           </a>
-          <a href="#" class="nav-item flex items-center p-1.5 rounded-lg min-w-fit flex-shrink-0 space-x-1.5">
+          <a href="https://nelsonmendez871.github.io/EXPERIMENT/precios_patchpanel.html" class="nav-item flex items-center p-1.5 rounded-lg min-w-fit flex-shrink-0 space-x-1.5">
             <div class="icon-container h-6 w-6 flex items-center justify-center">
               <img src="/EXPERIMENT/icons/PatchPanel.jpg" class="nav-icon max-h-full max-w-full" alt="PatchPanel" />
             </div>
