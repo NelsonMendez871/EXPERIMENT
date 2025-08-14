@@ -24,59 +24,34 @@
 </head>
 
 <body>
-  <!-- NAVBAR PRINCIPAL -->
-  <nav class="bg-white w-full shadow-md border">
-    <div class="container mx-auto px-4">
-      <!-- Desktop Navbar -->
-      <div class="hidden lg:flex justify-between items-center py-4">
-        <!-- Logo y nombre -->
-        <div class="flex items-center">
-          <img
-            src="https://www.ds3comunicaciones.com/mikrotik/images/Logo1.jpg"
-            alt="NetPeru Logo"
-            class="h-12 mr-3"
-          />
-        </div>
-        <!-- Info de contacto -->
-        <div class="flex space-x-8 text-black">
-          <div class="flex items-center">
-            <i class="fas fa-phone-alt mr-2 text-black "></i>
-            <div>
-              <p class="text-sm font-bold">533-4339</p>
-              <p class="text-sm font-bold">994-428-965</p>
-            </div>
-          </div>
-          <div class="flex items-center">
-            <i class="fas fa-phone-alt mr-2 text-black "></i>
-            <div>
-              <p class="text-sm font-bold">99653-3223</p>
-              <p class="text-sm font-bold">937-514-867</p>
-            </div>
-          </div>
-          <div class="flex items-center">
-            <i class="fas fa-envelope mr-2 text-black "></i>
-            <span class="text-sm font-bold">netperu100@hotmail.com</span>
-          </div>
-          <div class="flex items-center">
-            <i class="fas fa-map-marker-alt mr-2 text-black "></i>
-            <span class="text-sm font-bold">Lima, PERÚ</span>
-          </div>
-          <div>
-            <img src="https://www.ds3comunicaciones.com/cisco/images/cisco-gif.gif" alt="cisco" class="h-10" />
-          </div>
-        </div>
-        <!-- Botón de búsqueda -->
-        <div class="flex items-center">
-          <button
-            id="search-button"
-            class="p-2 rounded-full hover:bg-gray-100 transition-colors"
-          >
-            <i class="fas fa-search text-black"></i>
-          </button>
-        </div>
-      </div>
-    </div>
-  </nav>
+  <!-- NAVBAR DINÁMICO -->
+  <div id="navbar-placeholder"></div>
+  <script src="js/nav.js"></script>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      // Espera a que el navbar esté en el DOM
+      const esperarNavbar = setInterval(() => {
+        // Busca el menú móvil por clase o id (ajusta si tu navbar dinámico usa otra clase)
+        const mobileMenu = document.getElementById('mobile-menu');
+        if (mobileMenu) {
+          clearInterval(esperarNavbar);
+          // Busca el contenedor de enlaces (puede ser un div o ul)
+          const enlacesContainer = mobileMenu.querySelector('.flex.flex-wrap.justify-start.gap-2');
+          if (enlacesContainer) {
+            enlacesContainer.innerHTML = `
+              <a href="https://nelsonmendez871.github.io/EXPERIMENT/precios_cables.html" class="border-b w-full block py-2 font-medium text-blue-500 hover:text-blue-600 transition-colors duration-200 text-sm md:text-base">Cables</a>
+              <a href="https://nelsonmendez871.github.io/EXPERIMENT/precios_fibraoptica.html" class="border-b w-full block py-2 font-medium text-blue-500 hover:text-blue-600 transition-colors duration-200 text-sm md:text-base">Fibra Óptica</a>
+              <a href="https://nelsonmendez871.github.io/EXPERIMENT/precios_jack.html" class="border-b w-full block py-2 font-medium text-blue-500 hover:text-blue-600 transition-colors duration-200 text-sm md:text-base">Jack</a>
+              <a href="https://nelsonmendez871.github.io/EXPERIMENT/precios_patchcord.html" class="border-b w-full block py-2 font-medium text-blue-500 hover:text-blue-600 transition-colors duration-200 text-sm md:text-base">Patch Cord</a>
+              <a href="https://nelsonmendez871.github.io/EXPERIMENT/precios_patchpanel.html" class="border-b w-full block py-2 font-medium text-blue-500 hover:text-blue-600 transition-colors duration-200 text-sm md:text-base">Patch Panel</a>
+            `;
+          }
+        }
+      }, 100);
+    });
+  </script>
+
   <!-- SUBMENU DE MARCA DEPENDIENDO DEL PRODUCTO -->
   <nav class="bg-white border-b border-gray-200 shadow-sm">
       <div class="relative">
@@ -405,8 +380,5 @@
 
     window.addEventListener('DOMContentLoaded', cargarTodo);
   </script>
-
-
 </body>
-
 </html>
